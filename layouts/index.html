@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main class="main-container">
+  <article class="main-article">
+    <header class="article-header">
+      <h1 class="article-title">{{ .Title }}</h1>
+    </header>
+
+    <section class="article-content">
+      {{ .Content }}
+    </section>
+
+    {{ $posts := where site.RegularPages "Section" "blog" }}
+    {{ if gt (len $posts) 0 }}
+      <hr />
+      <h2>Latest posts</h2>
+      <ul>
+        {{ range first 10 $posts }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </article>
+</main>
+{{ end }}
