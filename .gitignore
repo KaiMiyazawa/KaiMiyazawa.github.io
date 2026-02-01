@@ -1,2 +1,10 @@
 /public/
 /resources/
+
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Local backups
+layouts/_backup/
