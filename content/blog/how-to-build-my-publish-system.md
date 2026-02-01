@@ -1,6 +1,6 @@
 ---
 title: "Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤"
-date: 2026-02-02
+date: 2026-02-02T03:00:00+09:00
 tags: ["Hugo", "Obsidian", "GitHub Pages", "Knowledge Base"]
 draft: false
 ---
