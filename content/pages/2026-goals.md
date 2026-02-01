@@ -1,3 +1,9 @@
+---
+title: "2026年にやりたいこと100"
+slug: "2026-goals"
+draft: false
+---
+
 # 2026年にやりたいこと100
 
 https://github.com/KaiMiyazawa/KaiMiyazawa.github.io/tree/main
