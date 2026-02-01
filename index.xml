@@ -1,1 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kai Miyazawa on miyazawakai.com</title><link>https://miyazawakai.com/</link><description>Recent content in Kai Miyazawa on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 02:53:02 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://miyazawakai.com/blog/hello/</link><pubDate>Mon, 02 Feb 2026 02:53:02 +0900</pubDate><guid>https://miyazawakai.com/blog/hello/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kai Miyazawa on miyazawakai.com</title><link>https://miyazawakai.com/</link><description>Recent content in Kai Miyazawa on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 03:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤</title><link>https://miyazawakai.com/blog/how-to-build-my-publish-system/</link><pubDate>Mon, 02 Feb 2026 03:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/how-to-build-my-publish-system/</guid><description>&lt;h2 id="はじめに"&gt;はじめに
+&lt;/h2&gt;&lt;p&gt;日記・メモ・技術ノートは Obsidian で書く。
+でも「公開」は面倒で続かない──。&lt;/p&gt;
+&lt;p&gt;そんな状態を抜け出すために、&lt;strong&gt;Obsidian → Hugo → GitHub Pages&lt;/strong&gt; という流れで、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ローカルでは私的な知識基盤、必要なものだけを“そのまま”公開できる&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;仕組みをゼロから構築した。(もちろんChatGPTが！)&lt;/p&gt;
+&lt;p&gt;この記事は、その&lt;strong&gt;設計思想・ディレクトリ構成・ハマりどころ&lt;/strong&gt;まで含めた記録です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ゴール設定"&gt;ゴール設定
+&lt;/h2&gt;&lt;p&gt;今回のゴールは明確でした。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Obsidian で普段どおり Markdown を書く&lt;/li&gt;
+&lt;li&gt;公開したいものだけを明示的に切り出す&lt;/li&gt;
+&lt;li&gt;GitHub に push するだけで自動で公開される&lt;/li&gt;
+&lt;li&gt;ローカル知識（非公開）は絶対に漏れない&lt;/li&gt;
+&lt;li&gt;将来構成を拡張しても壊れない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;WordPress のような CMS は使わない。
+&lt;strong&gt;「書く体験」を壊さないこと&lt;/strong&gt;を最優先にしました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="全体構成最終形"&gt;全体構成（最終形）
+&lt;/h2&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Obsidian/
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 01_diary # 完全非公開の日記
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 02_note # 非公開ノート
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 03_hobby
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 04_misc
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 79_template # Obsidian用テンプレ集
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 89_profile # GitHub Profile（submodule）
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 99_public # 公開サイト（submodule/Hugo）
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;└── ...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;ポイントは &lt;strong&gt;99_public だけが「公開境界」&lt;/strong&gt; であること。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜ-obsidian-vault-をそのまま公開しないのか"&gt;なぜ Obsidian Vault をそのまま公開しないのか
+&lt;/h2&gt;&lt;p&gt;Obsidian の Publish 機能も検討したが、以下の理由で採用しなかった。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;月額課金が必要&lt;/li&gt;
+&lt;li&gt;公開粒度の制御が弱い&lt;/li&gt;
+&lt;li&gt;将来の移行コストが高い&lt;/li&gt;
+&lt;li&gt;GitHubをどうにかすれば自分でも無料で実現できそうだった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そこで、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Vault 全体はローカル管理、公開物だけを submodule で分離&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;という設計を取った。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="99_public-を-submodule-にする"&gt;99_public を submodule にする
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;99_public&lt;/code&gt; は、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Pages 用リポジトリ&lt;/li&gt;
+&lt;li&gt;Hugo プロジェクト&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;を兼ねている。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;99_public/
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── content
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;│ ├── blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;│ └── pages
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── layouts
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── static
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── themes
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;└── config.toml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;親の Obsidian Vault から見ると、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;99_public は「外に出る箱」&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;として明確に分離されている。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="blog--pages-の役割分離"&gt;blog / pages の役割分離
+&lt;/h2&gt;&lt;h3 id="blog"&gt;blog/
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;日記の延長&lt;/li&gt;
+&lt;li&gt;技術記事&lt;/li&gt;
+&lt;li&gt;時系列で流れて良いもの&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="pages"&gt;pages/
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;About&lt;/li&gt;
+&lt;li&gt;目標&lt;/li&gt;
+&lt;li&gt;プロジェクト概要&lt;/li&gt;
+&lt;li&gt;URL を固定したいもの&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;迷ったらこの基準で判断する。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1年後も同じ URL で見せたいか？&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="hugo-テーマstack-を選んだ理由"&gt;Hugo テーマ：Stack を選んだ理由
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;ダークモードが最初から美しい&lt;/li&gt;
+&lt;li&gt;情報密度が高い&lt;/li&gt;
+&lt;li&gt;技術ブログと相性が良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ただし &lt;strong&gt;Stack は構造前提がかなり厳しい&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;article-page&lt;/code&gt; / &lt;code&gt;main-article&lt;/code&gt; / &lt;code&gt;article-content&lt;/code&gt; を崩すと、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ダークモードで文字が黒くなる&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;という罠にハマった。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="トップページが一番の難所だった"&gt;トップページが一番の難所だった
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;content/_index.md&lt;/code&gt; を書いただけでは、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;余白が変&lt;/li&gt;
+&lt;li&gt;ダークモードが壊れる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;という状態になった。&lt;/p&gt;
+&lt;p&gt;最終的にたどり着いたのは、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;トップページも single.html と同じ partial で描画する&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;という解決策。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{ partial &amp;#34;article/article.html&amp;#34; . }}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stack の設計思想に逆らわないように、何とかお膳立てしたらどうにかなりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="build成果物は-git-管理しない"&gt;build成果物は Git 管理しない
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code class="language-gitignore" data-lang="gitignore"&gt;public/
+resources/_gen/
+.hugo_build.lock
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;public/&lt;/code&gt; は毎回生成&lt;/li&gt;
+&lt;li&gt;GitHub Actions が deploy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;という責務分離にしたことで、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ローカルと本番がズレない&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;状態を維持できている。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="この構成の良いところ"&gt;この構成の良いところ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;書く場所は 1 つ（Obsidian）&lt;/li&gt;
+&lt;li&gt;公開境界が明確&lt;/li&gt;
+&lt;li&gt;破壊的変更が起きにくい&lt;/li&gt;
+&lt;li&gt;将来 LLM や検索と相性が良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;正直、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;個人ブログとしては完成形にかなり近い&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;と感じている。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="おわりに"&gt;おわりに
+&lt;/h2&gt;&lt;p&gt;この構成を作って一番良かったのは、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「公開するかどうか」を&lt;strong&gt;書く時点で悩まなくなった&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ことです。&lt;/p&gt;
+&lt;p&gt;まず書く。必要になったら public に移す。&lt;/p&gt;
+&lt;p&gt;この距離感が、個人のアウトプットを長く続ける良いポイントになるんでわ？と思ってる。&lt;/p&gt;</description></item><item><title>Hello</title><link>https://miyazawakai.com/blog/hello/</link><pubDate>Mon, 02 Feb 2026 02:53:02 +0900</pubDate><guid>https://miyazawakai.com/blog/hello/</guid><description/></item></channel></rss>
