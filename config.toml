@@ -1,0 +1,7 @@
+baseURL = "https://miyazawakai.com/"
+languageCode = "ja"
+title = "miyazawakai.com"
+theme = "stack"
+
+[params]
+  mainSections = ["blog"]
