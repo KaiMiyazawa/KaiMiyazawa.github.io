@@ -1,5 +1,5 @@
 ---
-title: Hugo × Obsidian × GitHub Pages で作る、\n「書くだけで公開できる」個人知識基盤
+title: "Hugo × Obsidian × GitHub Pages で作る、\n「書くだけで公開できる」個人知識基盤"
 date: 2026-02-02
 draft: false
 tags: []
