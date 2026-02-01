@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on miyazawakai.com</title><link>https://miyazawakai.com/blog/</link><description>Recent content in Blogs on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 03:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤</title><link>https://miyazawakai.com/blog/how-to-build-my-publish-system/</link><pubDate>Mon, 02 Feb 2026 03:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/how-to-build-my-publish-system/</guid><description>&lt;h2 id="はじめに"&gt;はじめに
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Pages on miyazawakai.com</title><link>https://miyazawakai.com/tags/github-pages/</link><description>Recent content in GitHub Pages on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 03:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/tags/github-pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤</title><link>https://miyazawakai.com/blog/how-to-build-my-publish-system/</link><pubDate>Mon, 02 Feb 2026 03:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/how-to-build-my-publish-system/</guid><description>&lt;h2 id="はじめに"&gt;はじめに
 &lt;/h2&gt;&lt;p&gt;日記・メモ・技術ノートは Obsidian で書く。
 でも「公開」は面倒で続かない──。&lt;/p&gt;
 &lt;p&gt;そんな状態を抜け出すために、&lt;strong&gt;Obsidian → Hugo → GitHub Pages&lt;/strong&gt; という流れで、&lt;/p&gt;
@@ -148,4 +148,4 @@ resources/_gen/
 &lt;/blockquote&gt;
 &lt;p&gt;ことです。&lt;/p&gt;
 &lt;p&gt;まず書く。必要になったら public に移す。&lt;/p&gt;
-&lt;p&gt;この距離感が、個人のアウトプットを長く続ける良いポイントになるんでわ？と思ってる。&lt;/p&gt;</description></item><item><title>Hello</title><link>https://miyazawakai.com/blog/hello/</link><pubDate>Mon, 02 Feb 2026 02:53:02 +0900</pubDate><guid>https://miyazawakai.com/blog/hello/</guid><description/></item></channel></rss>
+&lt;p&gt;この距離感が、個人のアウトプットを長く続ける良いポイントになるんでわ？と思ってる。&lt;/p&gt;</description></item></channel></rss>
