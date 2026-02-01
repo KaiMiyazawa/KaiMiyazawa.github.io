@@ -1,47 +1,13 @@
-{{ define "body-class" }}
-    article-page
-    {{/* 
-        Enable the right sidebar if
-            - Widget different from 'TOC' is enabled
-            - TOC is enabled and not empty
-    */}}
-    {{- $HasWidgetNotTOC := false -}}
-    {{- $TOCWidgetEnabled := false -}}
-    {{- range .Site.Params.widgets.page -}}
-        {{- if ne .type "toc" -}}
-            {{ $HasWidgetNotTOC = true -}}
-        {{- else -}}
-            {{ $TOCWidgetEnabled = true -}}
-        {{- end -}}
-    {{- end -}}
-
-    {{- $TOCManuallyDisabled := eq .Params.toc false -}}
-    {{- $TOCEnabled := and (not $TOCManuallyDisabled) $TOCWidgetEnabled -}}
-    {{- $hasTOC := ge (len .TableOfContents) 100 -}}
-    {{- .Scratch.Set "TOCEnabled" (and $TOCEnabled $hasTOC) -}}
-    
-    {{- .Scratch.Set "hasWidget" (or $HasWidgetNotTOC (and $TOCEnabled $hasTOC)) -}}
-{{ end }}
-
 {{ define "main" }}
-    {{ partial "article/article.html" . }}
+  {{/* single と同じ本文コンポーネントで描画（スタイル一致） */}}
+  {{ partial "article/article.html" . }}
 
-    {{ if .Params.links }}
-        {{ partial "article/components/links" . }}
-    {{ end }}
+  {{/* Home は related / photoswipe / mermaid / comments を呼ばない */}}
 
-    {{ partial "article/components/related-content" . }}
-     
-    {{ if not (eq .Params.comments false) }}
-        {{ partial "comments/include" . }}
-    {{ end }}
-
-    {{ partialCached "footer/footer" . }}
-
-    {{ partialCached "article/components/photoswipe" . }}
-    {{ partial "article/components/mermaid" . }}
+  {{ partialCached "footer/footer" . }}
 {{ end }}
 
 {{ define "right-sidebar" }}
-    {{ if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") }}{{ end}}
+  {{/* Home は homepage スコープで右サイドバー（Stackと同じ呼び出し規約） */}}
+  {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}

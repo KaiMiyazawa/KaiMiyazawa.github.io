@@ -6,6 +6,4 @@ theme = "stack"
 [params]
   mainSections = ["blog"]
 
-[comments]
-  enabled = false
 
