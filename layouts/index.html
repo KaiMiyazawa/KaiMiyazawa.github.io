@@ -1,10 +1,13 @@
 {{ define "main" }}
-  {{/* single と同じ本文コンポーネントで描画（スタイル一致） */}}
-  {{ partial "article/article.html" . }}
+  {{/* Stack の記事ページ用スタイルを確実に当てるためのラッパ */}}
+  <div class="article-page">
+    {{/* single と同じ本文コンポーネントで描画（スタイル一致） */}}
+    {{ partial "article/article.html" . }}
 
-  {{/* Home は related / photoswipe / mermaid / comments を呼ばない */}}
+    {{/* Home は related / photoswipe / mermaid / comments を呼ばない */}}
 
-  {{ partialCached "footer/footer" . }}
+    {{ partialCached "footer/footer" . }}
+  </div>
 {{ end }}
 
 {{ define "right-sidebar" }}
