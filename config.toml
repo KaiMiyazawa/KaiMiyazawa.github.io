@@ -3,7 +3,11 @@ languageCode = "ja"
 title = "miyazawakai.com"
 theme = "stack"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+
 [params]
   mainSections = ["blog"]
-
 
