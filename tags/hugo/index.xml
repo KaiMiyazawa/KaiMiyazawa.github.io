@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on miyazawakai.com</title><link>https://miyazawakai.com/tags/hugo/</link><description>Recent content in Hugo on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 03:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤</title><link>https://miyazawakai.com/blog/how-to-build-my-publish-system/</link><pubDate>Mon, 02 Feb 2026 03:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/how-to-build-my-publish-system/</guid><description>&lt;h2 id="はじめに"&gt;はじめに
-&lt;/h2&gt;&lt;p&gt;日記・メモ・技術ノートは Obsidian で書く。
+&lt;/h2&gt;&lt;p&gt;日記・メモ・技術ノートは Obsidian で書く。&lt;br&gt;
 でも「公開」は面倒で続かない──。&lt;/p&gt;
 &lt;p&gt;そんな状態を抜け出すために、&lt;strong&gt;Obsidian → Hugo → GitHub Pages&lt;/strong&gt; という流れで、&lt;/p&gt;
 &lt;blockquote&gt;
@@ -17,7 +17,7 @@
 &lt;li&gt;ローカル知識（非公開）は絶対に漏れない&lt;/li&gt;
 &lt;li&gt;将来構成を拡張しても壊れない&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;WordPress のような CMS は使わない。
+&lt;p&gt;WordPress のような CMS は使わない。&lt;br&gt;
 &lt;strong&gt;「書く体験」を壊さないこと&lt;/strong&gt;を最優先にしました。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="全体構成最終形"&gt;全体構成（最終形）
