@@ -8,12 +8,17 @@
     @include respond(md) {
         .sidebar-toc {
             display: block;
-            max-height: 46vh;
+            max-height: calc(100vh - 180px);
             overflow-y: auto;
             font-size: 1.2rem;
             line-height: 1.55;
             color: var(--body-text-color);
-            scrollbar-width: thin;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        .sidebar-toc::-webkit-scrollbar {
+            display: none;
         }
 
         .sidebar-toc ol,
@@ -58,9 +63,9 @@
         .sidebar-toc li.active-class > a {
             margin-left: -10px;
             padding-left: 8px;
-            border-left: 2px solid var(--card-text-color-tertiary);
+            border-left: 2px solid var(--card-separator-color);
             color: var(--card-text-color-main);
-            opacity: 0.9;
+            opacity: 0.86;
             font-weight: 600;
         }
     }
