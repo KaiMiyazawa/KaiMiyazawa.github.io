@@ -52,7 +52,7 @@
     {{- end -}}
 
     {{ if (.Scratch.Get "TOCEnabled") }}
-        <nav class="sidebar-toc" aria-label="{{ T `article.tableOfContents` }}">
+        <nav class="sidebar-toc" id="TableOfContents" aria-label="{{ T `article.tableOfContents` }}">
             {{ partial "article/components/toc" . | safeHTML }}
         </nav>
     {{ end }}
