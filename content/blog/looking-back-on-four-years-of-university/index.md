@@ -3,7 +3,7 @@ title: "大学4年間の振り返り"
 date: 2026-05-27T00:00:00+09:00
 tags:
   - "振り返り"
-_build:
+build:
   list: never
   render: always
   publishResources: true
