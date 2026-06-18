@@ -16,6 +16,6 @@ comments: false
 ## 主なコンテンツ
 
 - 👤 About: [/about/](/about/)
-- ✅ 2026年の目標: [2026年にやりたいこと100](/pages/2026-goals/)
-- 📝 Blog（時系列の記事・日記・開発メモ）: [/blog/](/blog/)
-- 📚 Pages（育てるドキュメント集）: [/pages/](/pages/)
+- ✅ 2026年の目標: [2026年にやりたいこと100](/blog/2026-goals/)
+- 📝 Blog（個人記録・日記・やりたいことリスト）: [/blog/](/blog/)
+- 📚 Pages（技術記事・運用メモ・育てるドキュメント）: [/pages/](/pages/)

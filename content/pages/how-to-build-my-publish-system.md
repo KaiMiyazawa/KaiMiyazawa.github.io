@@ -3,6 +3,8 @@ title: "Hugo × Obsidian × GitHub Pages で作る、書くだけで公開でき
 date: 2026-02-02T03:00:00+09:00
 tags: ["Hugo", "Obsidian", "GitHub Pages", "Knowledge Base"]
 draft: false
+aliases:
+  - "/blog/how-to-build-my-publish-system/"
 ---
 
 ## はじめに
