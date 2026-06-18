@@ -1,5 +1,6 @@
 ---
 title: 欲しい物リスト(いつか買ってやるぞリスト)
+date: 2026-06-18T00:00:00+09:00
 slug: i-want-them-list
 draft: true
 aliases:
