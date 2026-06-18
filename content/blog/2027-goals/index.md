@@ -1,5 +1,6 @@
 ---
 title: "2027年にやりたいこと100"
+date: 2026-06-18T00:00:00+09:00
 slug: "2027-goals"
 draft: false
 aliases:
