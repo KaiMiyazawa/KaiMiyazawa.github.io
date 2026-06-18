@@ -1,344 +1,4660 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kai Miyazawa on miyazawakai.com</title><link>https://miyazawakai.com/</link><description>Recent content in Kai Miyazawa on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 24 Mar 2026 12:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>XアーカイブをCodexで分析すると、ここまで見える</title><link>https://miyazawakai.com/blog/analyzing-my-x-archive-with-codex/</link><pubDate>Tue, 24 Mar 2026 12:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/analyzing-my-x-archive-with-codex/</guid><description>&lt;h1 id="xアーカイブをcodexで分析するとここまで見える"&gt;XアーカイブをCodexで分析すると、ここまで見える
-&lt;/h1&gt;&lt;p&gt;自分の X（旧Twitter）アカウントのアーカイブをダウンロードして、Codex と一緒に分析してみた。&lt;br&gt;
-結論から言うと、これはかなり面白い。&lt;/p&gt;
-&lt;p&gt;単なる「昔のツイートを読み返す」ではなく、&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kai Miyazawa on miyazawakai.com</title><link>https://miyazawakai.com/</link><description>Recent content in Kai Miyazawa on miyazawakai.com</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://miyazawakai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>大学4年間の振り返り</title><link>https://miyazawakai.com/blog/looking-back-on-four-years-of-university/</link><pubDate>Wed, 27 May 2026 00:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/looking-back-on-four-years-of-university/</guid><description>&lt;p&gt;2026年3月に、早稲田大学の人間科学部を卒業しました。&lt;br&gt;
+いろんな経験ができた4年間について、振り返り形式で記録に残そうと思います。&lt;br&gt;
+学業のことは大して触れることがないので、人間科学部関連記事というわけではありません。あくまで、私の大学生期間の4年間を振り返る、という内容の個人blogです。&lt;/p&gt;
+&lt;h2 id="入学前"&gt;入学前
+&lt;/h2&gt;&lt;h3 id="202203-上京"&gt;2022/03 上京
+&lt;/h3&gt;&lt;p&gt;雪も溶けきらぬ春の北海道。18まで育った北の大地から抜け出し、祖母宅がある東京板橋に向かって上京しました。&lt;br&gt;
+推薦受験で合格していたため早くから暇を持て余しており、せっかくの上京を飛行機１本で済ましてはならぬとあれこれ考えた結果、青春18きっぷを使った鈍行旅を計画していました。&lt;br&gt;
+あゝなんと若さの愚かしい。&lt;/p&gt;
+&lt;p&gt;実家から苫小牧まで親に送ってもらい、深夜フェリーで八戸港まで。直前の夜に苫小牧の回転寿司に家族で訪れたのをなんとなく覚えています。これが最後の晩餐かぁ&amp;hellip;って。&lt;br&gt;
+苫小牧港のフェリーターミナル建物前で車から降ろしてもらう瞬間の母親の寂しそうな顔を、たまに思い出します。&lt;/p&gt;
+&lt;p&gt;八戸港からは、青森、秋田、新庄、羽前千歳、仙台のカプセルホテルで一泊、福島、郡山、新白河、黒磯、宇都宮、池袋、板橋といった具合で、二日間かけてじっくりと上京しました。鈍行の車内でも、電車待ちの駅ホームでも、基本やることはありません。道央内陸部に住んでいた私にとっては珍しかった海景色を見ながらも、なーんかあまり楽しめず、これからの新生活がただただ不安だったことを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/001_ferryTrainToTokyo.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="青森で途中下車して見たねぶた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;無事に祖母宅に着いてからは、大学入学に関わるいろんな書類に目を通したり、科目登録について情報を集めたり、サークルを考えたり、、という感じだったと思います。少なくとも写真を見返す限り、記録用にとった各種書類の写真しか出てきません。&lt;/p&gt;
+&lt;p&gt;ちょうど桜の時期だったので一度だけ、隅田川を歩いてスカイツリーを見つつ浅草観光をし、帰りに早稲田大学のキャンパスを見に行った日があることは覚えています。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/002_sumidaWasedaWalk.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="桜の隅田川からスカイツリー"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/003_wasedaCampusVisit.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="早稲田でいっちゃん有名なやつ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;結局、早稲田キャンパスに通うことはないんですけどね笑&lt;br&gt;
+入学式前なのに結構人がいて、早稲田キャンパスに通うのは無理そうだなと思ったのを覚えています。人酔いしてしまう私にとっては所沢キャンパスにある人間科学部が好都合でした。一度もキャンパスを訪れずに推薦で決めたキャンパスだったのに&amp;hellip;ラッキー。&lt;/p&gt;
+&lt;p&gt;ちなみに引っ越しについてですが、私はとにかく所有物が少ないタイプだったので、全て郵便で送るだけで全然事足りる程度の量しかありませんでした。(5箱くらい？うち2箱は本)&lt;br&gt;
+引越しが身軽に終われたのは、家電が全て揃っている祖母宅に居候させていただけたおかげです。家賃0の家が確約されている状況でなければ、そもそも上京という選択肢はなかったと思います。これはマジで感謝。&lt;/p&gt;
+&lt;p&gt;3月31日に、科目履修を仮組みしている写真を見つけました。&lt;br&gt;
+1年生の春学期から毎日登校前提で結構頑張ってますね笑&lt;br&gt;
+うっすら覚えていることとしては、1年春はとにかく友達作りが重要というのをなんとなく見聞きして理解しており、機会を最大化するためには全日登校すべきかなと思い、意図的に大変な感じで組んでたような気がします。&lt;br&gt;
+今考えると正気の沙汰じゃない。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/004_springCourseSchedule.jpg"
+	width="720"
+	height="1600"
+	loading="lazy"
+	
+		alt="今見たらゾッとする時間割"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="45"
+		data-flex-basis="108px"
+	
+&gt;&lt;/p&gt;
+&lt;h2 id="2022年度"&gt;2022年度
+&lt;/h2&gt;&lt;h3 id="202204-全力新歓"&gt;2022/04 全力新歓
+&lt;/h3&gt;&lt;p&gt;成人年齢が18歳に引き下げられたりした時期です。&lt;br&gt;
+個人的に野球は興味ないですが、佐々木朗希がなんかすごそうだった時期です。&lt;/p&gt;
+&lt;p&gt;授業が始まります。&lt;br&gt;
+基本的に授業の内容には興味がないので、とにかく友達作りのためのムーブに全ベットして動いていたと思います。恥を忍んで隣の人に声をかけたり、ちゃんとLINE聞いたり。&lt;/p&gt;
+&lt;p&gt;サークルの新歓には、予定の合う限り死ぬほど行きまくりました。多分25サークルくらいは説明会聞いたし、対面新歓も行きました。&lt;br&gt;
+結局どれもしっくりこず、大量のよっ友LINEが残るだけでした。おかげで現在、友達が多いふりができています。&lt;/p&gt;
+&lt;p&gt;新歓の中で、会員になりたいと思い、実際に入会したサークルはいくつかあります。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;投稿の時系列的な変化&lt;/li&gt;
-&lt;li&gt;いいね・DM・フォロー・広告ログまで含めた行動の全体像&lt;/li&gt;
-&lt;li&gt;公開アカウントとしての自己ブランディング&lt;/li&gt;
-&lt;li&gt;就活・身バレ・誤読リスクの棚卸し&lt;/li&gt;
+&lt;li&gt;池袋地域の子どもと遊ぶサークル&lt;/li&gt;
+&lt;li&gt;古美術研究会(美術館行くだけのやつ)&lt;/li&gt;
+&lt;li&gt;プログラミングサークル&lt;/li&gt;
+&lt;li&gt;創作系サークルの皮を被ったTwitterやるだけのサークル&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;のようなところまで、かなり具体的に掘れる。&lt;/p&gt;
-&lt;p&gt;しかも今回は、アーカイブを展開したあとに Codex に読ませながら、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;データ構造の把握&lt;/li&gt;
-&lt;li&gt;解析スクリプトの作成&lt;/li&gt;
-&lt;li&gt;レポート生成&lt;/li&gt;
-&lt;li&gt;追加観点の洗い出し&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;まで一気に進められた。&lt;br&gt;
-「自分の過去ログを、自分で再読する」のではなく、&lt;strong&gt;手元のアーカイブを材料に、自分専用の分析環境を立ち上げる&lt;/strong&gt;感覚に近い。&lt;/p&gt;
-&lt;h2 id="このリポジトリで実際にやっていること"&gt;このリポジトリで実際にやっていること
-&lt;/h2&gt;&lt;p&gt;今回の分析元は &lt;code&gt;77_twitter_archive_data&lt;/code&gt; というディレクトリ。&lt;br&gt;
-ここには X からダウンロードしたアーカイブ一式を展開してある。&lt;/p&gt;
-&lt;p&gt;このリポジトリを確認すると、アーカイブは単なるツイート一覧ではない。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;data/*.js&lt;/code&gt; に構造化データが 83 データセット&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/tweets.js&lt;/code&gt; に投稿本体&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/like.js&lt;/code&gt; にいいね履歴&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/direct-messages.js&lt;/code&gt; などに DM&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/follower.js&lt;/code&gt; / &lt;code&gt;data/following.js&lt;/code&gt; に関係データ&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/ad-*.js&lt;/code&gt; 系に広告インプレッションやエンゲージメント&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;data/*_media/&lt;/code&gt; に画像などの実体ファイル&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;という構成になっている。&lt;/p&gt;
-&lt;p&gt;さらに重要なのは、&lt;code&gt;data/*.js&lt;/code&gt; が純粋な JSON ではなく、&lt;code&gt;window.YTD.* = ...&lt;/code&gt; という JavaScript 形式になっていること。&lt;br&gt;
-このままだと雑に読みづらいので、今回のリポジトリではそこを Python でパースしている。&lt;/p&gt;
-&lt;p&gt;実際の処理は主に次の 2 本。&lt;/p&gt;
-&lt;h3 id="1-定量分析"&gt;1. 定量分析
-&lt;/h3&gt;&lt;p&gt;&lt;code&gt;scripts/analyze_archive.py&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;このスクリプトでは、アーカイブ全体を横断して以下をまとめている。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;投稿数、年別・月別・曜日別・時間帯別の推移&lt;/li&gt;
-&lt;li&gt;返信率、自己返信率、URL付き投稿率、メディア率&lt;/li&gt;
-&lt;li&gt;クライアント別の投稿傾向&lt;/li&gt;
-&lt;li&gt;いいね件数やリンク先ドメインの傾向&lt;/li&gt;
-&lt;li&gt;DM 件数や送受信比率&lt;/li&gt;
-&lt;li&gt;フォロー / フォロワーのスナップショット&lt;/li&gt;
-&lt;li&gt;セキュリティ系・広告系ログの存在確認&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;出力先:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;analysis/archive-analysis-summary.json&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;docs/archive-analysis-report.md&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="2-定性分析とリスク監査"&gt;2. 定性分析とリスク監査
-&lt;/h3&gt;&lt;p&gt;&lt;code&gt;scripts/analyze_qualitative.py&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;こちらでは、ツイート本文を全件スクリーニングして、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;発信キャラの変遷&lt;/li&gt;
-&lt;li&gt;コミュニティ志向、学習志向、自虐、ユーモアなどの傾向&lt;/li&gt;
-&lt;li&gt;個人情報露出&lt;/li&gt;
-&lt;li&gt;就活で不利になりそうな表現&lt;/li&gt;
-&lt;li&gt;暴力・性的・誤読リスクのある語彙&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;をルールベースで抽出している。&lt;/p&gt;
-&lt;p&gt;出力先:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;analysis/qualitative-analysis-summary.json&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;docs/qualitative-analysis-report.md&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;docs/risk-review-candidates.md&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;つまりこのリポジトリは、&lt;strong&gt;X アーカイブを置いて終わりではなく、Codex と一緒に「分析用の道具」と「読めるレポート」を作った状態&lt;/strong&gt;になっている。&lt;/p&gt;
-&lt;p&gt;実行はシンプルで、たとえばこんな形で回せる。&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;python3 scripts/analyze_archive.py
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;python3 scripts/analyze_qualitative.py
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="実際にどんなことが見えたか"&gt;実際にどんなことが見えたか
-&lt;/h2&gt;&lt;p&gt;今回のレポジトリでは、たとえば次のようなことが見えている。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ツイート総数は &lt;code&gt;17,945&lt;/code&gt; 件&lt;/li&gt;
-&lt;li&gt;いいねは &lt;code&gt;30,349&lt;/code&gt; 件&lt;/li&gt;
-&lt;li&gt;返信は &lt;code&gt;10,526&lt;/code&gt; 件で、かなり会話中心の運用&lt;/li&gt;
-&lt;li&gt;活動のピークは &lt;code&gt;2022年&lt;/code&gt; と &lt;code&gt;2023年&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;DM は 1対1 会話 &lt;code&gt;145&lt;/code&gt; 件、総メッセージ &lt;code&gt;3,484&lt;/code&gt; 件&lt;/li&gt;
-&lt;li&gt;広告インプレッションも &lt;code&gt;2,991&lt;/code&gt; 件残っている&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ここで面白いのは、単純な「よくツイートしていた時期」が分かるだけではないこと。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;どの時期に会話中心だったか&lt;/li&gt;
-&lt;li&gt;どの時期に成果報告型に変わったか&lt;/li&gt;
-&lt;li&gt;どの話題や言い回しが今の自分のブランドとズレているか&lt;/li&gt;
-&lt;li&gt;削除優先度の高い投稿がどこにあるか&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;のように、&lt;strong&gt;行動ログとしての過去&lt;/strong&gt;と&lt;strong&gt;公開アカウントとしての現在&lt;/strong&gt;を比較できる。&lt;/p&gt;
-&lt;p&gt;特に、&lt;code&gt;docs/qualitative-analysis-report.md&lt;/code&gt; のような「人格傾向」「誤読リスク」「今後の運用提案」まで含むレポートは、人力だけでやるとかなりしんどい。&lt;br&gt;
-Codex に読ませながら進めると、分析観点の設計とレポートの叩き台作成がかなり速い。&lt;/p&gt;
-&lt;h2 id="こう進めるのがおすすめ"&gt;こう進めるのがおすすめ
-&lt;/h2&gt;&lt;p&gt;もし同じことをやるなら、流れはこんな感じがやりやすい。&lt;/p&gt;
-&lt;h3 id="1-まずは-x-アーカイブをダウンロードする"&gt;1. まずは X アーカイブをダウンロードする
-&lt;/h3&gt;&lt;p&gt;X のアーカイブには、ツイート本文だけでなく、いいね、DM、プロフィール変更、広告ログなどが含まれる。&lt;br&gt;
-まずはアーカイブを取得して、専用のローカルディレクトリに展開する。&lt;/p&gt;
-&lt;h3 id="2-公開用の作業場所と分ける"&gt;2. 公開用の作業場所と分ける
-&lt;/h3&gt;&lt;p&gt;この種のデータには個人情報や非公開寄りの情報が大量に含まれる。&lt;br&gt;
-なので、分析用のディレクトリは &lt;strong&gt;必ず private 前提&lt;/strong&gt; で扱ったほうがいい。&lt;/p&gt;
-&lt;p&gt;おすすめは、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;アーカイブ展開用ディレクトリ&lt;/li&gt;
-&lt;li&gt;解析スクリプト用ディレクトリ&lt;/li&gt;
-&lt;li&gt;公開記事用ディレクトリ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;を分けること。&lt;/p&gt;
-&lt;h3 id="3-最初に-codex-に棚卸しをやらせる"&gt;3. 最初に Codex に「棚卸し」をやらせる
-&lt;/h3&gt;&lt;p&gt;最初から「面白い分析して」と投げるより、先に全体構造を把握させるのが効く。&lt;/p&gt;
-&lt;p&gt;やることの順番は、&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;どんなファイルがあるか一覧化する&lt;/li&gt;
-&lt;li&gt;何が JSON で、何が JS ラッパーか確認する&lt;/li&gt;
-&lt;li&gt;件数の大きいデータを特定する&lt;/li&gt;
-&lt;li&gt;先に書ける定量分析レポートを作る&lt;/li&gt;
-&lt;li&gt;そのあとで定性分析や削除監査に進む&lt;/li&gt;
+&lt;p&gt;上3つはどれもとても楽しい活動だったのですが、キャンパスが遠かったり、活動日が合わなかったりなどでうまく馴染めず、フェードアウトしていきました。子どもと遊ぶやつはちゃんと行きたかったなぁ&amp;hellip;.。&lt;br&gt;
+結局、一番下のやつで友達を作っていくことになります。&lt;/p&gt;
+&lt;p&gt;当時の私は背中まで伸びるロン毛だったので、初対面場面での覚えられ方は尋常じゃなく、別に人当たりも愛想良くしていたので、結構無双でした。&lt;/p&gt;
+&lt;p&gt;複数のサークルの先輩方に、同時多発的に「菅田将暉に似てるね」と言ってもらったことは、今でもしがんでいます。本当にいろんな人からたくさん言われたんですよ。それはもう、誇張なしで10人くらいから。いやマジだから。&lt;/p&gt;
+&lt;p&gt;当時は『百花』という映画のポスターがあちこちにあり、ロン毛の菅田将暉が全員の脳内に刻まれていたんだと思います。これまじで似てた本当に。映画は見てないです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/006_hyakkaMoviePoster.jpg"
+	width="495"
+	height="700"
+	loading="lazy"
+	
+		alt="ロン毛なら誰でも似てるやないかい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="70"
+		data-flex-basis="169px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;これぐらいから、Twitterで友人との絡みが増えていきました。初めまして〜の時に、LINEとTwitterを交換してたので。&lt;/p&gt;
+&lt;p&gt;元々見ていた &amp;lsquo;#春から早稲田&amp;rsquo; &amp;lsquo;#春から人科&amp;rsquo;のコミュニティで、色々おもしろツイートしてた人と会えたりして嬉しかったし、Twitterで1分ごとにツイートしてる人がなんかカッコよく見えていました。&lt;br&gt;
+そいつ、ただツイ廃なだけだよ。&lt;br&gt;
+普通にいろんな人と繋がっていき、やはり自分もTwitterどっぷりになっていき、向こう1年は主にTwitterが楽しかった時期になりました。&lt;/p&gt;
+&lt;p&gt;日常で見つけたおもしろを共有したらいいねがもらえるという体験が嬉しかったのは覚えています。&lt;br&gt;
+道に落ちてたキウイを、ツイートしたくてわざわざ10歩くらい戻って写真撮ったのを覚えています。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/007_streetKiwi.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="今見ても普通におもろいかも"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;授業に慣れてくると、所沢キャンパスという環境についてなんとなく俯瞰できるようになり、自然が多くて人が(早稲田キャンパスに比較して)少ないこの場所の、なんと素晴らしいことか！と思ったりしていました。&lt;br&gt;
+今は、普通に遠いのでダルくて行きたくないです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/008_earlyCampusVisit.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="いい場所ではあるけど、地理が悪い"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202205-友達を作るのは大変"&gt;2022/05 友達を作るのは大変
+&lt;/h3&gt;&lt;p&gt;AppleがiPodの終了を発表しました。初めてのスマホ?がiPod touchだったので、普通に悲しかったのを覚えています。&lt;br&gt;
+あと、4630万円の誤送金がありましたね。僕も誤送金されたい。&lt;/p&gt;
+&lt;p&gt;上京を青春18きっぷでやったのが忘れられなくて、5月頭に弾丸草津温泉旅に行ってますね。バイタリティがすごい。&lt;br&gt;
+草津旅は、同じ高校から一緒に上京した友人と2人で行きました。彼とは4年間、定期的に飲みに行っていて、大学卒業後も東京に残るらしいので、生来の友達になっていくのだろうと思います。いいやつです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/009_kusatsuTripWithFriend.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="草津の足湯"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;そして立て続けに、ディズニーにいくことになります。&lt;br&gt;
+サークルの新歓でした。&lt;br&gt;
+普通に頑張りすぎていたかなと思います。体力がすごい。&lt;/p&gt;
+&lt;p&gt;ここら辺から本当に、写真がTwitterのスクショばっかりになります。&lt;br&gt;
+会話も、&amp;ldquo;初期人間関係ハイ&amp;quot;な感じがあって、今見るとむず痒い。&lt;/p&gt;
+&lt;p&gt;そしてぼちぼち、大学で3年くらい付き合った彼女とのLINEが始まっています。&lt;br&gt;
+手がはやい。&lt;/p&gt;
+&lt;p&gt;5月の中旬には、スカイツリーで開催されていたJOJOコラボに参加していますね。&lt;br&gt;
+ちょっとしかJOJO知らなかったけど、ツイ廃仲間のみんなが行くって言っていて、親密度上昇イベントを逃したくなくて行ったのを覚えています。&lt;br&gt;
+家に帰ってから「何やってんだろ&amp;hellip;」ってなって辛いやつになったので、普通に諸々かなり焦りすぎだったと思います。でも、ハイになってやらないとできないこともあったし、結局楽しい人間関係が色々作れたので良かったと思っています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/010_socialCircleNight.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="やっぱこれが一番東京らしい景色ですよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の下旬には、地元中学の友達と成田山の神社？に行ったりもしていますね。なんかの研修？で東京に用事があるらしく。&lt;br&gt;
+この月の出費やばいんじゃないですかね。普通に金使いすぎやろ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/011_maySpendingRecord.jpg"
+	width="1201"
+	height="1600"
+	loading="lazy"
+	
+		alt="何をにやけとるんや"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/012_mayReceiptPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="友人ね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Twitterサークルの友人との遊びが色々乱立していくに伴い、サークルの部室でのわいわい時間が増えたり、二郎ラーメンを覚えたりしていきました。どれも大学生らしい思い出で、振り返ると人生の資産になっているような気がします。&lt;/p&gt;
+&lt;p&gt;ただカラオケだけはあんまり得意じゃなかったです。&lt;br&gt;
+歌自体はそんなに下手なわけじゃないと思うのですが、人前で、歌声を聴かれながら歌うというのはなんか得意になれませんでした。&lt;br&gt;
+大学に入るまでほとんどカラオケに行ったことがなかったため、慣れが原因かななんて思ってヒトカラに行ったりもしましたが、やっぱりあんまり楽しく思えないまま終わりました。&lt;/p&gt;
+&lt;h3 id="202206-東京の夏は暑い"&gt;2022/06 東京の夏は暑い
+&lt;/h3&gt;&lt;p&gt;東京の梅雨は軽くて、梅雨に怯えていた自分には拍子抜けでした。&lt;br&gt;
+逆に尋常じゃない猛暑がありました。本当に辛くて、猛暑のストレスで皮膚が荒れて、乾癬っぽい症状が出始めていました。本当に辛かった。&lt;br&gt;
+あと、Internet Explorerが終了して、TwitterはIE葬式の話題な感じだった記憶です。&lt;/p&gt;
+&lt;p&gt;なんの文脈でそうなったか忘れましたが、のちに一緒にサークルを立ち上げることになる女性(とあともう1人くらいいたかな？)に、一風堂のおいしさを教えてもらいました。マジで美味しい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/013_ippudoRamen.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="今は白玉の方が好きかな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;二郎を教えてくれたのは別の男性で、彼と行った二郎は本当に美味しかったし楽しかったです。&lt;br&gt;
+流石に最近は健康も考えて行けてないし、胃も小さくなってしまったけど、なぜかまた行きたい。この感情を二郎と呼ぶのだということも教えてもらいました。&lt;/p&gt;
+&lt;p&gt;また別の男性は、僕にラーメン中本も教えてもらいました。そんなに辛いのが得意じゃなかったですが、その時は友達バフもかかっていて美味しく感じました。その後何回かイキって行った後、徐々に上げていた辛さは最終的に辛さ8になり、そこで尋常じゃなくお腹を壊してしまいます。以降、辛いものを一切受け付けない体となり、これにて辛党からは離脱し、甘党に合流することと相成ります。&lt;/p&gt;
+&lt;p&gt;この頃には、基礎ゼミ(言ってしまえば授業のクラス)で仲良くなった男性3人と、4人組で授業後に夜ご飯を食べにいくムーブが固定化していきました。彼らとの夜ご飯は、クラスが終了する大学2年の春学期まで続き、とても思い出深く大切な人間関係になっていきました。今ではほとんど連絡とってないけど。&lt;/p&gt;
+&lt;p&gt;とにかく、サークルやら授業やらの友達と飯に行くことがかなり増えました。&lt;br&gt;
+本当にいくら金使ってるんだろう。考えたくないね。&lt;/p&gt;
+&lt;h3 id="202207-二郎はリリンの文化"&gt;2022/07 二郎はリリンの文化
+&lt;/h3&gt;&lt;p&gt;安倍首相が銃撃され、大阪万博のキャラがミャクミャクに決まりました。&lt;br&gt;
+ミャクミャクは結局大成功キャラみたいな感じになりましたね笑&lt;/p&gt;
+&lt;p&gt;多分ここら辺で、彼女と付き合います。&lt;br&gt;
+大学入って3ヶ月です。手が早いですね。&lt;br&gt;
+大学では最低1人とは交際したいなと思っていたので、早々と目標達成です。&lt;/p&gt;
+&lt;p&gt;写真を見返すと、ここら辺からなぜかCHILL OUTというエナドリの写真がすごく増えています。&lt;br&gt;
+なんかハマっていて、箱で買ってたと思いますし、なぜ写真に残っているかというと都度都度ツイートしてCHILL OUT好きなやつイキリをしていたからです。&lt;br&gt;
+きしぇ〜〜。&lt;br&gt;
+後に中学の友達にこのイキリツイートがバレて、ちょっと馬鹿にされます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/014_twitterBoastScreenshot.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="CHILL OUT"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/015_twitterBoastFollowup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="流石に飲みすぎちゃいますか"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Twitterサークルの界隈の中で、「スクールバスの一番後ろの中央の席に座り、『玉座〜』みたいなツイートをする」というノリが流行ったのですが、これをよくやってたりしました。もしかしたら僕が作り出したノリだったりするのかな。マジでつまんないよねこれ笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/016_busThroneSeat.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="この写真撮ってあげるだけというノリ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ここら辺で、池袋二郎の夏の限定のバジル汁なしを食べてますね。あとD麺も。&lt;br&gt;
+これを教えてくれた彼に最大級の感謝を。おかげで、ここら辺からラーメン大好きです。&lt;br&gt;
+彼はバンド活動を頑張ってるみたい？です。遠巻きに、すっごく応援しています。かっこいい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/017_bandFriendMemory.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="マジで美味そうすぎるやろ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/018_bandFriendSecondPhoto.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="D麺のラーメンの方かな？"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202208-旅青春１８きっぷ"&gt;2022/08 旅、青春１８きっぷ
+&lt;/h3&gt;&lt;p&gt;『ONE PIECE FILM RED』が公開され、世の中Ado!Ado!だった記憶です。もちろん観てないです。&lt;br&gt;
+東北・北陸で記録的大雨がありました。これに思いっきり引っかかる旅程で旅をしていたのが8月です。&lt;/p&gt;
+&lt;p&gt;4月に青春18きっぷで上京ひとり旅をした経験が忘れられないまま、夏が来ました。&lt;br&gt;
+青春18きっぷは、学生の休業時期に合わせて発行されます。&lt;br&gt;
+行くしかありませんでした。&lt;/p&gt;
+&lt;p&gt;計画としては、上京で来た旅路をそのまま戻るような形。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/019_summerReturnTripStart.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="新潟側から北上する途中、水上温泉の足湯で一息。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/020_ferryRouteView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="旅行先って足湯行きたくなるよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;春は仙台側から南下したので、今度は新潟側から北上してみよう。&lt;br&gt;
+この楽しそうな計画が間違いでした。&lt;br&gt;
+先述した記録的な豪雨が新潟を襲い、新潟からさらに北上するための路線の電車がストップします。&lt;br&gt;
+尋常じゃない湿度と気温の中、何もできずに新潟駅に放り出されたのを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/021_niigataStationHeat.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="新潟は何も悪くないのに…"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/022_niigataCityWalk.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="そら向日葵もしょげますわ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;数日間鈍行で揺られたストレスか、上京以来悩まされていた本州の酷暑か、ここで私の身体にかかっていたストレスが爆発し、以前から少しそのケがあった乾癬っぽい症状が上半身にガバッと現れます。&lt;br&gt;
+急遽訪れた新潟の皮膚科で薬をもらい、よくわかんない駅前のネットカフェで、不安いっぱいの一晩を過ごしたのを思い出しました。&lt;/p&gt;
+&lt;p&gt;元々そんなに体が強いってわけでもないのに、やはりハイになって色々やりすぎていました。&lt;br&gt;
+この皮膚の症状は回復とぶり返しを往復しながら、その年の年末にかけてゆっくりと治っていきます。&lt;br&gt;
+人生で記憶にある限り、初めての「原因不明の病」だったので、かなりメンタルやられていたのを覚えています。結構美容は気にしていたので、顔面に赤いまだら模様があったのがすごく辛かったです。あと普通にジンジン痛かった。&lt;/p&gt;
+&lt;p&gt;旅路の方はと言うと、新潟以北の路線が復旧する見込みが立たないとのことで、翌日からは一度南下し、仙台側まで行ってから北上し直すことにしました。&lt;/p&gt;
+&lt;p&gt;名前忘れたけど、有名な祭りの有名なやつが展示されてて、タイミング良かった&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/023_festivalFloatDisplay.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="仙台七夕まつりね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;そこからは、上京旅程の巻き戻しです。&lt;br&gt;
+「半年前に見たなぁ〜」って思いながら、鈍行に揺られていきました。&lt;br&gt;
+今回は苫小牧港についてからも引き続き電車で実家を目指しました。親は迎えに来てくれようとしていましたが、北海道の路線の車窓を見てみたかったため断りました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/024_hokkaidoTrainWindow.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="苫小牧のセイコーマート"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/025_hokkaidoRailRide.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="天気いいねぇ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;実家に着いてから、すぐに熱を出して寝込みました。&lt;br&gt;
+だから言わんこっちゃない。&lt;br&gt;
+皮膚の赤い斑点の症状も含め、親に心配をかけたなぁと思います。&lt;br&gt;
+それ以降、帰省するたびに皮膚の状態について聞かれます。東京に遣った息子が病気して帰ってきたらそりゃ心配だよね。&lt;/p&gt;
+&lt;p&gt;本当は帰省の帰路も鈍行列車旅の予定でしたが、飛行機で帰ることにしました。&lt;/p&gt;
+&lt;p&gt;帰りの飛行機の直前、旭川空港の近くにあるジェラート屋さんに行ってます。ここ有名なんかな？好きなんですよねぇ。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/026_asahikawaGelato.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="店内に橋本奈々未のサインある"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;帰省してからは家で療養&amp;hellip;かと思っていましたが写真を見ていると、東京に帰ってきて早々に彼女と水族館やらプラネタリウムやら行っていますね。&lt;br&gt;
+よく頑張ったな&amp;hellip;僕&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;勝手に辛い旅路の中、勝手に19歳になりました。&lt;/p&gt;
+&lt;h3 id="202209-旅初名古屋"&gt;2022/09 旅、初名古屋
+&lt;/h3&gt;&lt;p&gt;安倍首相の国葬があったり、ゼルダのティアキンが発表されました。&lt;br&gt;
+ティアキンはめっちゃアツかったし、実際面白かったけど、内容が膨大すぎて最後までやれないまま放置してしまっています。少なくとも近年で最高レベルのゲームだなぁとは思いますし、軒並み評価は高いイメージ。&lt;/p&gt;
+&lt;p&gt;8月の教訓を活かし、活動ハイにならず、自分のキャパに合った月にするぞ！&lt;br&gt;
+となるかと思っていたのですが全然そんなことはなく、9月頭からなぜか名古屋方面に向かう鈍行列車に乗っていました。&lt;br&gt;
+青春18きっぷです。&lt;/p&gt;
+&lt;p&gt;元々、「制度をハックして安く楽しむ」みたいなのが好きだったのもあって、当時の私は狂気をもって青春18きっぷを愛していました。&lt;br&gt;
+普通に体調悪いのに何やってんだ。&lt;/p&gt;
+&lt;p&gt;今回の名古屋方面旅は彼女と行っていたぶん、それぞれの地でちゃんと観光的なことをしていきました。&lt;/p&gt;
+&lt;p&gt;熱海の砂浜に行ったり。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/027_atamiBeach.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="海はいいね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;静岡でさわやかを食ったり。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/028_sawayakaHamburg.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="腹減ってきた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;道中一番思い出に残っているのは、浜松周辺にある掛川花鳥園。&lt;br&gt;
+園内に信じられないくらいの種類の鳥がいて、もうトリットリしてる感じ。&lt;br&gt;
+園内に爆音で響く鳴き声の鳥がいて、あいつは多分他の鳥にもウザがられてると思う。&lt;br&gt;
+あと、園内の奥の方にハシビロコウがいる。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/029_shoebillAtZoo.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="フクロウっていいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/030_zooWalkPhoto.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="放し飼いの鳥が普通に歩いてくる。こいつの配色カッコ良すぎる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;折り返し地点は名古屋市水族館。理由は私が水族館が好きだから。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/031_gamingJellyfish.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ゲーミングクラゲ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;旅の帰路は何もせずに全スルーで帰りました。普通に皮膚の病状が悪化していて、治療の時期全体で見たら一番状態悪かったんじゃないかな。外に出るなよって話。&lt;/p&gt;
+&lt;p&gt;かと思えば、その数日後にはTwitterサークルのメンツで葛西臨海水族園に行っていますね。&lt;br&gt;
+頭おかしいんか。&lt;br&gt;
+金使いすぎだし、体調悪いなら休めよ。&lt;br&gt;
+これだから、ハイというのは人間をダメにしますね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/032_socialHighScreenshot.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="葛西臨海水族園の一番の見所は外観"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/033_socialHighMemory.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="かっこいい笑　しれっと画面下に精子の絵ある"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;流石に当時の自分も気づいたのか、月の後半はゆっくり過ごしていたっぽいですね。&lt;br&gt;
+写真やカレンダーを見ても、特に何もやってなさそうです。&lt;/p&gt;
+&lt;h3 id="202210-大学に慣れて辛いもの食べれなくなる"&gt;2022/10 大学に慣れて、辛いもの食べれなくなる
+&lt;/h3&gt;&lt;p&gt;コロナが結構終了ムードになって来て、イーロンマスクがTwitterを買収しました。&lt;br&gt;
+秋学期の授業が始まり、Twitterサークルの皆さんとの対面での遊びとかが増えていきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/034_autumnHangout.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="飯能河原BBQだね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;またここら辺の時期から、主な寝床が祖母宅から彼女の家に移行していきます。&lt;br&gt;
+居候とか放浪生活みたいなのは性に合ってて好きだったので、各所を便利に使わせてもらっていました。&lt;/p&gt;
+&lt;p&gt;夏の関東の酷暑を経験した私は、授業絶対サンダル出席マンとして転生を果たし、青春18きっぷ大好きサンダルキャラみたいな感じになっていた記憶です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/035_sandalCampusStyle.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ドンキで買ったやつ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;そして、体調も戻りつつあってまた調子に乗った頃、ひとりで訪れたラーメン中本で辛い食べ物人生に幕が降ろされます。&lt;br&gt;
+要は、辛すぎてお腹壊しちゃって、それ以降辛いものに敏感になっちゃったってことです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/036_mysteryCulprit.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="犯人"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この頃から、自動車免許を通いで取り始めています。&lt;br&gt;
+めちゃくちゃケチだったので、授業を省いて実技だけをやってくれるタイプの教習所を探して通い、座学はセルフで詰め込むスタイルでやりました。まぁ要は、一発試験の補助スクール的なね。&lt;/p&gt;
+&lt;p&gt;なんかのタイミングで、祖母含め親族とご飯を食べるタイミングがあり、うなぎを食べました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/037_eelDinnerTreat.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="他人金うなぎ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;漫画の頃から好きだったチェンソーマンがアニメ放送していた時期で、いろんなグッズ販売がやってたりしたので、ノリで行ってたりもしていました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/038_animeMoviePoster.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="アニメはあんまりだったな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202211-おのれaiありがとう"&gt;2022/11 おのれAI、ありがとう
+&lt;/h3&gt;&lt;p&gt;キンプリがエグい脱退を発生させていたり、ChatGPTが登場したりしました。&lt;br&gt;
+キンプリは全然知らないですが、ChatGPTはここから色々世界を変えて行ったと思いますし、私の人生設計にも大きく影響したと思います。&lt;/p&gt;
+&lt;p&gt;具体で言えば、この後から私は本格的にコンピュータサイエンスの道を勉強し始める(プログラミング勉強したり的なこと)のですが、当時「食いっぱぐれないから」という理由で専攻したこの道を、執筆現在は「食いっぱぐれるから」という理由でメインキャリアとして選ぶのを躊躇したりしています。&lt;/p&gt;
+&lt;p&gt;大学の授業でも、ChatGPTの使い方についてあれやこれやうるさくなっていったのを覚えていますが、技術の進歩は止められないし、それはもう大変に便利なのですから仕方のないことです。&lt;br&gt;
+その後、大学の残り3年半をかけてLLMエンジニアとしての道を進もうと思い研鑽を重ねるものの、最近はこの先に道はない(あっても新卒が通れる道ではない)のではないかと感じ、2026年4月からは消極的な意見が私の中の大半という状況です。&lt;br&gt;
+人間にしかできないことをメインキャリアにするべきなのではないかと思い悩み、再度人生を振り返ってみて考えようということでこの文章を書き始めました。&lt;/p&gt;
+&lt;p&gt;この時期、理由は覚えていませんが、衝動的に2万円くらいのアクションカメラを購入しています。&lt;br&gt;
+衝動買いとは言え、普通にVlogとかに憧れはあったのでその後ぼちぼち使うことになります。&lt;br&gt;
+散歩やバイクの様子を撮影するのは現在でも趣味の一つで、別にどこにも出していませんがいそいそと楽しんでいます。&lt;br&gt;
+流石に動画がクラウドストレージを食いすぎているので、気が向いたら編集してYoutubeにあげてみようかな。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/039_videoMemory.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="すぐ熱暴走するけど筐体が可愛い"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;季節もかなり秋になり、森に溢れた所沢キャンパスは通うのが楽しいような風景になっていきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/040_tokorozawaAutumnCampus.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="いいね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;まぁた二郎食ってますね。&lt;br&gt;
+どんだけハマったんだよ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/041_hobbyObsession.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="D麺の汁なしかな？色々食ったけど汁なしの方が好き"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;10月末に父親と会った時に、父親の親戚経由で私にプレゼントされた、Youtuberヒカルの書籍をメルカリで売ろうとしています。&lt;br&gt;
+わざわざ自分で本買って親戚中に配るくらいなので、だいぶ熱心なファンかと推察されます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/042_favoriteBookGift.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="結婚して離婚してたのは上手く行った結果なのかな？"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;これとは全く関係なく、私は(私の性格が問題で)親族付き合いがめっちゃ苦手で、ほとんど関わりがありません。&lt;br&gt;
+私の幼少期を知っているからという理由で、特に愛着もない人から馴れ馴れしくされるのがなんか辛い、と思ってしまいます。&lt;br&gt;
+普通に僕の性格が悪いですね。&lt;/p&gt;
+&lt;h3 id="202212-二郎と飲み会が最高って話"&gt;2022/12 二郎と飲み会が最高って話
+&lt;/h3&gt;&lt;p&gt;新潟で記録的な大雪があり、スラダンの映画が公開されました。&lt;br&gt;
+新潟は大雨と大雪で地鳴らしされた1年なのか&amp;hellip;と思うと気の毒でしたし、スラダンは読んだことないです。&lt;/p&gt;
+&lt;p&gt;月の頭からめっちゃ二郎食ってますね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/043_jiroRamenFirst.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="美味しいんだから仕方ない"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/044_jiroRamenSecond.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="高さがすごいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/045_jiroRamenThird.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="家二郎。二郎を教えてくれた彼の家で。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/046_jiroRamenFourth.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="マジで美味しい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;二郎を教えてくれた彼の家で、家二郎パーティが行われ、これの最高具合が界隈を震撼させました。&lt;/p&gt;
+&lt;p&gt;彼の家での宅飲みは以降何回も行われますが、どれも本当に楽しくいい思い出です。&lt;br&gt;
+初回当時はまだ19歳だったので私はアルコールを飲んでいませんが、浪人経験のある友人は飲んでOKの飲み会でしたので、グデングデンになった友人を見ながら、翌年の飲み会をすごく楽しみにしていたのを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/047_houseJiroParty.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="かわいい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;多分この時期が二郎熱のピークで本当に二郎の写真しか残っていません。&lt;/p&gt;
+&lt;p&gt;一番最高だったのが、まさき(非乳化)の汁なし。&lt;br&gt;
+キクラゲのトッピングがあるのですが、ノリで頼んでみたところ尋常じゃない量の黒いひもが&amp;hellip;。&lt;br&gt;
+死ぬ気で食べましたし、とても美味しく、以降何回か通い詰めることになります。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/048_favoriteRamenMeal.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="マジで美味しいんですよこれ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;冬休みに入り、各々が帰省していくなか、今回は帰省せず、かなりゆっくりした年末年始を過ごしました。&lt;br&gt;
+こたつ養生のおかげか、二郎の栄養のおかげか。夏に患った皮膚の病気もこの頃に治り、以降はほとんどぶり返さなくなりました。&lt;br&gt;
+ひとりで居るのが落ち着くんだと思います。&lt;/p&gt;
+&lt;h3 id="202301-ひとりの時間"&gt;2023/01 ひとりの時間
+&lt;/h3&gt;&lt;p&gt;ルフィ事件をきっかけに闇バイトが社会問題化し始め、ChatGPTの利用が急拡大した時期です。&lt;br&gt;
+私もこの頃からChatGPTを使うようになり、すごいすごいとは聞いていたものの最初に触った時の衝撃は今でも覚えています。&lt;/p&gt;
+&lt;p&gt;静かな年始を過ごした後、サークルのメンツでディズニーに行っています。&lt;br&gt;
+このディズニーは、もともと体調もあまり良くなく、年末年始で完全にひとりモードに入っていたので上手く人間関係ハイに戻ることができず、あまりうまくいかなかったのを覚えています。&lt;/p&gt;
+&lt;p&gt;冬休みが明けて授業が再開されたとは言え、授業自体も残り2,3週あるかないか程度。&lt;br&gt;
+冬ごもりのひとりモードになったためか、特に面白い写真が何も残っていません。&lt;/p&gt;
+&lt;p&gt;この頃、こもってTwitterを見ていた時に、42Tokyoというエンジニア養成機関の記事だか広告だかを目にします。&lt;br&gt;
+大学入学から1年経とうとしているこの時期に、その1年を振り返り、ほとんど遊んでばかりで何も学びたいことを学べていなかったことに気づき、ちょっと後悔してました。&lt;br&gt;
+そんな時期に見つけた「エンジニア養成機関」と「学費無料」の文字に飛びつき、ノリで受験します。&lt;br&gt;
+一次試験はwebテストなのですが、とりあえず合格します。&lt;br&gt;
+二次試験は長期的なもので、予定を喰うものでしたが、免許の仮免も受かっており春休みは暇な予定だったため、翌月2月に二次試験を受けることに決めました。&lt;/p&gt;
+&lt;h3 id="202302-試験は過酷これは分水嶺"&gt;2023/02 試験は過酷、これは分水嶺
+&lt;/h3&gt;&lt;p&gt;ルフィが逮捕され、少年はスシローの醤油をペロペロしました。&lt;br&gt;
+醤油ペロは鮮烈でしたね。おでんツンツン以来のムーブメントを感じました。&lt;/p&gt;
+&lt;p&gt;2月は私が42Tokyoの二次試験Piscineを受験した月です。それ以外は何もしていません。&lt;/p&gt;
+&lt;p&gt;あ、月の頭に鍋二郎飲み会をしたのを忘れていましたね。&lt;br&gt;
+自分は飲まないながらも、お酒は最高なのだ、と再確認しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/049_alcoholGathering.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="酔ったからってそうはならんやろ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoの二次試験Piscineは、4週間かけて行われる過酷？なもので、とにかく毎日校舎に行き、プログラムの問題を解き、帰ります。&lt;/p&gt;
+&lt;p&gt;課題の内容はかなり初歩的な、というか原始的な？内容から始まるもので、コンピュータ科学をゼロから理解させる42の理念に基づいたものだと考えられます。&lt;br&gt;
+試験環境としても特殊で、受験生にはただ課題が与えられるのみで、教師は存在しません。&lt;br&gt;
+基本的には受験生同士で教えあったり、自分で調べて自己解決したりすることが推奨されています。&lt;/p&gt;
+&lt;p&gt;ChatGPTも出始めの時期だったので多くの学生は使っておらず、大半は何もわからないものをとにかく調べるだけの時間に苦しんでおり、42が提供する過酷な環境に耐え抜くことが求められているような試験内容でした。&lt;br&gt;
+今考えたら、ChatGPT(ほぼ)なしで受験できた最後の世代なのかな？&lt;/p&gt;
+&lt;p&gt;写真についても、他の受験生のプログラムを教え合う中で記録として撮らせてもらった写真ばかりで、試験内容の公開禁止の規則に抵触するため載せられるものがありません。&lt;/p&gt;
+&lt;p&gt;受験生は高校生から老後の余生として来られている方(失礼かも)までかなり多様で、同じ方向を向いて頑張る方々と濃密な4週間を経てお知り合いになれたことが、後々の人生の大きな財産になっているし、思い出そのものが強烈なものとして残っているなぁとしみじみ思います。&lt;/p&gt;
+&lt;p&gt;当時の42Tokyo校舎があったのが六本木のビルであったため、夜遅くまで課題に取り組んだ日の、窓から見える東京タワーの夜景がとても綺麗だったのを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/050_tokyoTowerNightView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ROPPONGI!!!って感じやなぁ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/051_roppongiNightView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="いい思い出"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202303-免許散歩合格結局ひとりで努力できるのがかっこいい"&gt;2023/03 免許、散歩、合格、結局ひとりで努力できるのがかっこいい
+&lt;/h3&gt;&lt;p&gt;侍ジャパンがWBC優勝し、マスク着用が個人の判断宣言が出たぐらいの時期です。&lt;br&gt;
+こう振り返ると、大学1年生の時はみんなマスクだったのかぁ、とびっくりです。&lt;br&gt;
+2年生が始まってからもマスクの方はぼちぼち居ましたが、私は速攻でマスク捨てました。&lt;br&gt;
+あと野球は全然興味ないです。ヌートバーしか覚えてない。&lt;/p&gt;
+&lt;p&gt;2月にとても頑張ったので、3月は休もうという感じでした。&lt;br&gt;
+とはいえ、仮免で放置した自動車免許があるので、ぼちぼち路上練習を入れる必要があります。&lt;br&gt;
+ケチって座学がない変な自動車学校に行っていたためあまり混んでおらず、春休み大学生免許シーズンであるにもかかわらず、結構なペースで路上練習を入れられました。&lt;br&gt;
+ちなみに、座学がない自動車学校＝免許センターでの一発試験のための補助学校　という感じなので、自動車学校での路上教習の先は、自動車学校でのテストではなく、府中免許センターでのガチ警察の人との密室ドライブデートをこなさないと合格にはなりません。&lt;br&gt;
+教官の方の態度がコワモテな感じなの、どうにかならないんですかね？緊張してしまいます。&lt;br&gt;
+おかげで本免で1回落ちました。&lt;/p&gt;
+&lt;p&gt;月の終わりにはなんとか合格し、これで免許ホルダーです。合格の日は満開の桜で、帰り道が輝かしかったのを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/052_licensePassSakura.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="サクラァ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/053_drivingTestSakura.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="パッと撮ったらめっちゃいい写真撮れた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この時期から、東京の街を夜散歩するという趣味が本格的になっていきます。&lt;br&gt;
+1年間頑張って人間関係ハイをやってみはしたものの、結局ひとりが好きという本質は変えられません。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/054_soloEveningWalk.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="池袋の東口からちょっと行ったとこ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/055_soloNightMemory.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="雑司ヶ谷のあたり"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoの合格発表は月の中旬だったかと思います。&lt;br&gt;
+合格発表の日までは本当に気が気でなくて、だから本免も1回落ちたんです。&lt;br&gt;
+合格発表の直後は、受験中に仲良くなった友人とすぐ連絡を取ったり、電話したりしました。&lt;br&gt;
+本当に嬉しくて、こっから自分のキャリアを築いてくぞ！！！って感じだったと思います。&lt;/p&gt;
+&lt;p&gt;この頃から就活に対する意識を強めていて、オンラインの就活の説明会？勉強会？で、スライド画面をスクショしている画像がいくつか残っていました。&lt;/p&gt;
+&lt;h2 id="2023年度"&gt;2023年度
+&lt;/h2&gt;&lt;h3 id="202304-日常何もない"&gt;2023/04 日常。何もない。
+&lt;/h3&gt;&lt;p&gt;ジャニー喜多川が問題になって、コナン映画のサブマリンが公開されました。&lt;br&gt;
+全然どっちも興味なかったです。&lt;/p&gt;
+&lt;p&gt;2年生の授業が始まります。&lt;br&gt;
+学部の制度上、2年生になると取れる授業の幅が増え、より専門的な内容の科目を取れるようになりました。&lt;br&gt;
+42Tokyoにも入って、エンジニアとしてキャリアを進める気満々だった当時の私は、「情報数理学」とか、「人間情報計測モデリング」？みたいなタイトルの科目をじゃんじゃん履修し、とても楽しんでいた記憶があります。&lt;br&gt;
+情報量とかエントロピーとか、うっすら覚えてます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/056_informationTheoryNotes.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="教室の様子"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の後半に、彼女と横浜中華街に行っていますね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/057_yokohamaChinatown.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="好きに食べ歩いたら結構高くつくんだよな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;あと、サンダルを履いている足を写した写真が尋常じゃないくらいの量残っています。&lt;br&gt;
+サンダルキャラだったんですね。&lt;br&gt;
+しかもドンキで買った死ぬほど安っぽいやつです。貧乏キャラだったんですかね。しゃばい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/058_cheapDonkiItem.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="天気はいいね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/059_cheapDonkiOutfit.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="所沢キャンパス。リュックの形みんなおんなじだな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202305-入学決起"&gt;2023/05 入学、決起
+&lt;/h3&gt;&lt;p&gt;ゼルダのティアキンが発売されます。&lt;br&gt;
+ゼルダのティアキンにはたくさんの時間を溶かさせていただきました。全クリしてないです。&lt;/p&gt;
+&lt;p&gt;車の免許を取ったからかなんかの理由で、キャンパスの近くにある三井アウトレットパークまで遊びに行った時に、敷地に停まっていたクレープ屋台のデコレーションの文字が、「ももちゃんクレープ」ではなく、「ももちゃクレープん」だったのが面白くて、自分の中で半年くらい流行ります。&lt;br&gt;
+ももちゃクレープ&amp;rsquo;nて。rock&amp;rsquo;n rollじゃないんだから。&lt;br&gt;
+店主はコワモテなスキンヘッドのおっさんで、rockを感じました。クレープ作るの下手でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/060_rockCrepeShop.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="スキンヘッド店長は前職なんだったんだろう。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の中旬に、42Tokyoの入学式がありました。&lt;br&gt;
+すでに在籍していた学生の方から、入学試験よりも難しい課題があることは教えてもらっていたので適度にビビりつつも、結構ワクワク。&lt;br&gt;
+校舎が六本木のオフィスビルってのが東京っぽくて良かったんですけどねぇ。移転しちゃいました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/061_fortyTwoEntranceTask.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="特にコメントはないです"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この時期だったかは覚えてないですが、親しい友人の男性女性1人ずつと一緒に、銭湯まで歩いて行って、帰りもしこたま歩いて鉄板焼き屋に行くというイベントが発生したような気がしています。&lt;br&gt;
+結果的に、このメンツはその後色々とお世話になったので、後から考えればとても思い出深い出来事でした。&lt;br&gt;
+そのイベントに紐づくお好み焼きの写真かどうか、微妙なところですが、お好み焼きです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/062_okonomiyakiEvent.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="自分で焼くタイプの店だったことだけ覚えてる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202306-大学生活断髪"&gt;2023/06 大学生活、断髪
+&lt;/h3&gt;&lt;p&gt;藤井聡太が七冠を達成し、Apple Vision Proが発売されました。&lt;br&gt;
+将棋はマジで知らんです。Apple Vision Proは欲しいです。&lt;/p&gt;
+&lt;p&gt;1日に高熱出してる写真がありました。&lt;br&gt;
+翌日の日付で、コロナ陽性の証明書の写真がありました。&lt;br&gt;
+ここで初めてのコロナ罹患だったと思います。&lt;br&gt;
+いい感じにキツくて、初コロナちょっと嬉しかったような気がします。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/063_firstCovidTest.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="コロナはこの一回だけかな？"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ちょうど涼しいぐらいの季節になって、飯能のムーミンバレーパークに行きました。&lt;br&gt;
+彼女と行っていますね。&lt;br&gt;
+生来のひきこもりにしては、定期的に彼女デートイベントをこなしています。えらいですね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/064_dateEventPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ムーミン全然知らん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;なんの広告の文脈だったかは忘れましたが、クールポコの仙庭さんの高画質画像が公開されました。&lt;br&gt;
+これがめっちゃ嬉しかったです。&lt;br&gt;
+こんなに綺麗な「な〜」と「に〜」をスマホに入れておけるのは、この時代に生まれた人間の特権だと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/065_kanaMessageScreenshot.jpg"
+	width="1600"
+	height="900"
+	loading="lazy"
+	
+		alt="「な〜」"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="426px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/066_niMessageScreenshot.jpg"
+	width="1440"
+	height="810"
+	loading="lazy"
+	
+		alt="に〜"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="426px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;早稲田大学の所沢キャンパスには、空飛ぶペガサスの像があります。&lt;br&gt;
+よく見たら、ペガサスがめっちゃプリケツです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/067_pegasusStatue.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="翼は結構ブレードタイプで、航空工学に基づいてそうなデザイン"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;コメダの入り口の引き戸説明のフォントは、ホラー風味です。&lt;br&gt;
+たまにあるこのフォント、レトロでおしゃれな感じと、ホラーな感じの両方に使われているの、結構ミスじゃないですか？&lt;br&gt;
+どっちかが譲った方がいいと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/068_crowdedSignboard.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="扉を引くことで何か悪いことが起きそうです"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の半ばに、4年くらい伸ばした髪を一気に切りました。&lt;br&gt;
+もちろんケチなんで、普通のハサミで、セルフでいきました。&lt;br&gt;
+40cmくらい一気にいきましたので、切り離した髪の毛についてはヘアドネーションさせていただきました。&lt;/p&gt;
+&lt;p&gt;ヘアドネーションですが、人毛でかつらを作って、小児がんの子供とかに渡すらしいです。&lt;br&gt;
+元々髪型に興味がなかったために思いつきで伸ばし始めたこのロン毛。高校の時は変なやつみたいな認定受けてたような気がするし、中学の友達は触れづらそうにしてたような気もするけど、どこかのガキを笑顔にできているなら、これ以上の幸せはありません。&lt;/p&gt;
+&lt;p&gt;髪の毛は輪ゴムで束にして、zip lockに入れて、レターパックに入れて所定の住所に送る感じで、案外あっさりドネーションできちゃいました。&lt;br&gt;
+これが、レターパックで髪の毛送れ　詐欺です。&lt;br&gt;
+髪の毛詐欺られた！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/069_haircutBefore.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="切る直前の"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/070_haircutAfter.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="髪の毛詐欺られて素寒貧です"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;キャンパスでたまたま見つけた、振袖のパンフレット。&lt;br&gt;
+に映るこのモデルの女性の方、タイプです。&lt;br&gt;
+名前調べたけどわからなかったです。教えて。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/071_unknownPlant.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="真ん中の方ね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202307-普段の生活発起おめ"&gt;2023/07 普段の生活、発起、おめ
+&lt;/h3&gt;&lt;p&gt;ビッグモーターが草を枯らし、TwitterがXになりました。&lt;br&gt;
+草生えますね。&lt;/p&gt;
+&lt;p&gt;基本的にはただ淡々と授業を受けています。&lt;br&gt;
+面白かった授業の場面として、自分で筋電計を作る、というものがありました。&lt;br&gt;
+電極を自分の腕につけ、いい感じに回路を組んで、PCのボイスアプリに接続します。すると波形が見れると。&lt;br&gt;
+生体実験にはそんなに興味がなかったのですが、こればかりはちょっと興奮しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/072_bioExperimentSetup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="腕毛が…笑"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;また、月の頭に、彼女と付き合って一周年を祝うケーキを食べてますね。&lt;br&gt;
+世のカップルはこーゆうことをしているのか、と思いました。偉いなぁ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/073_coupleDateSpot.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="不二家のケーキは上京してから初めて認識した"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;多分ここら辺で、同級生でエンジニア系志向の女性の方から、LINEが届きます。&lt;br&gt;
+内容は、情報系のサークルを一緒に作らないか？という誘いです。&lt;br&gt;
+軽い提案のような文面だったか、アツい打診の文面だったか。もう忘れてしまいました。&lt;/p&gt;
+&lt;p&gt;1ヶ月ほど前にお好み焼きを食べた時になんとなく、こんなサークルあったらいいよね的な話題があったんだと思います。それを実現させようという流れです。&lt;/p&gt;
+&lt;p&gt;LINEをいただいた正確な日付は忘れました(LINE履歴が消えてしまいました)が、少なくとも夏休みの間には、サークル設立のための下調べが進んでいったことがわかる記録が残っていました。&lt;/p&gt;
+&lt;p&gt;このタイミングで、お好み焼きを食べたもう1人の男性の友人にも話を回し、3人で連携して話が進んでいきます。&lt;/p&gt;
+&lt;p&gt;以降、サークル創設と拡大に対して、かなりの時間資本を投下していくことになります。しゃばい俯瞰をして言うのであれば、これが&amp;quot;学生時代に力を入れたこと&amp;rdquo;、ガクチカだ！と、胸を張って言えます。言えますし、もっとちゃんと人生レベルでこの事象に向き合うのであれば、自分の学生時代が意味のあるものだったのかもしれない、と思えるような。周囲のコミュニティに対して還元できたかもしれない、と思えるような。とても大切な出来事でした。&lt;/p&gt;
+&lt;p&gt;軽い気持ちだったか、アツい気持ちだったかはわからないけれど、LINEをくれて、友人女性にはとても感謝しています。ありがとう。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/074_circleSnsRecord.jpg"
+	width="1226"
+	height="536"
+	loading="lazy"
+	
+		alt="8月だけど、サークルのSNSを更新し始めた記録"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="228"
+		data-flex-basis="548px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202308-無の帰省淡々と課題祝20歳"&gt;2023/08 無の帰省、淡々と課題、祝20歳
+&lt;/h3&gt;&lt;p&gt;慶應義塾高校が夏の甲子園で107年ぶり優勝し、ドラマ『VIVANT』が流行りました。&lt;br&gt;
+野球は興味ないし、阿部寛はﾍﾞｯﾊﾟﾝ!?って何回言うねんって思いました。ドラムかわいい。&lt;/p&gt;
+&lt;p&gt;8月は夏休みです。&lt;br&gt;
+流石に昨年の帰省で青春18きっぷには懲りています。19歳になったし。&lt;br&gt;
+この年の帰省は、飛行機にしました。&lt;br&gt;
+とは言ってもケチはケチなので、最安のチケットである早朝便に乗るため、人生で初めての空港泊を敢行します。&lt;br&gt;
+成田空港の第三ターミナル。コンセントのあるベンチを占領します。&lt;br&gt;
+かなり眠いけど、ちょうどいい感じに寝かせてはくれないゴワゴワベンチのおかげで、早朝の松屋が身に沁みました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/075_earlyMorningMatsuya.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="どこでも寝れるタイプ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;うん。やっぱり地元の風景が一番きれい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/076_hometownLandscape.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="色味が映えるよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;高校への登下校で使っていた路線の電車が、なんかめっちゃ近未来な感じの車体になっていて、ちょっと悲しかったのを覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/077_hometownTrain.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="フォルムかっこいい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この帰省では、多分本当に何もせずに帰りました。飯の写真しかないですね。&lt;/p&gt;
+&lt;p&gt;この月、裏では彼女が1ヶ月まるまる海外留学に行っていました。&lt;br&gt;
+私はその分、42Tokyoの課題を進めていたと思います。&lt;br&gt;
+42Tokyoの課題の中で、結構大変とされる &lt;code&gt;minishell&lt;/code&gt; というものがあります。&lt;br&gt;
+この時期には &lt;code&gt;minishell&lt;/code&gt; より前の課題が終わっていて、ここから3,4ヶ月 &lt;code&gt;minishell&lt;/code&gt; に苦しんだと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/078_minishellProgress.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="やっぱり六本木校舎からの見晴らしの良さが最高だったんだけどなぁ、"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;居候していた彼女の家で、ひとり、20歳になります。&lt;/p&gt;
+&lt;h3 id="202309-成人は自由と責任が始まります"&gt;2023/09 成人は自由と責任が始まります
+&lt;/h3&gt;&lt;p&gt;実写版の『ONE PIECE』が公開され、iPhoneがUSB-Cになりました。&lt;br&gt;
+ワンピースは完結するまで読まないって決めてます。iPhone使ってる人は金持ち。&lt;/p&gt;
+&lt;p&gt;Twitterサークルの方で合宿がありました。&lt;br&gt;
+メンツの中に高いカメラを持っている方がいて、めっちゃ写りのいい写真がたくさん共有されているので、ここだけカメラフォルダの厚みがすごいです。&lt;br&gt;
+カメラっていい趣味だなぁ。&lt;br&gt;
+この時期は人間関係オフモードだったので、今思うと、もっと上手く会話できたなぁ〜みたいなうっすら後悔があります。&lt;/p&gt;
+&lt;p&gt;晴れて20歳、成人になったなぁ、と思うかと思っていたのですが、19歳の時に成人が18歳に引き下がったので、成人になったというよりかは、成人を追い越していました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/079_pensionLetterNightView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="国民年金の書類が来て憂鬱だったので、東京の夜景を見せてあげました。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/080_tokyoNightViewLetter.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ほら、これが東京だよ〜"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202310-活動するだけじゃ疲れるんでね旅行行こ"&gt;2023/10 活動するだけじゃ疲れるんでね。旅行行こ。
+&lt;/h3&gt;&lt;p&gt;藤井聡太が八冠になり、全銀ネットが障害を起こし、ジャニーズがスマイルアップになりました。&lt;br&gt;
+僕なんてまだ0冠なのに&amp;hellip;。&lt;br&gt;
+ジャニーズが亡くなってどうなるかと思ったら、M!LK？とか、いろんな事務所のアイドルがどんどん出てきましたね。需要が全てを作り出していきます。&lt;/p&gt;
+&lt;p&gt;友人女性と設立した情報系サークルの活動が徐々に本格的になっていきます。&lt;br&gt;
+いろいろ話し合った結果、部室が欲しいよねということになり、そのためには大学の公認サークルになる必要がありました。&lt;br&gt;
+公認サークルになるためには、実績が必要でした。&lt;/p&gt;
+&lt;p&gt;活動の一歩目として、とりあえずどこでもいいから集まって、プログラミングを勉強する空間/コミュニティを作っていこう。活動の毎にレンタルスペースを借りるのは現実的ではなく、自然とカフェが集合場所になっていきました。&lt;br&gt;
+記憶の中でも、初回のサークル説明会をするためのレンタルスペースを借り、とにかくいろんな友人に初回説明会の情報を口コミしてくれ！！って言い回ったのを鮮明に覚えています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/081_circleInfoSession.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="駅前のタリーズね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/082_circleEventFlyer.jpg"
+	width="1600"
+	height="1600"
+	loading="lazy"
+	
+		alt="オライリー本オマージュね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="100"
+		data-flex-basis="240px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Twitterで会話するだけのコミュニティに入っていたおかげで、自分と友人女性のアカウントでアナウンスするだけで何人かのメンツが集まりました。これに私たちの友人数名が加わり、7,8名の初期メンバーになります。&lt;/p&gt;
+&lt;p&gt;彼女の誕生日に合わせて、バカ高いモンブランを食べにいきました。&lt;br&gt;
+朝から並ぶんですよこれ。&lt;br&gt;
+めっちゃ美味しかったです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/083_tastyMeal.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="和栗のモンブランね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;秋学期の授業が始まり、学部の制度上、3年生からのゼミを選ぶ活動が始まります。&lt;br&gt;
+1年生の時のサークル新歓に参加しまくったように、こーゆう時の情報戦には一切の妥協なく全力で挑むタイプです。&lt;br&gt;
+42Tokyoの学生になって以来、エンジニアとしてのキャリアを極めるんだ！！って感じだったので、情報系のことができる研究室という条件で探しました。そこまで重要視していなかったですが追加条件として、LLMを触れることも設定していました。結局はその両方が叶う研究室に入ることが決まります。&lt;br&gt;
+結構アツい面談をしたのに第二志望にしてしまった松居先生にはなんか申し訳なく思っていますし、勝手にですが全然気まずいです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/084_labInterviewNotes.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="研究室選びは情報戦。妥協なく全力。情報系×LLMが叶う研究室に決めた。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;山梨に紅葉を見にいこう！ということで、予定のあったメンツで車を出します。&lt;br&gt;
+ほうとうを食って、紅葉を見て、ほったらかし温泉に行きます。&lt;br&gt;
+私だけちょっと体調が悪く、温泉には入らなかったため、若干場が白けました。ごめん。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/085_hotSpringTripPhoto.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ほうとうは美味しいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/086_hotSpringTripView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="まぁ、紅葉"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月末に、情報系サークルの方の周回場所として、大学の図書館の一室が使えそうなことに気づきます。&lt;br&gt;
+ここがめっちゃ穴場で、喋ってもいい会議室だし、ホワイトボードあるし、空調めっちゃ効いてるし。&lt;br&gt;
+カフェ集合の金もケチるようになったらおしまいです。まぁ普通に迷惑だったか、カフェ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/087_cafeStudySession.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="大学図書館の穴場会議室"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202311-活動うなぎいも"&gt;2023/11 活動、うなぎ、いも
+&lt;/h3&gt;&lt;p&gt;阪神が38年ぶり日本一になり、OpenAIのアルトマン解任復帰騒動がありました。&lt;br&gt;
+野球はマジで興味ないです。OpenAI騒動のスピード感はなんかすごかったですね。&lt;/p&gt;
+&lt;p&gt;月の頭は、とにかく数日おきに情報系サークルの勉強会を開催します。基本ただ集まってそれぞれやることやるだけですが、その場に幹事長が居ないわけには行かないので、とにかく日常を全部これに注いでいた時期です。というより、これから1年くらいはほとんどサークルに時間を注ぎ込みます。&lt;/p&gt;
+&lt;p&gt;月の真ん中あたりで父親が東京に顔を出した際に、バカ高いうなぎを奢ってくれます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/088_expensiveEelDish.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="東の尾花 西の野田岩"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/089_eelLunchWithDad.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="う巻きと蒲焼"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/090_eelRestaurantMemory.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ウナギィ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;全然貧乏家庭の認識だったので、会計で2万だか4万だかの数字をチラ見したときはめっちゃドン引きしました。&lt;br&gt;
+でも、息子の上京を祝ってくれているのか、息子と2人きりの状況でカッコつけてくれているのか。父親の姿はとても嬉しく感じました。&lt;br&gt;
+それ以降、父親が東京に来るたびに、割といい額のお小遣いと一緒に高いご飯に連れて行ってくれましたが、たとえ見栄のカッコ付けだとしても、生涯残るいい思い出をくれたことにとても感謝しています。&lt;/p&gt;
+&lt;p&gt;図書館の会議室スペースを使ったもくもく勉強会に、徐々に人が集まるようになってきます。&lt;br&gt;
+もちろん波はありましたが、サークル設立以前の友達も参加してくれたりして、活動を盛り上げるのを手伝ってくれていました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/091_circleMeetingRoom.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="コミュニティは集まることが大事"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この時期は日常生活の写真がほとんどなく、サークル活動のSNS用の写真しか残っていません。&lt;/p&gt;
+&lt;p&gt;唯一残っていたのが、上手く作れたふかし芋でした。&lt;br&gt;
+上手くふかせたので、陽の光を見せています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/092_steamedSweetPotato.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="光ってるね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202312-帰省令和ロマン優勝おめでとう"&gt;2023/12 帰省。令和ロマン優勝おめでとう
+&lt;/h3&gt;&lt;p&gt;松本人志が文春砲に吹き飛び、M-1で令和ロマンが優勝しました。&lt;br&gt;
+松本、動きました。令和ロマンは以前から見ていてネタが好きだったので、めっちゃ興奮したのを覚えています。&lt;/p&gt;
+&lt;p&gt;月の頭に、第一志望の研究室からの合格メールが届きました。&lt;br&gt;
+結局、この研究室を通して出会ったいろんな方と仲良くさせていただくことになり、学術的な場としてももちろん、いろんな皆さまと繋がれるいいコミュニティに入れたなぁ。と、楽しく振り返れています。今後とも皆さんと仲良くしていきたい。&lt;/p&gt;
+&lt;p&gt;この時期に、地元の自治体から成人式の案内が届きました。&lt;br&gt;
+成人が変わったことで、「成人式」ではなく、「二十歳のつどい」になっていて笑いました。&lt;/p&gt;
+&lt;p&gt;秋学期から始めたTA(ティーチングアシスタント)、つまり、授業のお手伝いさんバイトで出会った方々が面白い方で、バイトが楽しかった記憶があります。穏やかで気の優しい先輩とTwitterを繋がってみたところ、めっちゃ下ネタ言ってて笑いました。&lt;/p&gt;
+&lt;p&gt;研究室の合格メールに、「4月までの間の自己研鑽として、資格取得とかおすすめですよ」的な内容があり、真面目だったので何か受けようかなということで、G検定の勉強を始めます。&lt;br&gt;
+本当は基本情報技術者とかを取るべきなところ、私の悪い逆張り癖が出てしまい、G検定を選択します。&lt;/p&gt;
+&lt;p&gt;そして、1年生の時の授業のグループワークでLINEを持っていただけの先輩から、臭いLINEが届きます。&lt;br&gt;
+こーゆうの、嬉しくなっちゃいます。いくらバックもらってるんですか？&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/094_referralScreenshot.jpg"
+	width="720"
+	height="1600"
+	loading="lazy"
+	
+		alt="エンカレッジメンターですね。かわいそうに。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="45"
+		data-flex-basis="108px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoについて、上述した &lt;code&gt;minishell&lt;/code&gt; という課題が、月の半ばでやっとの思いで終了します。ペアで取り組む課題なのですが、最初に組んだ人がギブアップしてしまった後、2人目として組むことになったペア相手が女性DJの方で、(結局そんなにガッツリ仲良くはならなかったですが、)その後、色々活動している姿を遠巻きに楽しませていただいています。二郎を教えてくれたバンドマン？の彼も、ペア組んだ女性DJも、東京にはいろんな人がいます。こーゆー方と会った時、上京してよかったと本当に思います。&lt;/p&gt;
+&lt;p&gt;年末に実家に帰省するのですが、その直前、ふと鏡を見たときに、R指定すぎるな、と思って撮った写真が残っていました。&lt;br&gt;
+今見たらまぁわかるけど、そんなにR指定でもないよ。&lt;br&gt;
+私はDJ松永と同じ誕生日です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/095_birthdayMemory.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="鏡汚いな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ほんで、帰省。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/096_familyHome.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="実家"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;お酒を飲める年齢になったら、直後の長期休業期間で実家に帰ろうとは思っていました。&lt;br&gt;
+酒をあんまり飲んでなかった両親がぼちぼち晩酌をするようになったらしいとは聞いていましたが、本当にお酒飲んでる姿のイメージがなかったので、初めて食卓にビールが並んだのが新鮮でした。&lt;br&gt;
+そして、実家のビーフシチューが一番美味しいです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/097_beefStewDinner.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ビール嫌いだけどサッポロクラシックはギリ飲める"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/098_newYearHomeMeal.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="一回美味しいっていったら毎回作ってくれるようになった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/099_winterHomeView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="実家からの景色が一番いいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202401-成人式楽しい飲み会"&gt;2024/01 成人式、楽しい飲み会
+&lt;/h3&gt;&lt;p&gt;能登地震があり、羽田空港で航空機がぶつかり、桐島聡が名乗り出た後に死亡しました。&lt;br&gt;
+世界の終わりみたいな年のはじめで、すごい雰囲気だったのを覚えています。&lt;/p&gt;
+&lt;p&gt;6日に中学の成人式があり、7日に高校の同窓会がありました。&lt;br&gt;
+中学はとても小さい学校だったので、集まった全員の顔がわかるし、みんなかっこよくなったり美しくなったりしててすごいな&amp;hellip;.と思ったりしてました。働いてる人もいたし、みんな頑張ってるんだなぁ〜と思って、僕が若干自意識が捨てきれてない感じなのを俯瞰して恥ずかしかったです。&lt;br&gt;
+Twitterののアカウントがバレてるのを教えてくれた人がいて、これが垢バレだ！と思ってちょっと嬉しかったです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/100_middleSchoolReunion.jpg"
+	width="578"
+	height="531"
+	loading="lazy"
+	
+		alt="マキマにバレたら終わりだからね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="108"
+		data-flex-basis="261px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;高校の同窓会については、言っても2年しか経ってなかったので皆変わらず、いつメンみたいな感じの4人と卓を囲み、いい感じに写真を撮って終わりました。今あんまり連絡取れてないので、落ち着いたら連絡してみようかな。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/101_highSchoolReunion.jpg"
+	width="1479"
+	height="1109"
+	loading="lazy"
+	
+		alt="仲良かった四人組に、よく知らない2人を添えて。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;中学も高校も、上京した友達はほとんどいません。ほとんどの人付き合いが途切れてしまっているのはとても悲しく思います。自分でも、客観的に地元を捨ててしまっている感あるよなぁと思う時があり、地元愛は特にないですが、地元の友人愛はとてもあるので、旧交を温めたいなぁと思っています。&lt;/p&gt;
+&lt;p&gt;帰省期間中、実家にまとめてあった手紙だのなんだのを開いてみる機会がありました。外は雪でやることないですしね。その中に、12歳の自分から20歳の自分への手紙がありました。タイムカプセルから出てきたんだっけな？&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/102_timeCapsuleLetter.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="字汚いな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;12歳は、結構いい内容の文章書きますね。振り返り記事を書いている時点の私は20歳ではないですが、何か大きな決断を下すときにはこれを読み返します。&lt;br&gt;
+読むたび、12歳の自分が予想した8年後の自分が、かなり的を射ていることに驚かされます。&lt;br&gt;
+今の自分は、今から8年後の自分に、こんなに的確に問いかけることができるでしょうか。子供ってすごいです。&lt;/p&gt;
+&lt;p&gt;帰省中に勉強しようと思っていたG検定のテキストを、一度も開くことなく東京に帰ります。&lt;br&gt;
+焦った私は、柄にもなくノートを撮ったりしながら勉強を始めます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/103_gExamStudyNotes.jpg"
+	width="1125"
+	height="1600"
+	loading="lazy"
+	
+		alt="久しぶりにこんな真剣に座学やってますね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="70"
+		data-flex-basis="168px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再三ですが、情報系サークルの定期勉強会をする日々です。とにかく、活動実績を積み上げていきます。&lt;br&gt;
+この時期から、4月の新歓時期に向けて、サークル運営における諸々の資料準備がとても大変になっていきました。具体的には、公認をもらうための申請の書類と、サークル会費を集めるための銀行口座の作成です。&lt;/p&gt;
+&lt;p&gt;銀行口座の方がとても大変で、口座が売買されてテロに使われるのを防ぐため、本当に活動実績や会則がちゃんとしているサークルなのかどうか、さまざまな資料が求められます。結局、40枚くらいの紙の束をほぼ自力で作成し、その過程で銀行の窓口と大学の学生課窓口をなん度も往復します。&lt;br&gt;
+大変だったなぁ。&lt;/p&gt;
+&lt;p&gt;そして、この時期から本格的に株式投資が好きになります。中学生の時にFXに興味を持っていたものの、さすがに口座が作れず、くすぶっていたこのマーケット趣味。大学1年の時はサークルで遊んでいたし、2年の時は42Tokyoとサークル設立に奔走しており、やっとこの時期になってマーケット熱が再燃します。のちに卒業研究でも株を題材にするほど、しっかり好きになっていきます。&lt;/p&gt;
+&lt;h3 id="202402-思いつきで行動するといい時と悪い時がある"&gt;2024/02 思いつきで行動すると、いい時と悪い時がある。
+&lt;/h3&gt;&lt;p&gt;OpenAIがSoraを発表し、Apple Vision Proが発売されました。&lt;br&gt;
+なんか、未来って感じですね。&lt;/p&gt;
+&lt;p&gt;月の頭に、高校の友達が一瞬だけ東京に来ました。&lt;br&gt;
+飲みに行ったのが楽しかったですね。&lt;/p&gt;
+&lt;p&gt;また、TAのメンツで一度飲みにいきました。サークルや研究室以外にも、ちゃんと知り合いを作れたというのが、結構嬉しい思い出です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/104_taDrinks.jpg"
+	width="1108"
+	height="1477"
+	loading="lazy"
+	
+		alt="TAの先輩方"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ここで、再度思いっきり髪を切ります。&lt;br&gt;
+今回は、別にドネーションとかはせず。興がのったので結構いきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/105_donationEvent.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="興で切る長さじゃない"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の半ばに、ふと思いつきでバイクの免許をとりたくなります。&lt;br&gt;
+きっかけは本当にわからないです。&lt;br&gt;
+ふと。&lt;br&gt;
+教授がメールに含めていた、「資格試験頑張るといいですよ」って、そーゆー意味じゃないと思う。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/106_certificationEmail.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="フルヘルメットで一番安いやつ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;最安で取ろうと思い、合宿免許の料金を安い順にソートし、一番上に来たやつを予約しました。&lt;br&gt;
+場所は那須高原。&lt;/p&gt;
+&lt;p&gt;10日間の合宿。ワクワクで送迎バスに乗り、駅から合宿所まで向かいます。&lt;br&gt;
+宿舎について荷物を置いたのち、まず、契約書を書くための教室に通されます。周囲は高校生ヤンキーばかり。不穏です。&lt;br&gt;
+契約書が配られ、教官が、「引き返すなら今です。今このタイミングで帰る決断をすれば、帰りのバスを出します。」と説明します。不穏です。&lt;br&gt;
+わけもわからず流されて書類にサインし、午後には授業が始まります。私は自動車免許を持っていたため座学はないコースですが、実技のための最低限の説明をするための、最小限の座学は組まれます。教室に入ってきた大柄の先生が、信じられないくらいの大声で、怒鳴りながら授業を始めていきます。不穏です。&lt;/p&gt;
+&lt;p&gt;振り返って思うに、安いからなのか、近くの16歳ヤンキーが一堂に集うヤンキーバイク免許合宿所だったわけです。多分16歳になる前から原付にはガッツリ乗ってて、16歳になった瞬間に最安で免許取りに来たわけです。&lt;br&gt;
+来る人がヤンキーだから、先生の授業スタイルもヤンキースタイルになっていったのでしょう。&lt;/p&gt;
+&lt;p&gt;ミスをするとすぐに怒鳴られます。バイクのハンドルに何がついているかも知らない段階から、ウィンカーをつけろと言われて、付け方が分からずあたふたしていると、怒鳴られます。教習車の重量は同じ排気量帯の中でも重めのもので、うまくスタンドが立てられずにいると、怒鳴られます。&lt;/p&gt;
+&lt;p&gt;あぁなんとストレスフルな環境なことか。これを10日間耐えなければならないのかと絶望します。三日目の夜くらいが一番辛かったです。ちなみに外出禁止。息抜きで散歩でもできたらもっとマシなのに。&lt;br&gt;
+少し慣れてきたと思った七日目くらいの夜に、もう一回辛くなります。Netflixのプルートゥを見て気を紛らわしてました。&lt;/p&gt;
+&lt;p&gt;最終試験の日は本当に緊張しました。これで合格できなかったら、この最悪の環境に延泊しないといけないのか&amp;hellip;.と。&lt;/p&gt;
+&lt;h3 id="202403-バイクってアホしか乗らない"&gt;2024/03 バイクってアホしか乗らない
+&lt;/h3&gt;&lt;p&gt;日銀のマイナス金利が解除され、水原一平が賭博しちゃいました&amp;hellip;。&lt;br&gt;
+金利正常化は嬉しいですが、変動金利で奨学金借りてる身にはきついなぁ、。&lt;br&gt;
+イッペー・ミズハーラー！&lt;/p&gt;
+&lt;p&gt;三月の頭に、地獄のバイク免許合宿から解放されます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/107_motorcycleCampEnd.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="そらこんな顔にもなりますわ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;少しして、研究室の新歓合宿があります。同期9人とはもうすでに顔合わせしていましたが、同期で仲良くなるのは大事なので割と張り切って参加です。&lt;br&gt;
+合宿内で、次の春学期の履修を考える時間もあります。いろいろ悩んだ結果、「金融DX」という授業を受けることに決めるのですが、これはとても好きな授業でした。再度本腰を入れて金融市場に向き合いたいなと思えるきっかけにもなりましたし。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/108_springCoursePlanning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="当時の時間割"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;そして、いよいよ、バイクを購入です。&lt;/p&gt;
+&lt;p&gt;基本的には金がないので、予算は30万。&lt;br&gt;
+中型で、長旅ツーリング向きなもの。&lt;br&gt;
+キャリアをつけることができて、できれば黒色。&lt;br&gt;
+Vstrom250がかっこよくて理想でした。&lt;/p&gt;
+&lt;p&gt;結果としては、中古のCBR200Xを、込み込みで40万。&lt;br&gt;
+黒色のモデルもあるのですが、その場で取り寄せられる中古の在庫は赤色しかなく、まぁ妥協です。&lt;br&gt;
+妥協の理由としては、ファーストバイクは絶対立ちゴケしまくるから。&lt;br&gt;
+お金貯まったら、Vstrom250を新品で買って、諸々キャリアをカスタマイズしたいです。&lt;br&gt;
+あーワクワク。金欲しいなぁ。&lt;/p&gt;
+&lt;p&gt;とはいえなんだかんだ、結構CBR200Xも愛してきています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/109_cbrMotorcycle.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="アホみたいな色味が逆にいいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h2 id="2024年度"&gt;2024年度
+&lt;/h2&gt;&lt;h3 id="202404--新歓はもう疲れたよ"&gt;2024/04 新歓はもう疲れたよ
+&lt;/h3&gt;&lt;p&gt;1ドルが160円になり、頂き女子りりちゃんに懲役9年の判決が下ります。&lt;br&gt;
+りりちゃんマニュアル、すごかったですね。りりちゃんは獄中です手記も、あれは文学です。&lt;/p&gt;
+&lt;p&gt;4月は新歓シーズン。設立した情報系サークルも、初めての新歓シーズンを迎えます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/110_circleRecruiting.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="学生が通る道で声をかけたり"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/111_costcoCircleMeal.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="コストコで飯買って、集まって食ったり"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この年の新歓は頑張りました。&lt;br&gt;
+結構たくさん入ってくれました。&lt;br&gt;
+自分のやるべきことは、部室を獲得し、コミュニティを作り、次の世代に繋ぐこと。&lt;br&gt;
+そのために、今回の新歓では人数を獲得していく必要がありました。&lt;br&gt;
+SNSもフル活用し、非公認サークルで新歓が制限される中でもいろんなことをやったと思います。&lt;br&gt;
+この年の春は、割とちゃんと人間関係ハイのスイッチを入れられたので、いろんな初対面の人とちゃんと会話できたと思います。&lt;br&gt;
+結局ヨッ友が増えるだけなんだけどね。そんなもんです。&lt;/p&gt;
+&lt;p&gt;42Tokyoは、校舎の位置が六本木から新宿中央公園に移ります。&lt;br&gt;
+前の校舎の方が、好きだったなぁ&amp;hellip;。The TOKYOみたいな景色の方が気分上がります。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/112_newTokyoCampusView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="めっちゃ学校っぽくはある"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202405-春は社交の季節"&gt;2024/05 春は社交の季節
+&lt;/h3&gt;&lt;p&gt;共同親権の民法改正があり、GPT-4oがリリースされました。&lt;br&gt;
+離婚とか死別でのシングルファーザー系ほっこり物語、好きがちです。親権が母親側に有利という問題が少し解決された、的な文脈で話題になっていたのかな？記憶に残っています。&lt;br&gt;
+GPT-4oのマルチモーダル性は本当にすごかったですね。LLMはマジでAGIじゃんってなりました。&lt;/p&gt;
+&lt;p&gt;研究室の活動が始まり、学術の世界に触れ始めます。論文読んだり。&lt;br&gt;
+研究室の人と仲良くなれるイベントもぼちぼちあり、5月にはソフトボール大会がありました。なんかソフトボール大会にアツい謎の先輩がいて、なんか上手くいって、準優勝賞金がもらえました。その後の飲みで消しとばしますが。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/113_softballTournament.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="野球場"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/114_softballAfterparty.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="打ち上げは中華"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;「ななすけの散歩録」というYoutubeチャンネルのファンなのですが、ステッカーを置いてあるカフェがあるという話が動画内で出てきて、わざわざそのためだけに外出して取りにいきました。ちゃんと何かのファンとして推し活的なことをしたのは初めてでした。結構興奮な出来事だったので、わざわざ写真も撮っています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/115_nanasukeStickerCafe.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="こーゆー写真撮るタイプではない"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/116_fanStickerPhoto.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="今もまだ残ってる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoでは、ぼちぼちなペースで各種イベントがあり、このタイミングでほぼ初めて、ハッカソンに参加します。&lt;br&gt;
+ブロックスというボードゲームをプレイするロジックを作る、ソルバー作成のハッカソンでした。試合形式のハッカソンだったのでわかりやすくて楽しかったですし、受験の世代が違う方と仲良くなれて嬉しかったです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/117_blokusHackathon.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="戦略を書き出して詰めてる時のメモ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;また、サークルの新歓の延長として、大学野球の早慶戦を観戦しにいきました。結構楽しい試合展開で何回も早稲田の歌歌ったりして、大学生活を思い返す上で結構思い出に残る場面になりました。行く前は結構渋っていたのですが、結局行ってよかったと思います。&lt;/p&gt;
+&lt;h3 id="202406-研究室が始まるよ"&gt;2024/06 研究室が始まるよ
+&lt;/h3&gt;&lt;p&gt;ニコニコのサイバー攻撃があり、東京都知事選のポスターが話題になりました。&lt;br&gt;
+なんか全体的に昔のネットの匂いがしますね。&lt;/p&gt;
+&lt;p&gt;研究室の活動にもなれてきて、ふと研究室の本棚を見たら、麻雀の何切るがありました。&lt;br&gt;
+弊研究室のゼミは、論文を読むのとかは基本的に自己責任で、授業の時間はグループでチーム開発とかを行うスタイルだったので、入って2ヶ月で非エンジニアに設計を説明したりしていますね。メモが出てきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/118_labDesignMemo.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="麻雀はマジで役覚えられん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/119_researchLabWhiteboard.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ちゃんとwhisperとか使ってるなぁ。GPTも3.5だし。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202407-部室もらえて嬉しいね髭脱毛はね"&gt;2024/07 部室もらえて嬉しいね。髭脱毛は○ね
+&lt;/h3&gt;&lt;p&gt;新紙幣が発行され、石丸構文が流行りました。&lt;br&gt;
+3dホログラムのある紙幣って何。論語と算盤読んでみたいなぁ。&lt;br&gt;
+冷笑系、冷笑系、アーミノ式&lt;/p&gt;
+&lt;p&gt;7月から、情報系サークルが正式に大学公認になり、部室がもらえる運びになりました。&lt;br&gt;
+空調がちゃんと効いて、机と椅子があって、自由に使っていい空間。&lt;br&gt;
+大学生が空きコマに時間を潰すのにうってつけの、素晴らしい空間です。情報系のサークルなので、私物の技術書を寄付し、　サークル図書館を作ったり。ホワイトボードシートを購入し、壁に貼り付けたり。カスタマイズの時間が楽しかったです。&lt;br&gt;
+逆にいえば、部室をゲットするところまでが幹事長としての私の責務だと考えていたので、ここからは徐々にサークルに対するやる気がなくなっていきます。さらにもう1年幹事長を続けはしたものの、幹事長役職を引き渡せるようなアクティブな会員が2年生に少なかったため、という消極的な理由だったので私自身のモチベもあまりなく、ダラダラと活動することになってしまいます。これは申し訳なかったし、もったいなかったなぁと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/120_clubRoomKey.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="部室おめでとう"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/121_clubRoomSetup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="部室で集合して遊べるというのは素晴らしいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;研究室での活動を重ねるたび、自分の卒業研究についてテーマ決めをしないといけない圧力が強まっていきます。自分の趣味はなんだろう、かっこいい研究テーマなんかないかな、といろいろ考え、株式相場とLLMを掛け合わせたテーマを選択することに決めます。&lt;br&gt;
+この時期から、エンジニアとしてのキャリア以外にも、金融の世界にも興味を持ち始め、いくつかのオンラインコミュニティに参加したりなどして、さらに株の世界が好きになっていきます。&lt;br&gt;
+ただ、後から考えると、趣味であった株を仕事(研究)のテーマに選んでしまったのは失敗だったなぁと振り返っています。&lt;/p&gt;
+&lt;p&gt;この年の夏から、髭脱毛を始めます。ずっとやりたいとは思っていましたが、未成年から脱毛を始めても、脱毛し終わった後からじゃんじゃん新しい毛が生えるかなーとか思い躊躇していました。が、もう20歳。ついに始めます。&lt;br&gt;
+これが本当に痛い。本当に尋常じゃなく。&lt;br&gt;
+元々顔中に毛が生えてる感じだったので、髭剃るのもめっちゃ大変でしたし、髭剃りのダメージで肌荒れするのも懲り懲りだったので、痛みを覚悟で決断したはずだったのですが。本当に辛かったです。&lt;/p&gt;
+&lt;p&gt;古くは中学生の時から髭が生え始め、当時、周囲で髭が生えている人は誰もいませんでした。生え始めた瞬間から将来絶対脱毛してやろうと思い、すぐに電動のシェーバーを買いました。かなり高性能で高いシェーバーを買いましたが、大人になって脱毛するまでもたせるつもりで、投資のつもりで買いました。&lt;br&gt;
+高校の時に、もう諦めて顎髭口髭を伸ばして登校したら、先生に若干腐されました。ひげ&amp;hellip;.いいですね&amp;hellip;.。みたいな感じで。&lt;/p&gt;
+&lt;p&gt;という来歴があったので、ついに脱毛だったので嬉しいイベントだったはずでしたが、本当に痛い。&lt;br&gt;
+過去にあった髭ネガティブイベントのどんなことよりも、脱毛の痛みが辛く、髭が濃く生まれてしまったことを本当に後悔しました。&lt;/p&gt;
+&lt;p&gt;結局、合計10回ほど通いますが、まだ髭はちょっと残ってます。は？10万かけてんのに無くならない髭って何。10万て。プチ整形じゃん。&lt;br&gt;
+髭生える遺伝子の評価額-10万円なの？&lt;/p&gt;
+&lt;h3 id="202408-オーキャンとライフセーバー夏のひと仕事"&gt;2024/08 オーキャンとライフセーバー。夏のひと仕事
+&lt;/h3&gt;&lt;p&gt;令和の米騒動があり、フワちゃんが誤爆炎上します。&lt;br&gt;
+米は実家にワンコールで送ってくれるので、困ったことないです。ほんまありがとう。&lt;br&gt;
+フワちゃんは女子プロ頑張って。なんか最近abema復活してたね。&lt;/p&gt;
+&lt;p&gt;月の頭に、研究室のイベントとして、大学のオープンキャンパスで高校生向けの展示を行いました。&lt;br&gt;
+弊研究室の次の年代で入室する学生の方が来てくれたり、高校生側が一切喋らずに親側がグイグイな感じのモンペが来てくれたりしました。&lt;br&gt;
+モンペはことごとくモラハラな感じの対話スタイルで、すげぇなって感じでした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/122_parentComplaintNote.jpg"
+	width="1125"
+	height="1600"
+	loading="lazy"
+	
+		alt="めっちゃ清書してるね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="70"
+		data-flex-basis="168px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/123_campusConflictMemory.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="オープンキャンパス"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/124_parentComplaintFollowup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="サークルメンバーもVRで出展してました。すごいよね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;上京祝いに親がくれた財布がボロボロになってしまい、申し訳ないけれど捨てさせてもらうことにしました。&lt;br&gt;
+次に選んだのは、マネークリップ付きカードケース。&lt;br&gt;
+これがとっても良くて、以降、極小財布が好きになっていきます。&lt;br&gt;
+このカードケースと、コインケースを二つポケットに入れて持ち歩くスタイルが最高で、手ぶらで外に行けるのが本当にいいです。&lt;br&gt;
+散歩が趣味なのですが、無双できます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/125_summerWalkGear.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="素晴らしいね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoの二次試験Piscineでは、以前は脱落してしまう人(=途中で諦めて校舎に来なくなってしまう人)が多かったのですが、これの是正が目的なのか、試験補助監督官的な役割のお手伝いさんシステムが導入されます。8月はこれに応募し、受験生のお手伝いに時間を使うことになります。&lt;br&gt;
+サークルの公認が通ったのもあり、サークルに使っていた時間が余った分を42Tokyoへの還元に使っていこう、みたいな感じだったと思います。&lt;br&gt;
+結構いい思い出になっていて、42Tokyoで同期以外の人と関われるいい機会でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/126_fortyTwoPeerEvent.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="照明消してPCライドズラッと並べる、みたいなの、42好きだよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;エンジニア学生にとって、大学3年生の夏休みはサマーインターンの時期です。&lt;br&gt;
+この段階では就職か院進か決めていなかったため、もし就職になった場合のためにたくさんインターンに応募していました。1dayのものから1weekのものまで、諸々合わせたら5社くらい参加したのかな？&lt;br&gt;
+後に長期インターンに参加させていただくことになる会社さんとも、このサマーインターンで出会います。いいバイト先にもなっていますし、いい就労経験を積ませていただいています。&lt;/p&gt;
+&lt;p&gt;7,8,9月はサークルの部室なり42の試験監督なり、さらにサマーインターンもガッツリと、かなり精力的に動けたんじゃないかと思います。&lt;br&gt;
+2年前の夏は関東の暑さに体調を崩していましたが、2年経ち、フルフルの予定でもなんとかやっていけるくらいには体が慣れてきました。&lt;/p&gt;
+&lt;h3 id="202409-ひとり旅が結局一番なのよ"&gt;2024/09 ひとり旅が結局一番なのよ
+&lt;/h3&gt;&lt;p&gt;バシゲルが総裁になり、牛角が女性半額キャンペーンで炎上してました。&lt;br&gt;
+おにぎりの食べ方は、わんぱくな方が美味しそうでかわいいと思います。牛角は行ったことないです。&lt;/p&gt;
+&lt;p&gt;G検定の上位互換の、E資格というやつを受験し、合格します。&lt;br&gt;
+テキスト買って、三日漬けしただけなんだけどね笑&lt;br&gt;
+AIの知識証明になる資格を持ってるって主張できるのは本当に嬉しいね。&lt;/p&gt;
+&lt;p&gt;研究室で、夏合宿がありました。&lt;br&gt;
+関東近郊で、ちょっと離れたところまでバスで行って、2泊3日楽しみ、研究の成果を内輪に発表したりして、帰る。要は、テイのいい飲み合宿です。&lt;br&gt;
+バイクを買ってからあまり時間が経っていなかったこともあり、絶対バイクで行ってやろう！！！と思っていました。&lt;br&gt;
+朝早く起きて、昼までツーリングして集合、と思っていたのですが、ロンツーしたい欲が止められず、深夜に出発。4時間くらい下道を行きましたが、かなり楽しかったです。&lt;br&gt;
+あ、ロンツー楽しいかも。&lt;br&gt;
+趣味：バイク、株、散歩　の人間、マジでつまらなそうですよね&lt;br&gt;
+綺麗にone of themになりました✌️&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/127_oneOfThemGroup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ヘルメットに顎マウントを取り付けてアクションカメラで撮影"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/128_oneOfThemFollowup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="岬で缶コーヒー飲んでますね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;夏合宿の学部3年生の責務は、卒論の研究テーマを決定すること。&lt;br&gt;
+この時期に、元々の自分の趣味である株相場と、LLM(簡単に言えばChatGPTの中身)の掛け合わせのようなテーマを設定します。&lt;br&gt;
+当時は、かっこいいテーマだし、自分のモチベもついてくるいい設定だと思っていました。&lt;/p&gt;
+&lt;p&gt;上京して2年も経ち、お金の管理に慣れてきたところで、バイクに40万使ったり、免許合宿に金使ったり、、金使いが荒いことに慣れてきてしまいます。&lt;/p&gt;
+&lt;p&gt;元々あったガジェット趣味の、高価格帯への欲望が止められず、自作キーボードに手を出してしまいます。&lt;br&gt;
+これがぁ&amp;hellip;高いんだぁ&amp;hellip;。&lt;br&gt;
+キットを買い、説明書を読みながらはんだ付けしていくようなタイプです。すごく楽しかった。早稲田の理工キャンパスにある、学生無料の工房みたいなところを借りて作りました。&lt;br&gt;
+結局、分割とトラックボールの操作方法が難しく、学習コスト高くてまだ使いこなせてないです。流石に散財すぎる。&lt;br&gt;
+(追記＞2026/06/17現在、この記事の執筆でこのキーボード使いましたが、だんだん慣れてきました)&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/129_splitKeyboardTrackball.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="Keyball39"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;研究室の人づてに、研究に必要な実験に参加してほしいと話をもらいます。それが奈良で行われるため交通費無料の関西旅行チャンスだということになり、ケチだったのでもちろん飛びつきます。&lt;/p&gt;
+&lt;p&gt;一人旅のなんと素晴らしいことか。食いたいものが食えて、行きたい場所に行けて、見たいものが見れて、そしてそれら全ての責任が自分のみにある。これが自由です。&lt;br&gt;
+大阪、てんぐの牛すじが本当に大好きでした。&lt;br&gt;
+京都、ニシンそばは、ニシンとそばって感じ。&lt;br&gt;
+京都、モーニング文化がとても素晴らしいです。シンプルなたまごサンドを食べながら、1日の観光予定を考える瞬間の、これぞ自由だという感じ。&lt;/p&gt;
+&lt;p&gt;記憶がある限り関西側に行ったことがなく、行ってみると意外と行けるもんだなという感じで、世界が広がった感覚がありました。&lt;br&gt;
+経県値が更新されて嬉しかったのもあります。いろんな年に1年ずつ住む、みたいなこともやってみたいなぁ。&lt;/p&gt;
+&lt;p&gt;この旅をきっかけに、47都道府県制覇したいなぁという方針がなんとなく固まっていきます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/130_prefectureTripStart.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="通天閣近くのてんぐ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/131_travelScenery.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="通天閣"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/132_travelNightStop.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="京都のニシンそば。結構いい感じの店入った気がする"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/133_travelMorningView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="これが一番好きやね。京都のモーニング文化"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202410-42tokyoはいろんなものをくれたなぁ"&gt;2024/10 42Tokyoはいろんなものをくれたなぁ
+&lt;/h3&gt;&lt;p&gt;ChatGPTにChatGPT Searchが追加され、日本被団協がノーベル平和賞を受賞し、ポケポケがサービス開始します。&lt;br&gt;
+ChatGPT Searchが出てきて、いよいよ僕がエンジニアリングでやることがなくなっていきます。ポケポケはすぐ飽きました。&lt;/p&gt;
+&lt;p&gt;基本的には淡々と授業を受けるだけの日々でしたが、その裏では42Tokyoの課題で、簡易的なwebサーバーを自作しながらwebを構成する通信について理解する課題である &lt;code&gt;webserv&lt;/code&gt;に取り組んでいきます。&lt;br&gt;
+後から振り返った感想ですが、42TokyoのCommon Core課題の中で、 &lt;code&gt;minishell&lt;/code&gt; に並ぶくらい大変でした。&lt;/p&gt;
+&lt;p&gt;また、42Tokyo関連で、42Tokyo学生のみに機会が開かれたインターンとして、キリンホールディングスによる4weeksインターンに参加していました。&lt;br&gt;
+本社にお邪魔させていただいたり、初めましての方とチームを組んで、課題コンペ形式で開発を行なっていきます。&lt;br&gt;
+社員さんとお話しする機会もあり、(まぁ名前が大きい会社さん主催のインターンでしたので、)大企業のずっしりと構えている感じというか、福利厚生の厚さみたいなのをうっすらと感じました。&lt;br&gt;
+履歴書に書ける文字列をいただけて感謝しています。&lt;/p&gt;
+&lt;p&gt;(夏から地続きのことですが、)大学の研究室関連で学会に参加(オンラインで視聴)する機会が増えていきます。&lt;br&gt;
+まだこの段階では研究に対してのモチベーションが高く、自ら先行研究を盛んに調べたり、技術習得のために時間を割いたりなど、精力的に頑張っていました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/134_researchPaperNotes.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="卒研テーマは株×LLM。学会視聴も増え、この頃はまだ研究モチベが高かった。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202411-廃校式を言い訳に飲もうよ"&gt;2024/11 廃校式を言い訳に飲もうよ
+&lt;/h3&gt;&lt;p&gt;新語・流行語大賞に「ふてほど」がノミネートし、AnthropicがMCPを公開します。&lt;br&gt;
+ふてほどて。ってみんなが思った時期ですね。MCPは後々業務で使ったりもしていて、すっかり普及しました。ここら辺から、AI(LLM)最新情報についていけなくなります。&lt;/p&gt;
+&lt;p&gt;彼女がバイクを買います。&lt;/p&gt;
+&lt;p&gt;月の終わりに、出身の小学校が潰れるらしいということで、廃校式に参加するべく帰省します。&lt;br&gt;
+まだロン毛だったのと、廃校式となると小学校の年上の先輩も集まりますので、なんかうっすら触れづらそうにされてる雰囲気を感じつつ、なんとなく思い出に残るイベントとしてこなすことに成功しました。&lt;br&gt;
+本番はその後の飲み会で、これは楽しかったのを覚えています。&lt;br&gt;
+ロン毛は、初対面には強いものの、やんちゃガキ時代を知られている人に対してはすこぶる恥ずかしいです。&lt;br&gt;
+一次会のメンバーは、出身小学校の同級生と一個上と一個下と先生と、、くらい。まぁ普通に思い出話して終わる感じです。なぜか先生が、SnowManのライブをスマホで見ながら飲んでました。それは何？&lt;/p&gt;
+&lt;p&gt;普通に解散で公式の二次会はなかったのですが、まだ全然飲みたかったので、同級生が諸々人集めてくれて、出身小学校とか関係ない普通の地元飲み会が発生。これが本当に楽しかった。&lt;/p&gt;
+&lt;p&gt;私は地元から5,60km離れた高校に通っていたため、地元で遊べる場所について全く知りません。&lt;br&gt;
+友人に連れてってもらった場所がめっちゃ面白くて、地元にこんな場所あったんだ&amp;hellip;という感じ。&lt;br&gt;
+なんかハプニング的に、呼んでなかった友達ともばったり会ったりして、ここしか遊ぶとこ無いんかい、とは思った。&lt;br&gt;
+その後、同級生の友人宅に泊めてもらい、宅飲み三次会。これも楽しかった。。。&lt;br&gt;
+高校卒業してから真面目に働いている友人。小中学生の時の話に花が咲きました。&lt;br&gt;
+家に泊めてくれた友人は、小中学生当時、なんか大人っぽい雰囲気を持っているかっこいいやつだと思ってました。当時は特に結構憧れの目線があって、それを数年越しに告白したのですが、なんかお互い嬉しくて、いい気持ち。&lt;br&gt;
+地元にいる友人を大切にするのって、大切だなぁとか思いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/135_hometownFriendVisit.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="アホ丸出しのカラオケバー？人いなかったからめっちゃ楽しかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;実家帰省中の期間、本当にやることがなかったので、親が貯めて行った自分の写真のアルバムを眺めて、いい感じの写真をパシャパシャ写真撮ったりしました。&lt;br&gt;
+基本クソガキで、結構写りが悪いがち。&lt;br&gt;
+写真としては載せられないのですが、定期的に過去を思い出すための材料としては完璧なので、長男として愛されて写真撮られまくって育てられたのは本当に幸運だったと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/136_hokkaidoNatto.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="北海道の大粒納豆。これが関東でも食いたい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202412-短髪は一般人すぎて"&gt;2024/12 短髪は一般人すぎて
+&lt;/h3&gt;&lt;p&gt;ホンダと日産の経営統合の話が上がり、中居正広が女性トラブルを打ち抜かれ、フジテレビ問題にまで発展しました。&lt;br&gt;
+やっちゃった結果日産。中居さんは結構いろんなmcとかやってたのに一瞬でしたね。&lt;/p&gt;
+&lt;p&gt;友人宅で3次会したのち、家に泊めてもらいました。&lt;br&gt;
+朝ごはんも作ってもらちゃって、しかも美味しかった。料理できるのも、本当にかっこいい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/137_friendsBreakfast.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="朝ごはんも用意してくれて、車で送ってもくれた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;実家の卒業文集とか見る時間の続編。&lt;br&gt;
+小学校の卒業文集の私のページは、厨二病全開の内容を見ることができました。これは嬉しい。人は変わるものです。この時厨二病を経験しておいてよかった。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/138_elementaryEssayPage.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="すごいダサくていいね笑"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/139_elementaryEssayCloseup.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="ガチでヒーローとか言ってんだろうな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+かなり厨二病ですね。&lt;/p&gt;
+&lt;p&gt;今回の記事では大学4年間のことを振り返っていますが、執筆過程で、小学校、中学校での思い出の写真もいろいろ出てきました。&lt;br&gt;
+ちゃんと過去を振り返って、自分がどんな人間だったのかについて見つめ直す時間。結構楽しいです。&lt;br&gt;
+いつ書けるかわからないですが、小中学校期間についての振り返りも今度書いてみようかなと思います。&lt;br&gt;
+（将来、ここにリンクを貼る）&lt;/p&gt;
+&lt;p&gt;帰省から帰り東京に戻ってきたタイミングで、ずっとロン毛だった髪を切りました。&lt;br&gt;
+ショートにすると決めたのがその2,3日前だったので、切った後の姿に自分でもなんかずっと半笑いな感じでした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/140_shortHairPortrait.jpg"
+	width="1080"
+	height="1080"
+	loading="lazy"
+	
+		alt="中学生の時の写真を見せて切ってもらいました。なにわろとんねん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="100"
+		data-flex-basis="240px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;いやー、短い。&lt;br&gt;
+こんなに短いのは高校１年生の時以来です。&lt;br&gt;
+高１から大３まで、６年間のロン毛生活にさよならです。&lt;/p&gt;
+&lt;p&gt;大学生活でこれまで、さまざまなロン毛ボーナスを享受してきたため、普通の人間に戻った途端いろいろハードモード。&lt;br&gt;
+目立たないので、これのまぁなんと街に溶け込むことか。&lt;br&gt;
+待ち合わせで、待ち合えません。&lt;/p&gt;
+&lt;p&gt;ロン毛の時は、ロン毛の学生＝変な学生ですので、初めて行った授業で大体先生に目をつけられます。&lt;br&gt;
+目をつけられるのは一見デメリットかと思われますがそんなことはありません。&lt;br&gt;
+授業自体は普通に真面目に受けるので、授業回を経るごとに、変で真面目な学生という印象に変わっていきます。&lt;br&gt;
+つまり、ヤンキーが優しいとメロい理論です。&lt;br&gt;
+これによる多大なメリットを享受してきましたので、短髪に対する周囲のリアクションの薄さに、狂い切った私のセンサーは満足できなくなってしまっていました。&lt;br&gt;
+結局、今はロン毛です。切りたいけどね。&lt;/p&gt;
+&lt;p&gt;月の半ばに、夏に奈良まで行ってわざわざ被験者になった実験の不備がわかり、日帰りで奈良まで行かなきゃいけなくなります。&lt;br&gt;
+腹立ってたので、所沢から羽田空港までの往復をバイクでかっ飛ばしました。&lt;br&gt;
+早朝出発し、首都高で寒風を切り、日中飛行機に乗って実験してまた飛行機に乗り、深夜の首都高を眠気で気絶しながら帰ります。&lt;br&gt;
+なぜ過酷な旅路を好んでいるのか、本当に理解に苦しみます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/141_harshTravelMorning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="深夜4時間とか走った後です。そらピースするしかないですよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/142_sickExperimentMorning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="実験の翌朝、本当に体調が悪かった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;年末といえば。&lt;br&gt;
+昔は笑ってはいけないでしたが、もうまっちゃんが動いちゃったので、最近はM１ですね。&lt;/p&gt;
+&lt;p&gt;理由はあんま覚えてませんが、この年のm１は快活クラブで見ました。&lt;br&gt;
+敗者復活から見てましたが、よかったなぁ。。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/143_mOneGrandPrixNight.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="激アツだったので実況ツイとかしてた気がする"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;短髪は、寝癖がつくんですね。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/144_shortHairBedhead.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="このメガネ似合ってなかったなぁ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202501-院進でもするかぁバーに付いてってみるかぁ"&gt;2025/01 院進でもするかぁ。バーに付いてってみるかぁ。
+&lt;/h3&gt;&lt;p&gt;Nintendo Switch 2が正式発表され、DeepSeekショックがありました。&lt;br&gt;
+もう何年、本気でゲームやってないかな。。。DeepSeekは米中AI投資競争の象徴的な出来事でしたねぇ。&lt;/p&gt;
+&lt;p&gt;そろそろ、大学院の進学を考えないといけません。マジで。&lt;br&gt;
+今から就職するか？まじ？&lt;br&gt;
+めんどくせぇなぁー。&lt;/p&gt;
+&lt;p&gt;この時いろいろ考えましたが、今までいろいろ頑張ってきたし、モラトリアム延長の方針でやってみてもいいんかなということに決めました。&lt;br&gt;
+つまり、大学院進学。&lt;br&gt;
+その後、他のいくつかの他の大学院も検討しましたが、結局同じ研究科の大学院に進むことにします。&lt;br&gt;
+他の大学院進学のために、いきたいと思った研究室の教授に会いに行ったりとかもしましたが、、、。&lt;br&gt;
+んー。ノリが合わんとね。&lt;br&gt;
+結局。人間関係ノリですから。&lt;br&gt;
+内部推薦エスカレーターだといろいろ楽だったしね。&lt;/p&gt;
+&lt;p&gt;酒が飲めるようになって１年半、ここでラム酒の美味しさに気づきます。&lt;br&gt;
+元々お酒爆弱なのもあり家で晩酌とかする感じではなかったんですが、ラム酒だけは美味しい。&lt;br&gt;
+わざわざ黒糖とか買ってきて溶かして飲んだり、ブラックとホワイトの飲み比べとか大好きです。&lt;br&gt;
+2026/03,04とかは、ほとんど毎日ラム酒飲んでました。&lt;/p&gt;
+&lt;p&gt;好きなお酒：日本酒、焼酎&lt;br&gt;
+とか言ってる人のことは、芯のところで信用できません。消毒液飲んでなにが楽しいのよ。冗談です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/145_untrustworthyQuote.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ラム酒って安くてもちゃんとちょっと甘いからいいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;昔使っていたスマホを分解してバッテリー交換しようとしたところ、間違って端子を捻じ曲げてしまい、ヤケクソになって全分解しています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/146_phoneTeardown.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="なにがしたいんでしょうか"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;同じ高校から一緒に上京してきた友達とぼちぼちのペースでサシ飲みしていたのですが、月の終わりにまたサシ飲みしたときに、なんか最近カラオケスナックなり、ガールズバーなり、(熟女)キャバクラなりにハマってるらしいことを教えてくれました。&lt;br&gt;
+いわゆる、夜の遊び。&lt;/p&gt;
+&lt;p&gt;個人的には本当に興味のない世界なのですが、どうやらその友達は、スナックの&amp;quot;ママ&amp;quot;に僕を会わせたいらしい。&lt;/p&gt;
+&lt;p&gt;やったことないことはやってみよう精神はあるので、行きつけらしいスナックに連れてってもらいました。まぁなんとか立ち回りましたが、気疲れして終わりって感想ですね。ママいない日だったし。&lt;/p&gt;
+&lt;p&gt;そしてもう一回、友人が行ってみたいらしいガールズバー(名前上はこちらもスナック)について行きます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/147_snackBarNight.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="友人に連れられ、行きつけのスナックへ。結果、やっぱり自分の性格には合わない。ケチは夜遊びを楽しめなくて損。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;結果、やっぱり僕の性格には合ってないなぁという感じ。&lt;br&gt;
+知り合いと飲んでて楽しいのであって、知らん人と飲んでも気ぃ使うだけやし、何回も通ったとて仲良くなっていくとは思えないなぁ。そもそも金払ってるし。&lt;br&gt;
+ケチは夜遊びを純粋に楽しめなくて損です。&lt;br&gt;
+もし女性と話したくなっても、日常生活頑張るしね。&lt;/p&gt;
+&lt;p&gt;前に中学の友達が研修かなんかで東京に来ててサシ飲みした時も、なんかキャバクラだかおっパブだか行ってるとか言ってたなぁ。何が楽しいんやろ。&lt;/p&gt;
+&lt;p&gt;本質から苦手っぽいということがわかっただけで教訓です。&lt;br&gt;
+やったことないこと、やってみてよかった。&lt;/p&gt;
+&lt;h3 id="202502-3年生お疲れ様でした"&gt;2025/02 3年生お疲れ様でした。
+&lt;/h3&gt;&lt;p&gt;OpenAIがDeep Researchを発表し、オンラインカジノでいろんな芸人が謹慎してました。&lt;br&gt;
+Deep Researchは本当にお世話になりましたし、LLMの可能性を引き上げる素晴らしいツールだなぁと思います。オンラインカジノ、やってみたかったなぁ。&lt;/p&gt;
+&lt;p&gt;1日に、卒業研究の中間発表がありました。&lt;br&gt;
+中間発表はまぁ遊びみたいなものですし、基本は一個上の先輩の発表を聞く時間です。&lt;br&gt;
+二次会があり、先輩の追い出しコンパ的な雰囲気なのですが、なぜかこのタイミングで先輩方といろいろ話ができて、飲み会楽しかったなぁという記憶があります。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/148_pokemonPocketScreenshot.jpg"
+	width="716"
+	height="1600"
+	loading="lazy"
+	
+		alt="ポケポケはパチリスを引けて満足してやめました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="44"
+		data-flex-basis="107px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;なんか2月にもなって、大掃除してますね。掃除大好き。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/149_februaryDeepCleaning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="綺麗で気持ちい"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202503-旅行で金使って株で大損て"&gt;2025/03 旅行で金使って、株で大損て
+&lt;/h3&gt;&lt;p&gt;政府備蓄米の放出があり、ジブリ風画像生成が流行りました。&lt;br&gt;
+どっちも興味ない。。。。&lt;/p&gt;
+&lt;p&gt;この時期、彼女が家でエンドレスでコナンを見ていて、普通にノイローゼなってますね。&lt;br&gt;
+せめてヘッドホンしてくれと何度言ったら。&lt;/p&gt;
+&lt;p&gt;42Tokyoの課題であるwebservがここらへんで終了します。&lt;br&gt;
+とにかくいろんな仕様を読み込まないといけないのですが、どうせならということで英語原文縛りでやったのが間違いだったというのは、自分でもわかってます。&lt;br&gt;
+大変だったぁ&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;設立したサークルの冬合宿として、福島まで行きました。&lt;br&gt;
+まだ雪の残る福島で、いちご狩りして、宿泊まって、喜多方ラーメン食いました。&lt;br&gt;
+喜多方ラーメンがMVPかなぁ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/150_kitakataRamen.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="品種ごとの食べ比べできるんやけど、これ最高やったなぁ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/151_fukushimaTripView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="カメムシめっちゃ出た"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/152_fukushimaTripMeal.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="僕のわがままで食いに行った喜多方ラーメン"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;株をやって以来、一番くらいの爆損を叩き出していますね笑&lt;/p&gt;
+&lt;p&gt;爆益の報告はしても楽しくならないのでしませんが、爆損の話はウケるので好きです。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/153_tradingLossScreenshot.jpg"
+	width="716"
+	height="1600"
+	loading="lazy"
+	
+		alt="優待相場になると思ったのに、クソ株 of the yearをつかまされてしまいました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="44"
+		data-flex-basis="107px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/154_tradingLossChart.jpg"
+	width="716"
+	height="1600"
+	loading="lazy"
+	
+		alt="ほんまにそう思う"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="44"
+		data-flex-basis="107px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この時期、人生で初めての確定申告をします。&lt;br&gt;
+バイト以外に個人で受けてた仕事とかもあったので少し複雑だったのもありますが、あれは終わりですね。&lt;br&gt;
+絶対に自動化できるはずのフローを、全部自分でやらないといけないの終わりすぎる。&lt;br&gt;
+でも、経費計上の感覚に触れるいい機会になってよかったです。&lt;br&gt;
+翌年もちゃんと申告しました。全然収入なくて還付来るんでね。&lt;/p&gt;
+&lt;h2 id="2025年度"&gt;2025年度
+&lt;/h2&gt;&lt;h3 id="202504-働き始めよう日常生活は散文的"&gt;2025/04 働き始めよう。日常生活は散文的
+&lt;/h3&gt;&lt;p&gt;広末涼子さんが傷害容疑で逮捕されて、田中圭と永野芽郁が不倫疑惑してました。&lt;br&gt;
+この年世間お騒がせ話題豊富だな。&lt;/p&gt;
+&lt;p&gt;2024年の夏インターンでお世話になった企業に、長期でインターンに入ることになりました。&lt;br&gt;
+時給は普通ですが、リモート勤務できるし、社員さんに混じって？開発させてもらえるので、本当にありがたい経験をさせていただけています。&lt;/p&gt;
+&lt;p&gt;アマゾンセールの時に衝動買いしたアクションカメラの使い道を悩んでいたのですが、散歩の動画を撮影するというのを思いつき、この時期からさらに爆裂に散歩するようになっていきます。&lt;br&gt;
+元々散歩好きだったのですが、撮影や編集などのものづくり感の楽しさも乗っかって、月に100kmくらい平均で歩いてると思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/155_nightWalkVideo.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="この眼鏡マジで似合ってないなぁ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;株でまた爆損してるスクショが残ってましたが、損益以外に資産金額書いてるので載せるのは控えておきます。&lt;/p&gt;
+&lt;p&gt;4月は自分にとって最後のサークル新歓時期。&lt;br&gt;
+4年生になってもサークルの新歓頑張るとは思ってなかったですが、この年の夏には世代交代する計画でしたので、なんとか力を振り絞って頑張りました。&lt;br&gt;
+まぁまぁよしなに人数が増えて、合計4,50人くらいには増えたのかな？&lt;br&gt;
+就活の時には「ゼロから50まで増やしました」って盛ると思います笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/156_circleDisplay.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="サークル部室にデカめのディスプレイを購入"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;めっちゃ嬉しいYoutubeの通知が来て、思わずスクショしてますね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/157_youtubeNotification.jpg"
+	width="1080"
+	height="1127"
+	loading="lazy"
+	
+		alt="見る以外の選択肢ないよ実質"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="95"
+		data-flex-basis="229px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の終わりに新しいメガネを買い、ちょっとテンション高めです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/158_newGlasses.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ちょっと太ってますね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202505-趣味と仕事は分けないといけないタイプらしい"&gt;2025/05 趣味と仕事は分けないといけないタイプらしい
+&lt;/h3&gt;&lt;p&gt;OpenAIのCodexプレビューが始まり、証券口座乗っ取り詐欺が話題になりました。&lt;br&gt;
+Codex見た瞬間、エンジニアは一生できる仕事じゃねぇなと思いました。このタイミングで、可処分時間をエンジニアの成長勉強に当てるのをやめました。未だに休日を勉強に充てているエンジニアの方とかよく見ますし、とても尊敬しますが、僕にはもうできません。保育士にでもなろうかな。&lt;br&gt;
+証券口座乗っ取り詐欺は怖かったですね。これがきっかけでパスキーログインが普及したのはよかったし、めっちゃ便利。&lt;/p&gt;
+&lt;p&gt;研究室に泊まって研究する日が増えてきました。&lt;br&gt;
+だんだん研究が楽しく無くなってきたので、高密度に時間を使ってまとめ切ってしまい、さっさと終わらせてしまおうという戦略でした。&lt;br&gt;
+研究テーマに株を選んでしまったのですが、趣味を仕事にすると趣味が楽しくなくなるというテンプレパターンにハマってしまいました。後悔。&lt;br&gt;
+これが本当に辛くて。LLMで株投資するのって、この時期ちゃんとやったら色々再現性高く儲けられるチャンスがあったと思うんですけど、仕事っぽさが侵食してきてモチベ削られてしまい、実際には全然利益につながらなかったです。&lt;br&gt;
+テーマを株にしてもいいけれど、興味の本質から少しずらした内容にしておけばよかったな。たとえば脳機能に着目するとかさ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/159_stockThesisNotes.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="研究棟でシャワー入ってパックして寝ることを研究活動とはいいませんよ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;爆裂に散歩にハマり始め、キャンパスに通うのに往復2時間の道を歩くのが楽しくなってきました。&lt;br&gt;
+所沢の森なので、もちろんキジとかいます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/160_tokorozawaPheasant.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="キジの配色って凄すぎる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の終わりに、人工知能学会に参加します。&lt;br&gt;
+来年の発表を見据えて、情報調査的に発表を聴講するつもりで参加しました。&lt;br&gt;
+大阪現地。大学4年間で3回くらい大阪に行ってますね。大阪は牛すじが美味しい。串とか、どて焼きとか。どて焼きはマジで感動して、自宅で何回も作ってます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/161_osakaTrip.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="興味ある研究室の先生がいる飲み会に参加させてもらいました。ノリが合わんかった。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;大阪の電車は、クレカ決済とか、QR決済とかが進んでていいですよね〜。&lt;br&gt;
+というのを体験したくて色々動き回ってたのですが、なんか顔認証ゲートがあるっぽいぞ、と。&lt;br&gt;
+情報登録がめんどくさかったですが、これが本当に未来感じてよかった。&lt;br&gt;
+万博の時期だったしね。行かなかったけど。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/162_expoNightView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="通ろうと思って何回も失敗して恥ずかしかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202506-2年の長い道のりでした"&gt;2025/06 2年の長い道のりでした&amp;hellip;
+&lt;/h3&gt;&lt;p&gt;iDeCoが改悪され、TOKIOが解散します。&lt;br&gt;
+iDeCoはあんまり信用してないし、60までおろせない金ってなにそれ拷問？&lt;br&gt;
+TOKIOは、消えて喜ぶ人にオールを任せたから解散したんでしたっけ？&lt;/p&gt;
+&lt;p&gt;42TokyoのCommon Coreの最終課題、 &lt;code&gt;ft_transcencence&lt;/code&gt; をクリアしました。&lt;br&gt;
+2023/02に受験、2023/05に入学だったので、約2年を経て、目標だったCC合格まで辿り着きました。&lt;br&gt;
+いやぁ、感慨深い。&lt;br&gt;
+難しい課題もたくさんあったし、受験同期がだんだん退学していく姿を横に悲しい気持ちになったこともあったけど、頑張ってよかった。&lt;br&gt;
+定期的に課題をやらないと退学してしまうプレッシャーに耐えた2年間。卒業研究なりサークルなりインターンなり、他にも色々やりつつ、なんとか頑張り抜けました。&lt;/p&gt;
+&lt;p&gt;大学で入学した学部が(情報の名を冠した学科だとは言え、)ちゃんとコンピュータサイエンスを学べるような環境ではなかったため、このCC卒業を持って、胸を張ってコンピュータサイエンスのバックグラウンドを持っていると言えるようになります。あぁうれしい。&lt;br&gt;
+学位とかはもらえないんだけどね笑&lt;br&gt;
+マジで文科省頼むわ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/163_ministryComplaint.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="CC突破おめでとう！"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ノリで受験することにした、フランス語検定の5級を一夜漬けで受験し、なぜか合格します。&lt;br&gt;
+マジで、受験会場には小中学生女児しかいませんでした。恥ずかしかった&amp;hellip;。&lt;br&gt;
+第二第三外国語として、英語とフランス語を頑張っていきたいとは思ってるのですが、なんとも&amp;hellip;。&lt;br&gt;
+まぁ受かりはしたので、履歴書の黒塗りが増えて嬉しいな笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/164_blackedOutResume.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="受験会場は青学でした"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;まぁたなんか分解してますね笑&lt;br&gt;
+光学ドライバかな？&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/165_opticalDriveJoke.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="なにがしたいんですか"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;パッと見た研究奨励プログラムの募集に応募したところ、受かりました。&lt;br&gt;
+奨学金と違って研究にしか使えないお財布って、扱い難しいな、、と思ってました。&lt;br&gt;
+研究そんなに楽しくなかったし。俺は何回も言うぜ。&lt;/p&gt;
+&lt;p&gt;ちょっと時期早いですが、大学のキャンパスに七夕の短冊コーナーがあったので、書いておきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/166_goalAchievedPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="まぁ、なんとか叶いましたね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;マジで、この漫画は面白くておすすめなので読んでください。&lt;br&gt;
+別にエロくないですから。シュールギャグ漫画ですから。&lt;br&gt;
+私は、最新話が出るたびに課金して読ませていただいてます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/167_mangaScreenshot.jpg"
+	width="716"
+	height="1600"
+	loading="lazy"
+	
+		alt="いつか単行本買いたいと思ってる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="44"
+		data-flex-basis="107px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202507-散財スタート"&gt;2025/07 散財スタート！
+&lt;/h3&gt;&lt;p&gt;ChatGPT Agentが発表され、鬼滅の刃の無限城編の一作目が公開されます。&lt;br&gt;
+Agentは最初精度悪かったですが、最近どんどん良くなってますね。たまに使ってます。Claudeの方だけど。&lt;br&gt;
+鬼滅の刃の映画は一応見ました。天邪鬼なのでちゃんとはハマれないまま今まできちゃってます&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;郵送等のオンラインでできる遺伝子検査を受けました。&lt;br&gt;
+個人情報なので載せられませんが、アルコール分解能はめっちゃ低いらしいです笑&lt;br&gt;
+あと、遺伝からわかる情報処理能力の傾向も多少良さげでしたので、いつかIQテストも受けてみたいなぁ。&lt;br&gt;
+乳糖不耐症傾向と、カフェインによる不安傾向があるっぽくて、コーヒー牛乳大好きなのに&amp;hellip;。ってなりました。以降、コーヒーと牛乳は控えるようにしてます。&lt;/p&gt;
+&lt;p&gt;NTTの株を100株だけ持ってたのですが、かくれ株主優待(売れてない商品のクーポン)をもらえたので、前々から欲しいと思っていたオープン型ヘッドホンを購入しました。&lt;br&gt;
+こぉれが大好きなんだぁ。&lt;br&gt;
+その後一回、左側スピーカーだけ聞こえないみたいな不良があって整備に出したりするぐらい実験的な製品ではありますが、周囲にも気になられて声かけられることもあるので、尖り製品として大好きです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/168_weirdHeadphones.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="いろんな人に声かけられる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;もう髪伸ばしつつありますねこれ。&lt;br&gt;
+ロン毛は中毒作用があります。&lt;/p&gt;
+&lt;p&gt;以前から東京大学松尾研究室の公開授業を受けていたのですが、金融関連の講座の延長で、松尾研究室インターン採用のための学生コミュニティ的な募集がありましたので、応募してみます。&lt;br&gt;
+応募してみたところ初回の集まりに呼ばれたので、東大のキャンパスに初めて入ります。&lt;br&gt;
+このコミュニティでは、だいたい月一で勉強の成果を発表し合うような、輪読的なスタイルですが、まぁいろんな方と繋がりを持てるいい機会になりました。&lt;br&gt;
+最近は低調気味だけど。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/169_blurryNightPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="いっちゃん有名なやつね。夜でブレてるけど"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202508-人生は移動距離で決まるらしいですよ"&gt;2025/08 「人生は移動距離で決まる」らしいですよ
+&lt;/h3&gt;&lt;p&gt;Nano Bananaがリリースされ、ダンダダンの劇中歌にYOSHIKIがキレてました。&lt;br&gt;
+Nano Bananaの生成画像は一段精度高くてガチで職失いですよね。絵が下手でよかった。&lt;br&gt;
+YOSHIKIブチギレは笑いました。&lt;/p&gt;
+&lt;p&gt;8月は、研究もインターンも、サークルも42も全てストップさせ、彼女とロングツーリング旅に行きました。&lt;br&gt;
+予定は未定で進みましたが、結果的には九州一周、中国地方一周、四国一周をしました。&lt;br&gt;
+行きは東京から門司港までフェリー、二、三週間かけてぐるぐる移動したのち、徳島港から東京までフェリーでご帰宅です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/170_campusBikeStart.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="バイクを置かせてもらってた大学キャンパスからスタート"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/171_tokyoPortBreakfast.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="東京港近くの飯屋で朝飯"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/172_ferryDeckWind.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="行きは東京から門司港までフェリー。船の上は強風"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/173_ferryCabinMorning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="船の中で一泊。寝起き"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;門司港に着いたら、近くの資さんうどんに行きました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/174_sukesanUdon.jpg"
+	width="1600"
+	height="902"
+	loading="lazy"
+	
+		alt="マジで美味しいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="425px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;旅の序盤は疲れもないし、写真が多いですね笑&lt;br&gt;
+移動できるだけ移動してその日に宿を決めるスタイルなので、たまに快活クラブとかも挟みます。&lt;br&gt;
+ので、日を追うごとにめっちゃ疲れるので、写真が減っていきます。&lt;/p&gt;
+&lt;p&gt;門司港カレーも食べましょう。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/175_mojikoCurry.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="焼きカレーが有名なのかな？"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;関門海峡の橋と、近くのオサレ神社の鳥居&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/176_kanmonBridgeShrine.jpg"
+	width="1600"
+	height="902"
+	loading="lazy"
+	
+		alt="海虫めっちゃいた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="425px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;山の展望台から見た夜景&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/177_mountainNightView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="何ドルの夜景だったかは忘れた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;マジでなんでだか私もわからないんですが、42TokyoのCC卒業と、サークルの世代交代のセルフお祝いで、Galaxy Z Fold 7を購入します。彼女の親の前で開封したので、金額もあってめっちゃ引かれました。&lt;br&gt;
+めっちゃ欲しかったので超嬉しかったです。&lt;br&gt;
+ヘッドホンに続き、ガジェット散財が続きます。流石に紐締めないとやばいね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/178_gadgetSplurge.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="楽しそうで何より"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;九州の歴史的な豪雨で、旅程が2,3日ストップします。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/179_kyushuRainAlert.jpg"
+	width="1442"
+	height="1600"
+	loading="lazy"
+	
+		alt="旅程狂いまくりで笑ったよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="90"
+		data-flex-basis="216px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;さぁ、九州一周スタート。&lt;br&gt;
+まずは大分の別府地獄温泉です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/180_beppuHellOnsen.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="観光客めっちゃいた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;すでに大移動ですが、この日はさらに移動して宮崎まで行きます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/181_beppuTripNight.jpg"
+	width="1195"
+	height="1600"
+	loading="lazy"
+	
+		alt="その道中。もう疲れ切ってます"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="74"
+		data-flex-basis="179px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;宮崎で一泊。&lt;br&gt;
+翌朝、市内の料理屋で、地鶏の炭焼きを食べます。&lt;br&gt;
+これがマジで美味しかった。&lt;br&gt;
+炭の中でぐっちゃぐっちゃして焼いただけなのになんであんなに美味しいの。&lt;/p&gt;
+&lt;p&gt;二日目は桜島を見に鹿児島へ。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/182_sakurajimaView.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="桜島の噴火映像見るの大好きだったから嬉しかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この日は熊本で一泊。&lt;br&gt;
+翌日、船で熊本から長崎まで行きます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/183_kumamotoNagasakiFerry.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="夏の天気だね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;もちろん長崎ちゃんぽん&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/184_nagasakiChampon.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="中華街の適当な店で食べちゃったな。調べとけばよかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;長崎美術館。よかった。&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/185_nagasakiArtMuseum.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="隈研吾らしいよ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;これで九州一周終了。&lt;br&gt;
+宿泊費をケチって、かなりハイスピードで動きました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/186_highSpeedTravelGif.gif"
+	width="1802"
+	height="2000"
+	loading="lazy"
+	
+		alt="これで1000kmくらいあるのかな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="90"
+		data-flex-basis="216px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;門司海峡を通り、そのまま中国地方へ。&lt;/p&gt;
+&lt;p&gt;流石に疲れてたので、少し話が飛びます。&lt;br&gt;
+いきなり鳥取砂丘。&lt;br&gt;
+ちっちぇえ砂丘だろ？と思ってましたが、だいぶスケールデカめでした。&lt;/p&gt;
+&lt;p&gt;歩くのまじで疲れる&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/187_tiredCityWalk.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="砂に足取られるうえに、結構な高低差ある"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;中国地方をぐるっと一周し、しまなみ海道をバイクで渡ります。これが本当に良かった。&lt;br&gt;
+天気良かったしね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/188_beautifulPaintingOne.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="絵が綺麗すぎないですか"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/189_beautifulPaintingTwo.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="パーキングでしらす丼食ったりね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;なんか、瀬戸内海の島々の各所で美術作品を見れる、大規模な美術展をやっていて、彼女がそれに行きたがったので行きました。&lt;br&gt;
+草間彌生とか、諸々色々見れて、結構満足度高かったです。&lt;br&gt;
+コンクリ造形の建物が良かった。名前は覚えてないです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/190_summerSkyView.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="夏の空に映えるね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;だいたいこんなもんで、中国地方と四国一周は終了。&lt;br&gt;
+正確なこと言えば、四国はほとんど一周してないですね。通るだけ通ったぐらい笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/191_shikokuRouteGif.gif"
+	width="1802"
+	height="2000"
+	loading="lazy"
+	
+		alt="一応、中国地方と四国地方は全県制覇かな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="90"
+		data-flex-basis="216px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;振り返ると、ざっくり2000kmの旅路。すげぇな。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/192_longMotorcycleRouteMap.jpg"
+	width="1600"
+	height="1234"
+	loading="lazy"
+	
+		alt="いい思い出になりました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="129"
+		data-flex-basis="311px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;8月はフルベットで旅に費やしましたが、思い出にもなってますし、いい感じ。&lt;br&gt;
+マジで金使いすぎなのだけはどうにかしていきたい。&lt;br&gt;
+ケチ旅のはずだったんだけど、結構支出あったなぁ&amp;hellip;.。&lt;/p&gt;
+&lt;h3 id="202509-次に頑張るのは法人かな"&gt;2025/09 次に頑張るのは法人かな
+&lt;/h3&gt;&lt;p&gt;バシゲルが辞任して、サントリーの新浪会長が辞任しました。&lt;br&gt;
+ゲル短かったなぁ笑&lt;br&gt;
+新浪会長の裏垢って噂されてたやつは結局どうなったんだろ。&lt;/p&gt;
+&lt;p&gt;4月の健康診断の時に引っかかった心電図を、再検査しました。&lt;br&gt;
+すると、完全右脚ブロックだ、と言われ、なんかようわからんけど全身の血の気が引いたのを覚えています。&lt;br&gt;
+医師の話をちゃんと聞くと、生まれ持ちのやつじゃない限り、特に問題ないらしい。&lt;br&gt;
+このタイミングで死ぬ人生かぁ。。心臓だもんなぁ。。とか黄昏てたんですが、赤っ恥です。&lt;br&gt;
+なんか、右心室に電気信号を伝えるのが遅いだとかなんだとか？&lt;br&gt;
+まぁ、生死に問題がないなら、どうでもいいです。忘れて生きることにしました。&lt;/p&gt;
+&lt;p&gt;夏休みの授業の中で会社を訪問した時に、オーベルジーヌの弁当が出てきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/193_aubergineLunchBox.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="芸能人弁当の代表みたいなイメージだよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;サークルの幹事長を完全に世代交代します。&lt;br&gt;
+はーやっとやりきったー。お疲れ様。&lt;/p&gt;
+&lt;p&gt;ゼロから始めて、公認ももらって、50人規模くらいにはなりました。&lt;br&gt;
+最低限の年間ルーティンを整備して、事務仕事のノウハウ蓄積もちゃんとやった上で引退できたので、多分ちゃんと持続可能な形ではあると思います。&lt;/p&gt;
+&lt;p&gt;サークルの幹事長をやめ、1ヶ月長旅を満喫し、次のやることを考えていたところ、思いつきました。&lt;br&gt;
+そうだ、会社作ってみよう。&lt;br&gt;
+目的としては、会社を作ってみること。そして、今後何か銭ころ稼ぎしたい時に、すぐに箱を使える状態を作っておくこと。&lt;/p&gt;
+&lt;p&gt;とりあえず、家でChatGPTと相談します。&lt;br&gt;
+ケチなので、最安コースで行こうということで話を進めると、めっちゃ事務仕事大変っぽいし、どうやら、どう頑張っても諸経費で20万円持ってかれるらしいです。&lt;/p&gt;
+&lt;p&gt;この年の夏、ヘッドホンに始まり、25万円のスマホ、20万の指輪&amp;hellip;。&lt;br&gt;
+もうこの際いいでしょう。&lt;br&gt;
+株で頑張る自分との約束で、諸経費ブッパしていきます。&lt;/p&gt;
+&lt;p&gt;もっと正確に言えば、資本金として100万円も個人の資産から出さないといけません。&lt;br&gt;
+資本金は、本当は1万円でもいいのですが、会社の信用や将来の融資のためには、最低でも100万は入れておいた方がいいと言うことで、なんとか頑張ってお金用意しました。&lt;br&gt;
+胃がキリキリするね笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/194_companySeal.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="会社用の印鑑"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/195_annoyingApplication.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="これまじふざけんな（収入印紙で15万）"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この会社は、それまで私が個人で受けていたソフトウェア受託開発の内容をほとんどそのまま移管し、それで作った金をいろんな新規事業に投資したり、会社の名前を使ってやりたいことをやるための会社という感じで運営していくつもりで、現に執筆時点でも当初の趣旨通り運営されています。&lt;br&gt;
+当分はひとり法人としてやっていくつもりで、もしどっかのタイミングで事業が拡大すれば、うまいこと業務委託でやりこなしていけたらいいなー。&lt;br&gt;
+とは言ってもAIが出てきた以上、かなり規模がでっかくならないと他人は入れないかな。少なくとも、正社員として人を雇うのは当面考えていません。&lt;/p&gt;
+&lt;p&gt;再三言いますが、会社をでっかくしていくのが目的というよりは、経費計上によって税務について自分の手を動かしながら学びたい、みたいなモチベの方が今はまだ大きいです。&lt;br&gt;
+また、自分の法人があった方が、やっぱり何かと身軽です。&lt;br&gt;
+あと、AIが出てきた昨今、労働者としてAIに代わられるのを怯えて過ごすより、自分のビジネスを持って、それにAIを活用して付加価値をつけていく方が筋がいいと思ったというのも、とりあえずでも法人を作ってみようとなった後押しでした。学部4年生で就活しなかったんだから、本気で向こう10年20年を考えないといけない時が来たんだ、と、腹を括りました。&lt;/p&gt;
+&lt;p&gt;今思っている弊社の将来感としては、とりあえずソフトウェアの受託開発で生命線銭ころを稼ぎつつ、ここはAIで省力化し、またトップラインも付加価値つけて伸ばしていきたいと思っています。また、第二、第三の事業として、中古住宅の買い付けと自己修繕からの大家業みたいな実業にも手を出してみたいなぁと思ってます。これは普通に楽しそうだからやりたいだけ笑。また、親に民泊の運営経験があるためこれを頼って、民泊運営みたいなのも興味あります。マスターという形ではなく、オーナーという形で。&lt;br&gt;
+民泊のマスターをやっていた親の背中を見て育ちましたが、色々やることたくさんで、本当にすごいなぁと尊敬します。自分にはできない芸当だなぁと。&lt;/p&gt;
+&lt;h3 id="202510-なんもないんかい"&gt;2025/10 なんもないんかい
+&lt;/h3&gt;&lt;p&gt;高市早苗が首相になり、ChatGPT SoraとAtlasが発表されます。&lt;br&gt;
+女性首相はすごいですよねー。株に前向きな大臣がいるのは嬉しいことです。&lt;br&gt;
+Soraはホリエモンの最高ミームを、Atlasは大学の課題を補助してくれることでかなりの可処分時間を。それぞれ、大切なものをもらいました。&lt;/p&gt;
+&lt;p&gt;彼女と、尋常じゃないくらい高っっっっっかい焼肉屋に行きます。&lt;br&gt;
+美味しくはあったんですけど、金額で胃がキリキリしてましたね。&lt;br&gt;
+まぁ楽しそうにしてたんでね。目的は達したでしょう。&lt;/p&gt;
+&lt;p&gt;あと、引越ししようということで、引越し先の物件を探します。&lt;br&gt;
+幸い、私も彼女も、来年以降も東京にいる予定でしたので、家賃割り勘想定で、都内へのアクセスが良くて広い場所を探しました。&lt;br&gt;
+物件探しや引越し自体は11月の方にまとめますが、それ以前からエリア絞りや条件絞りはかなり徹底的に行ったこともあり10月からガッツリ動いてました。&lt;br&gt;
+結果的にはかなり満足のいく物件に引っ越せたと思ってます。&lt;/p&gt;
+&lt;p&gt;10月はマジで淡々と研究とインターンやってただけかもしれない。&lt;br&gt;
+カレンダー見ても大したこと書いてないし、写真もめぼしいものは残ってませんでした。&lt;/p&gt;
+&lt;p&gt;これぐらいしか。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/196_octoberOnlyPhoto.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="何回見てもいい写真すぎる"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202511-引越しって金食うよね住まいの自由も金次第"&gt;2025/11 引越しって金食うよね。住まいの自由も金次第
+&lt;/h3&gt;&lt;p&gt;アサヒがサイバー攻撃で人手でビール仕分けしたりして、カービィのエアライダーが発売。高市首相の台湾有事発言でざわつきました。&lt;br&gt;
+サイバー攻撃増えたよね。エンジニアとして頑張っていくなら、物理寄りのセキュリティエンジニアとかになるのかなぁ。まぁほとんど諦めてるけど。&lt;br&gt;
+エアライダーはやりたいけどやってないです。ケチなんでね。Switch2持ってない。欲しい。&lt;br&gt;
+台湾有事は、事実として自分の将来設計に潜むリスクですから、真剣に考えないといけないことです。日本は好きですが、いつでもどの国でも、滞在ビザを取れるようにしておかないと怖いと思ってしまいます。そのため、外国語の勉強は淡々と続け、理系修士号の取得は是が非でも達成しておきたいな。欲を言えば、一生暮らせる金額も手元に置いていきたい。まだどれも持ってないな。頑張るの？まじかぁ。だるいなぁ。&lt;/p&gt;
+&lt;p&gt;大学の卒業研究をそろそろまとめないといけない時期です。&lt;br&gt;
+私が所属する研究室では、まとめ終わる前の時期に他の研究室などと合同で発表があり、研究の途中経過などをポスターで紹介し合います。&lt;br&gt;
+ポスター発表ってこんな感じなのかぁ。まぁ得意ではあるんだろうけど、楽しいとは感じませんでした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/197_posterPresentation.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="折りたたみスマホ自慢したくて写真撮ってますね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;さぁ、引っ越しに伴う、各種サービスや行政の登録住所情報変更祭りです。&lt;br&gt;
+あーーーーーーー。大変。&lt;br&gt;
+まじでマイナンバーだけ変えたら全部自動で通知が入って自動更新されるようにならんかな。&lt;br&gt;
+資産状況の把握とかも全然やって良いからさ。&lt;br&gt;
+初診の病院で毎回問診票書かないといけないのもだるい。&lt;br&gt;
+マイナンバーが全部やってほしい。&lt;/p&gt;
+&lt;p&gt;引越しって、意外と書類仕事多いですよね。めんどくさいし、何回仲介業者のとこ行かなあかんねん。&lt;/p&gt;
+&lt;p&gt;登録住所変更以外にも、引っ越し前の持ち物処分や売却、物の輸送も発生します。&lt;br&gt;
+幸いにも、物がすごく少ないスタイルで生きている私にとって、引越しのこの側面はむしろ得意です。&lt;br&gt;
+なんなら、これを機に色々断捨離やら売却やらが進んで嬉しかったです。住まいが変わるのも楽しかった。&lt;br&gt;
+ただ、やっぱり大変なことに変わりはありません。&lt;/p&gt;
+&lt;p&gt;もっと言うと、彼女の持ち物が多い。&lt;br&gt;
+異常な本の量と、各種推し活グッズ。もう着てないのに一生捨てない服の束、バッグの山。&lt;br&gt;
+彼女は労働で日中いない期間だったので仕方ありませんが、これらの各種引っ越し準備や運送を、全て私が手配します。&lt;br&gt;
+まじでこれについては感謝が足りてない。どれだけ大変だったことか。&lt;br&gt;
+まぁ。良いんですけどね。&lt;br&gt;
+物減らしてください。&lt;/p&gt;
+&lt;p&gt;ベッドがなかったので、ジモティーでタダでもらったりしました。&lt;br&gt;
+自分1人じゃ運べないので、急遽研究室の同期と後輩に手伝ってもらい、往復してなんとか運びました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/198_movingBedPickup.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="同期です。頑張って働いてるんかな、"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/199_movingBedTransport.jpg"
+	width="1195"
+	height="1600"
+	loading="lazy"
+	
+		alt="なんとか往復して運んだ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="74"
+		data-flex-basis="179px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;なんかこの時期、卒業研究のストレスで太ってますね笑&lt;/p&gt;
+&lt;p&gt;なんでか忘れましたが、東京に母親が来てた時期でした。&lt;br&gt;
+祖母宅にあった私の荷物を新居に持っていくついでに会って、なんか話した気がします。&lt;br&gt;
+母親は本当に優しいんでね。大切にしていきたいです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/200_motherGift.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ちょっとスピってきてるけどね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;時間差で父親も東京来てたと思いますが、写真なかったです。&lt;br&gt;
+父親もかっこいいので、ちゃんと大切にしていきたい。&lt;/p&gt;
+&lt;p&gt;新居に移ったのは、紅葉の綺麗な季節でした。&lt;br&gt;
+隣が中学校？で、その反対側の隣が大学。&lt;br&gt;
+中学校の2時間目のチャイムと一緒に起きることができる最高の物件です。&lt;br&gt;
+体育やってる時は、漏れ聞こえる音で一緒にラジオ体操を踊ると決めています。&lt;/p&gt;
+&lt;p&gt;高校から一緒に上京した、夜遊びを楽しんでる彼もそろそろ引っ越し考えてるらしいと言うことで、引っ越す前に家に行って飲ませろと言う話になり、久しぶりに飲みます。&lt;br&gt;
+彼の家には私が持っていない高校の卒業アルバムがあり、これを見ながら最高の酒を飲んだのを覚えています。&lt;br&gt;
+なんで私はアルバムを買わなかったんだろう&amp;hellip;。2万くらいしたからね。ケチは損です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/201_albumRegret.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="サシのみの思い出の中でもかなり上位に楽しかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;高校卒業アルバムの話とつながりますが、執筆時点での私が、まさに執筆中現在において、過去のことを思い出して自分を見つめ直す時間が楽しいぁと思い始めています。&lt;br&gt;
+小中思い出編をまた今度書こうかと思ってる旨を上記で書きましたが、高校編もどっかで書きたいな。&lt;br&gt;
+にしては写真も少ないし、証言者もあんまりいないかも。&lt;/p&gt;
+&lt;p&gt;引っ越しに際して、本当に5年くらいずっと欲しいと思っていたドラム式洗濯乾燥機を購入します。&lt;br&gt;
+あぁ最高。&lt;br&gt;
+現代の三種の神器(自動化家電)は、ドラム式洗濯乾燥機、食洗機、ロボット掃除機。&lt;br&gt;
+これを揃えてない人は、都市圏では人権ないと思ってください。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/202_cityLifeGear.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="best 買ってよかったもの of my life"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoで、トヨタ自動運転ミニカーバトルというコンペ？に参加します。&lt;br&gt;
+数ヶ月やるタイプの大会だったので結果は数ヶ月先ですが、まぁ言っちゃうとしょぼい感じで終わりました笑&lt;br&gt;
+参加目的はチームの仲を深めることと、履歴書にかける文字列を増やすこと。&lt;br&gt;
+と言うのも、今回のチーム5人は、全員42Tokyoの後輩かつ、同じ大学同じ学部の、普通に全員知り合い。&lt;br&gt;
+なんでかわかんないけど、いつの間にかたくさんの周囲の知り合いが42に入ってきていたので、全員呼びつけてチーム結成。普通に仲良くなるための場として最高でした。&lt;br&gt;
+結局コンペ期間の最後の1ヶ月くらいしかちゃんと開発しませんでしたが、色々工夫したり買い出ししたりする過程でみんなと仲良くなれたのは本当に良かったです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/203_toyotaContestTeam.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="楽しかったなー"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202512-引越しがやっと終わるね4年間お疲れ様でした"&gt;2025/12 引越しがやっと終わるね。4年間お疲れ様でした
+&lt;/h3&gt;&lt;p&gt;健康保険証がマイナ保険証に完全移行し、今年の漢字が熊 になります。&lt;br&gt;
+保険証は、大学2年くらいの時に財布落として健康保険証無くして以降、マイナ保険証対応の病院しか行けてなかったので、完全移行してまじで良かった。もう全部マイナにしてくれ。&lt;br&gt;
+今年の漢字熊て。熊そんなに怖いかね。&lt;br&gt;
+動物園でトラ見るのとあんま変わらんやろ。&lt;/p&gt;
+&lt;p&gt;月の終わりに引っ越しが完全に終了し、新居の改造と新居周辺の探検が始まります。&lt;br&gt;
+和室を全部フローリングにしたり、周辺1kmのラーメン屋を制覇したり。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/204_favoriteConvenienceSnack.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="近くのコンビニにこれ売ってるの最高"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;研究室の一つ後輩の代が、クリスマスパーティを開いてくれました。&lt;br&gt;
+1500円程度のプレゼントを持ち寄って交換会、と言う感じだったのですが、自分が知ってるハックを使って1500円で買えるにしては見栄えの良いものを持っていってしまったため、「これ誰のプレゼント〜？」の時間で、めっちゃ変な空気にしてしまいました。めっちゃ恥ずかしかったのと、普通に後悔。周りは普通にドンキで見繕った何かとか持ってきてたので、今度からは普通にその程度のものにしようと思います。&lt;/p&gt;
+&lt;p&gt;私がもらったのは、後輩の留学生の方が見繕ってくれた、小さい熊手と可愛い絵の布。&lt;br&gt;
+大切に飾ったり、使ったりさせてもらっています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/205_treasuredGift.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="日本っぽいものってのがいいよね"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月の中旬に、42Tokyoのコモンコア修了式がありました。&lt;br&gt;
+この修了式はどうやら毎年開催されているものではないらしく、近年42Tokyoの学生数が多くなったり、事務局の意向でAlmuniのつながりを増やしたい的な流れがあり、この年初めて開催されたらしいです。&lt;br&gt;
+受験同期の人と会ったりできて、とても良い時間でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/206_examPeerMeetup.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="色々景品とかもらえた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/207_examPeerPhotoOne.jpg"
+	width="1600"
+	height="1067"
+	loading="lazy"
+	
+		alt="コモンコア修了！の記念撮影。CC突破チームと。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="149"
+		data-flex-basis="359px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/208_examPeerPhotoTwo.jpg"
+	width="1600"
+	height="1067"
+	loading="lazy"
+	
+		alt="ちょっと太った？って言われた"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="149"
+		data-flex-basis="359px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/209_eventGroupPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="あー嬉しい。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;引越しの物輸送についてなのですが、最初は引越し業者に相見積もりとったりしましたが、全部自分で運送したほうが安いと言うことになり、レンタカーをナイトパックで借り、関東内を3往復して運びます。&lt;br&gt;
+まじで大変だったな&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/210_hardWorkNight.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="流石に彼女にも手伝ってもらいました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;引越しで大変な中、なぜか実家に帰省してます。&lt;br&gt;
+流石に、今回も飛行機で帰ってますね笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/211_sleepyAirport.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="飛行機搭乗前に眠すぎてイライラしてます"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;今回の帰省は、大学4年間の忙しい時期が終わったので、親に顔を出そう、的な帰省でした。&lt;br&gt;
+帰省の目的からして、特に誰かに会いに行くとかではなかったので、暇な時間とにかく散歩します。&lt;br&gt;
+地元にいる友達、誰か連絡くれないかなぁみたいな気持ちで、散歩のタイムラプス動画をインスタグラムに乗っけたところ、なんか散歩キャラに思われたっぽいです。これは後日談。&lt;/p&gt;
+&lt;p&gt;久しぶりに地元を歩いたら、いろんなところが解体されてたり、新しい建物が立ってたり、出身中学校がメカメカしく改築されてたりして色々びっくり。&lt;br&gt;
+一番は、近くのスーパーにニトリコーナーが入ってたこと。まじで全然様変わりじゃん。&lt;br&gt;
+文系大学生がみんなニトリ就職したがるのは、正気じゃないと思ってます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/212_tastyMealAgain.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="これがうまいんだわな"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;また小学校同期±1での飲み会があったんだっけな？&lt;br&gt;
+案外みんな二次会に行かなくて、同期の男2人と、ひとつ後輩の女性1人の計4人だけでカラオケ二次会。&lt;br&gt;
+同期の友達に彼女ができたらしくて、とにかく嬉しかった。。。&lt;br&gt;
+お酒飲んで記憶無くなるタイプではないのですが、この時の二次会は他に何話したのか全然覚えてないです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/213_oshiiStyleHat.jpg"
+	width="1600"
+	height="1200"
+	loading="lazy"
+	
+		alt="帰る直前に、なぜか押井守みたいな帽子を親からもらいました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="202601-大学生活の閉め作業"&gt;2026/01 大学生活の閉め作業
+&lt;/h3&gt;&lt;p&gt;中道改革連合ができて、ブルデンシャル生命の不祥事がありました。&lt;br&gt;
+族連合みたいな名前でワクワクします。北関東？&lt;br&gt;
+プルゴリ〜&lt;/p&gt;
+&lt;p&gt;初詣とか行かないタイプなのですが、進路について悩む中で何か拠り所が欲しいと思い、新居近くの小さい神社まで散歩。&lt;br&gt;
+意外と人並んでるなぁとか思いつつ、おみくじだけ引いて帰りました。&lt;/p&gt;
+&lt;p&gt;学問：早目の決心が大事&lt;br&gt;
+相場：買いが勝ち&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/214_newYearCasualPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="ほーん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;諸々がストレスで、体重が79kgぐらいまでいきます。&lt;br&gt;
+42Tokyoのイベントの時に、第一声太った？って言われたしな。&lt;/p&gt;
+&lt;p&gt;東京に帰っても、爆散歩してました。ペース自体はあんまり今までと変わってないですが、インスタにあげるという制約を自分に課していたので、1月は毎日歩いてたんじゃないかな。痩せたかったしね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/215_rotatedNewYearPhoto.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="人生ピーク体重"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;アルムナイパーティで、寄付のお願いみたいなのを再三やっていたので、流石にお世話になったか、ということで寄付。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/216_donationScreenshot.jpg"
+	width="715"
+	height="1600"
+	loading="lazy"
+	
+		alt="42Tokyoに1000円だけ寄付しました"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="44"
+		data-flex-basis="107px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;新居にコンロテーブルを導入。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/217_twoBiteSnack.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="二口最高"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;トヨタコンペが開発期間のラスト1ヶ月になって、急いで取り組み始めます。他のチームが3ヶ月かけているところ、1ヶ月集中型でなんとか動く自律制御のところまでは持って行けたので、良い経験になりました。結果はもちろん予選落ち！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/218_toyotaCompetitionRobot.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="授業で電子工作かじっててよかった"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;月末、卒業研究発表会がありました。&lt;br&gt;
+まぁ、発表するだけの場みたいな感じ。&lt;br&gt;
+やっと卒業研究から解放されると思うと、二次会の酒が美味しく感じました。&lt;/p&gt;
+&lt;p&gt;2026年になってからタイミーだの、フードデリバリーの配達だの、いろんなバイトをやってみようキャンペーンに取り組んでいます。&lt;br&gt;
+選挙シーズンだったので、投票所の解体単発バイトとかもやりました。コミュ障のおじさんと若い女性しかいなかったです。&lt;br&gt;
+大学4年間でTAとインターンしかやれてこなかったことへの後悔と、大人が言う「色々バイトしておくといいぞ」みたいな言葉への焦りを回収しているつもりです笑&lt;/p&gt;
+&lt;h3 id="202602-進学までの余暇色々始めちゃお"&gt;2026/02 進学までの余暇。色々始めちゃお　
+&lt;/h3&gt;&lt;p&gt;衆院選で自民党が大勝し、冬季五輪が盛り上がり、緊急避妊薬の薬局販売が日本で初めて開始されます。&lt;br&gt;
+選挙盛り上がってましたよね。&lt;br&gt;
+りくりゅう、新しいポケモンかなとか思ってました。&lt;br&gt;
+望まぬ妊娠を避けることができるのは、大事なことだと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/219_wildBedhead.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="すげぇ寝癖です"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;インターン先は、半分オンライン、半分出社くらいで調整しているのですが、出社する時は近くの神保町カレーを食べるというのをルーティーンとして出社意欲を出すようになりました。&lt;br&gt;
+結構高いカレーもありますが、一生に一回食べれれば満足ですし、食った直後働いてお金もらうんでね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/220_bondyCurry.jpg"
+	width="1600"
+	height="902"
+	loading="lazy"
+	
+		alt="欧風カレー ボンディ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="425px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;研究室の後輩がやっている太鼓の演奏会に招待していただいたので、見にいきます。&lt;br&gt;
+ついでに、一緒に見た研究室の同期と横浜を散歩。&lt;br&gt;
+赤レンガ倉庫のスペースでいちごフェス的なものが開かれており、成人男性2人でいちご食べに来た人みたいになりました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/221_strawberryFestival.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="新居のベッドを運ぶの手伝ってくれた同期とデート"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;42Tokyoにひろゆきが来ました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/222_debateScreenshot.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="まじで色々論破してたなぁ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;諸事情により公表はできないのですが、ある目的のためにDuolingo English Testのスコア100の取得を目指しています。&lt;br&gt;
+とりあえず、現在地点を知るために受けてみたDuolingo English Testで、スコア95。スコアは5点刻みです。&lt;br&gt;
+何くそ、あと少しやんけ。&lt;br&gt;
+悔しくて1週間後くらいにもう一回連続で受けてみたら、スコア95。&lt;br&gt;
+時間を無駄にしました。&lt;br&gt;
+とりあえずDuolingoのプランを年間契約して、長い目でスコア100を目指すことにしました。&lt;/p&gt;
+&lt;p&gt;新居周辺の開拓を進めつつ、自炊も増やしていきます。これがしたかった。。。コンロ買ったしね。&lt;br&gt;
+自炊、自活、自立的な生活。自分名前で契約した家を、自分の思い通りに運営する。これが至上の喜びです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/223_homemadeUdon.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="床で食べる自作うどん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/224_coldWinterWalk.jpg"
+	width="902"
+	height="1600"
+	loading="lazy"
+	
+		alt="クソ寒いのに散歩している人です"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この頃、3Dプリンターに対する爆裂な興味をついに抑えることができず、大学の学生無料工房にあるプリンターを試用させてもらいにいきます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/225_deskLegPart.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="机の足の斜め部分を潰すパーツをプリント。お掃除ロボットが登らなくなった。最高。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;この時期、漫画のメダリストを読み、アニメも見て、これの最高具合に感動しています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/226_daysArticleScreenshot.jpg"
+	width="686"
+	height="1600"
+	loading="lazy"
+	
+		alt="これもまじ読んでよね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="42"
+		data-flex-basis="102px"
+	
+&gt;　　　　&lt;/p&gt;
+&lt;p&gt;住所変更手続きはまだ全て終わってない状態です。それくらい引越しは大変ってこと。&lt;br&gt;
+マイナがんばれ。&lt;br&gt;
+一番遅くまで手がかかっていたのが、会社の登記変更。代表の私が引っ越すと、会社の登録情報を変更しないといけないため、収入印紙10000円分と一緒に諸々の手間が発生します。ほんまいい加減にしてくれ。&lt;/p&gt;
+&lt;h3 id="202603-区切りご褒美新しいことはなんでも"&gt;2026/03 区切り、ご褒美、新しいことはなんでも
+&lt;/h3&gt;&lt;p&gt;ニデック不正会計の第三者委員会報告書が出てきて、通話アプリPOPOPOがいきなり出てきました。&lt;br&gt;
+ニデックの報告書も、ガバナンスについて考えさせられるいいものでしたね。&lt;br&gt;
+POPOPOはまじであれなんだったんだ。&lt;/p&gt;
+&lt;p&gt;4年間、給付奨学金をもらっていた団体の、最後の催し物。修了式がありました。&lt;br&gt;
+会場はなんと、帝国ホテル。&lt;br&gt;
+金あるなぁ笑&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/227_expensivePurchase.jpg"
+	width="1600"
+	height="902"
+	loading="lazy"
+	
+		alt="お金いっぱいありがとう！！！"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="425px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ついに、3Dプリンターを買います。&lt;br&gt;
+一番安い価格帯のやつだけどね。&lt;/p&gt;
+&lt;p&gt;これがいかに人生を豊かにするかって話ですよ。&lt;br&gt;
+色々テストプリントしましたが、とりあえず自作第一号として、サイレントチェロの制作に当たりました。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/228_stainlessPipe.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="近くのホムセンで買ったステンレスパイプ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/229_silentCelloFinished.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="完成がこちら"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;こちらのチェロ、結構完成度高く作れたのですが、弦を抑える部分の弦の高さが高く、弾くのが疲れます。&lt;br&gt;
+色々調整したのですが、一旦作ることで満足したので放置気味です。&lt;br&gt;
+気が向いた時に弾いたりはするけどね。上手くなっていったらどんどん楽しくなるんだろうな。&lt;br&gt;
+続編としてバイオリンを作りましたが、こっちの方が綺麗な音出るし軽くて手軽だし。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/230_haircutMosaicPhoto.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="また自分で髪切ってますね。"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/231_graduationCeremonyOne.jpg"
+	width="900"
+	height="1600"
+	loading="lazy"
+	
+		alt="卒業式です"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="56"
+		data-flex-basis="135px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/232_graduationCeremonyTwo.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="なにわろとんねん"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;なんか気づいたら卒業してましたね〜。&lt;br&gt;
+大学はいろんな人と知り合うために行ってたみたいな目的感だったので、それはまぁ達成ですかね。&lt;br&gt;
+大学生期間の4年間という意味だと、この上なく色々頑張ったんじゃないでしょうか。&lt;/p&gt;
+&lt;p&gt;卒業式から数時間後、研究室でお酒の場が用意されます。&lt;br&gt;
+それまで、高田馬場のボードゲームカフェで同期2人と遊んで時間を潰しました。楽しかったなぁ。&lt;br&gt;
+飲み会では、同期の女の子と漫画とかの話で盛り上がれて楽しかったです。逆にはそれしか覚えてないです笑&lt;br&gt;
+なんか二次会もあったなぁ、何話したかな。&lt;/p&gt;
+&lt;p&gt;その翌日、4年間学業を頑張った自分へのご褒美として、スパジャポに行きました。漫画喫茶とスーパー銭湯が合体したみたいなでっかい施設ですね。&lt;/p&gt;
+&lt;p&gt;飲み会で同期の女の子におすすめしてもらった、二十世紀少年をがっつり読みます。&lt;br&gt;
+気がついたら施設のクローズ時間の、深夜の二時でした。&lt;/p&gt;
+&lt;p&gt;あーやばいということで、ふらうら散歩を始めます。始発まで歩こうね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/233_earlyMorningWalk.jpg"
+	width="1195"
+	height="1600"
+	loading="lazy"
+	
+		alt="そら眠気でこの顔になりますわ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="74"
+		data-flex-basis="179px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;深夜に松屋食って、ボケーっとしながら始発の時間に。&lt;br&gt;
+ここで、電車を乗る方向を間違い、池袋方面に行くつもりが飯能方面へ&amp;hellip;。&lt;/p&gt;
+&lt;p&gt;尋常じゃない眠気で、起きたら飯能駅。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/234_hannouStationWakeup.jpg"
+	width="1195"
+	height="1600"
+	loading="lazy"
+	
+		alt="は？"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="74"
+		data-flex-basis="179px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;来てしまったものは仕方がない。&lt;br&gt;
+仕方がないので、飯能河原でも見に行きましょうか。&lt;br&gt;
+駅前のパンフレットを手に取り、名前が気になった吾妻峡というところに行ってみることにします。&lt;/p&gt;
+&lt;p&gt;なんてことない普通の河原でしたが、肌寒い春風と朝日が気持ち良い場所でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/235_riversideMorning.jpg"
+	width="1200"
+	height="1600"
+	loading="lazy"
+	
+		alt="河原にいてもSlackの通知は来ます"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="75"
+		data-flex-basis="180px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/looking-back-on-four-years-of-university/images/236_exhaustedReturnHome.jpg"
+	width="1195"
+	height="1600"
+	loading="lazy"
+	
+		alt="流石に疲れてますね笑"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="74"
+		data-flex-basis="179px"
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;これにて、大学4年間は終了。&lt;br&gt;
+まぁいい4年間だったんじゃないですかね。&lt;/p&gt;
+&lt;h2 id="2026年度"&gt;2026年度
+&lt;/h2&gt;&lt;h3 id="202604-以降"&gt;2026/04 以降
+&lt;/h3&gt;&lt;p&gt;大学院に進学しますが、かねてより考えていた計画として、休学を選択します。&lt;br&gt;
+より詳細に言えば春学期の在籍はありますが、研究室の活動は先生同意のもと事実上お休みという感じ。&lt;br&gt;
+まぁ、4月から休学って解釈でいいですね。&lt;/p&gt;
+&lt;p&gt;晴れて所属が無くなったのですが、これのなんとメンタルに悪いことか。&lt;br&gt;
+身分が宙ぶらりんな状態。辛い。&lt;br&gt;
+休学の理由についてはちゃんと言語化されていないのですが、今度ちゃんとまとめたいですね。&lt;br&gt;
+書いたら、ここにもリンク貼る予定です。&lt;/p&gt;
+&lt;p&gt;あと、パーマかけました。これ楽しいね。&lt;/p&gt;
+&lt;p&gt;まぁとにかく、自由からの逃走と言いますか、自由で居続けることは意外とストレスフルです。&lt;br&gt;
+4、5月は特に、毎日かなり気が沈んでいました。&lt;br&gt;
+5月の末にストレスエネルギーが爆発し、その後色々あって、ひとりでの自立的な生活を取り戻せています。（執筆時点2026/06/09）&lt;br&gt;
+気が沈むことも少し減り、以前から書きたいと思っていた振り返り記事を書く元気が出たので書きました。&lt;/p&gt;
+&lt;p&gt;とにかく、Duolingo English Test100はとってしまいたい。これが達成されるだけでかなり沈んだ気が晴れる。&lt;/p&gt;
+&lt;p&gt;執筆時点の私が今頑張りたいこととしては、42でエンジニア的な素養を着実に補強しつつ、個人や法人でリモートでコスパ良く稼ぎ、健康を維持しつつ、株やクリプトの相場に毎日触れていきたい。と思っています。&lt;br&gt;
+親孝行とかもしたいな。&lt;br&gt;
+過去の友人と再度繋がったりして、旧交を温めるのとかもやりたいですね。&lt;/p&gt;
+&lt;p&gt;この記事は以上です。&lt;br&gt;
+みなさまと、僕のご多幸をお祈りしています。&lt;/p&gt;</description></item><item><title>Hello</title><link>https://miyazawakai.com/blog/hello/</link><pubDate>Mon, 02 Feb 2026 02:53:02 +0900</pubDate><guid>https://miyazawakai.com/blog/hello/</guid><description/></item><item><title>2026年にやりたいこと100</title><link>https://miyazawakai.com/blog/2026-goals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://miyazawakai.com/blog/2026-goals/</guid><description>&lt;h1 id="2026年にやりたいこと100"&gt;2026年にやりたいこと100
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;28/100&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="1-やりたいこと100を作成しよう"&gt;1. やりたいこと100を作成しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/01/31&lt;br&gt;
+結構人のモノマネで埋めたけど。&lt;/p&gt;
+&lt;h3 id="2-やりたいこと100を公開してみよう"&gt;2. やりたいこと100を公開してみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/02&lt;br&gt;
+Obsidian管理、GitHub Pages経由の自分のドメインで公開できた！&lt;/p&gt;
+&lt;h3 id="3-duolingo-english-testでscore100を取ろう"&gt;3. Duolingo English TestでScore100を取ろう
+&lt;/h3&gt;&lt;h3 id="4-duolingoで最高ランクに到達しよう"&gt;4. Duolingoで最高ランクに到達しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/15&lt;br&gt;
+ダイヤモンド？よくわかんないけど。&lt;br&gt;
+初日から死ぬほどXP稼いでる人いてドン引き。&lt;/p&gt;
+&lt;h3 id="5-langakuの無料チケット分で5冊読もう"&gt;5. Langakuの無料チケット分で5冊読もう
+&lt;/h3&gt;&lt;h3 id="6-10個の主体から賃金を受け取ってみよう"&gt;6. 10個の主体から賃金を受け取ってみよう
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;株の配当金&lt;/li&gt;
+&lt;li&gt;タイミー(選挙会場設営解体)&lt;/li&gt;
+&lt;li&gt;タイミー(DAISO)&lt;/li&gt;
+&lt;li&gt;wolt(フードデリバリー)&lt;/li&gt;
+&lt;li&gt;menu(フードデリバリー)&lt;/li&gt;
+&lt;li&gt;インターン先&lt;/li&gt;
+&lt;li&gt;受託開発(報酬は会社宛だけど)&lt;/li&gt;
+&lt;li&gt;早稲田大学のTA&lt;/li&gt;
+&lt;li&gt;武蔵大学のTA&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;が安定する。&lt;/p&gt;
-&lt;h3 id="4-レポート生成まで自動化する"&gt;4. レポート生成まで自動化する
-&lt;/h3&gt;&lt;p&gt;「分析して終わり」だと再利用しづらい。&lt;br&gt;
-スクリプトを作って、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;JSON サマリ&lt;/li&gt;
-&lt;li&gt;Markdown レポート&lt;/li&gt;
-&lt;li&gt;リスク候補一覧&lt;/li&gt;
+&lt;h3 id="7-タイミーでお金を稼いでみよう"&gt;7. タイミーでお金を稼いでみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/08&lt;br&gt;
+選挙会場の設営解体のバイトでした。&lt;br&gt;
+2026/04/16 DAISOの品出しバイト&lt;/p&gt;
+&lt;h3 id="8-フードデリバリーでお金を稼いでみよう"&gt;8. フードデリバリーでお金を稼いでみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/01/15&lt;br&gt;
+wolt, menuとかで数回配達してみた。楽しかったし、ダイエットになる気がする。&lt;br&gt;
+UberEatsは登録情報の更新でサポートが全然対応してくれないなり、、、😢&lt;/p&gt;
+&lt;h3 id="9-治験を受けてみよう"&gt;9. 治験を受けてみよう
+&lt;/h3&gt;&lt;p&gt;❌2026/04/21&lt;br&gt;
+4泊×2で20万円の治験に応募しようと思ってたら、食物アレルギーあるなら厳しいってさ、、、&lt;br&gt;
+入院してN万円！の治験がやりたいのであって、化粧品テスターをやりたいわけじゃないから、この目標はボツかなぁ&amp;hellip;&lt;/p&gt;
+&lt;h3 id="10-おてつたびしてみよう"&gt;10. おてつたびしてみよう
+&lt;/h3&gt;&lt;h3 id="11-中部地方の日本海側の県に行ってみよう"&gt;11. 中部地方の日本海側の県に行ってみよう
+&lt;/h3&gt;&lt;h3 id="12-離島に行こう"&gt;12. 離島に行こう
+&lt;/h3&gt;&lt;h3 id="13-名前だけで選んだ町に泊まろう"&gt;13. 名前だけで選んだ町に泊まろう
+&lt;/h3&gt;&lt;h3 id="14-寝台特急に乗ろう"&gt;14. 寝台特急に乗ろう
+&lt;/h3&gt;&lt;h3 id="15-アジアの国を2泊3日一人旅しよう"&gt;15. アジアの国を2泊3日一人旅しよう
+&lt;/h3&gt;&lt;h3 id="16-現地の屋台飯を食って下痢ってゲロ吐こう"&gt;16. 現地の屋台飯を食って下痢ってゲロ吐こう
+&lt;/h3&gt;&lt;h3 id="17-世界遺産に行こう"&gt;17. 世界遺産に行こう
+&lt;/h3&gt;&lt;h3 id="18-ネットなし書誌情報だけで国内旅行しよう"&gt;18. ネットなし/書誌情報だけで国内旅行しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/03/31&lt;br&gt;
+徹夜明け飯能旅行&lt;br&gt;
+駅前のパンフレットだけを頼りに、我妻峡？に行きました&lt;br&gt;
+結構良かった。春の肌寒い川風〜という感じ。&lt;/p&gt;
+&lt;h3 id="19-競馬場に行こう"&gt;19. 競馬場に行こう
+&lt;/h3&gt;&lt;h3 id="20-競輪場に行こう"&gt;20. 競輪場に行こう
+&lt;/h3&gt;&lt;h3 id="21-競艇場に行こう"&gt;21. 競艇場に行こう
+&lt;/h3&gt;&lt;h3 id="22-せっかく丙午だし推しの競走馬を作ろう"&gt;22. せっかく丙午だし、推しの競走馬を作ろう
+&lt;/h3&gt;&lt;h3 id="23-せっかく丙午だし子育てについて調べてみよう"&gt;23. せっかく丙午だし、子育てについて調べてみよう
+&lt;/h3&gt;&lt;h3 id="24-山手線一周の車窓を楽しもう"&gt;24. 山手線一周の車窓を楽しもう
+&lt;/h3&gt;&lt;h3 id="25-山手線一周を歩こう"&gt;25. 山手線一周を歩こう
+&lt;/h3&gt;&lt;h3 id="26-皇居を散歩しよう"&gt;26. 皇居を散歩しよう
+&lt;/h3&gt;&lt;h3 id="27-芸人の単独ライブを観に行ってみよう"&gt;27. 芸人の単独ライブを観に行ってみよう
+&lt;/h3&gt;&lt;p&gt;2026/05/01 &lt;a class="link" href="https://tiget.net/events/478444" target="_blank" rel="noopener"
+ &gt;これ&lt;/a&gt;は単独ライブなのか&amp;hellip;.?行きたいけど笑&lt;/p&gt;
+&lt;h3 id="28-バレエを観に行ってみよう"&gt;28. バレエを観に行ってみよう
+&lt;/h3&gt;&lt;h3 id="29-宝塚を観に行ってみよう"&gt;29. 宝塚を観に行ってみよう
+&lt;/h3&gt;&lt;h3 id="30-裁判傍聴してみよう"&gt;30. 裁判傍聴してみよう
+&lt;/h3&gt;&lt;h3 id="31-新居周辺のカフェを5つ発掘しよう"&gt;31. 新居周辺のカフェを5つ発掘しよう
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;喫茶ぶな&lt;/li&gt;
+&lt;li&gt;Retraite ルトレット&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="32-神保町のカレーを5店舗食べよう"&gt;32. 神保町のカレーを5店舗食べよう
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://note.com/moeatsu/n/n9d97c21b520b#0ddaf131-974b-45a9-87fb-ab66e04f71f1" target="_blank" rel="noopener"
+ &gt;カレーの街神田神保町　|　―カレーの街の始まり レジェンド店７選―｜もえあつ&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ボンディ&lt;/li&gt;
+&lt;li&gt;スマトラカレー 共栄堂&lt;/li&gt;
+&lt;li&gt;ライスカレー まんてん&lt;/li&gt;
+&lt;li&gt;カヴァイル&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="33-朝すき家昼吉野家夜松屋で公平に牛丼1位を決める日をやろう"&gt;33. 朝すき家、昼吉野家、夜松屋で、公平に牛丼1位を決める日をやろう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/03/28&lt;br&gt;
+スパジャポでオールした日に、&lt;br&gt;
+深夜松屋&lt;br&gt;
+朝すき家&lt;br&gt;
+昼吉野家&lt;br&gt;
+をやりました。順不同なのはよし。&lt;br&gt;
+一位は&amp;hellip;.すき家かなぁ&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/2026-goals/images/matsuya.jpg"
+	width="4000"
+	height="3000"
+	loading="lazy"
+	
+		alt="深夜松屋"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/2026-goals/images/sukiya.jpg"
+	width="4000"
+	height="3000"
+	loading="lazy"
+	
+		alt="朝すき家"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;br&gt;
+&lt;img src="https://miyazawakai.com/blog/2026-goals/images/yoshinoya.jpg"
+	width="4000"
+	height="3000"
+	loading="lazy"
+	
+		alt="昼吉野家"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="133"
+		data-flex-basis="320px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="34-純喫茶で丸一日小説を読もう"&gt;34. 純喫茶で丸一日、小説を読もう
+&lt;/h3&gt;&lt;h3 id="35-名作洋画を英語音声英日2字幕で30本観よう"&gt;35. 名作洋画を英語音声,英日2字幕で30本観よう
+&lt;/h3&gt;&lt;h3 id="36-コンテンツ消費をしたらレビューを書こう"&gt;36. コンテンツ消費をしたらレビューを書こう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/05/01&lt;br&gt;
+「14歳の栞」について、Filmarksで&lt;a class="link" href="https://filmarks.com/users/userwCsro20Q5q4" target="_blank" rel="noopener"
+ &gt;レビュー&lt;/a&gt;を書きました。&lt;br&gt;
+いいドキュメンタリーだった&amp;hellip;。&lt;/p&gt;
+&lt;h3 id="37-本1冊を完全にランダムに選んで買おう"&gt;37. 本1冊を完全にランダムに選んで買おう
+&lt;/h3&gt;&lt;h3 id="38-短編小説を書こう"&gt;38. 短編小説を書こう
+&lt;/h3&gt;&lt;h3 id="39-地方競馬のレースの命名権を買ってみよう"&gt;39. 地方競馬のレースの命名権を買ってみよう
+&lt;/h3&gt;&lt;h3 id="40-家系図を作ってみよう"&gt;40. 家系図を作ってみよう
+&lt;/h3&gt;&lt;h3 id="41-davinci-resolveを使ってvlogを作ってみよう"&gt;41. DaVinci Resolveを使ってVlogを作ってみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/04/11&lt;br&gt;
+結構楽しいかも&lt;br&gt;
+ハマった&lt;br&gt;
+Youtuberになったろかな&lt;/p&gt;
+&lt;h3 id="42-cadソフトで3dモデルをいじる一連の流れをやってみよう"&gt;42. CADソフトで3Dモデルをいじる一連の流れをやってみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/04/04&lt;br&gt;
+風呂用のパイプ作った&lt;br&gt;
+結果的に失敗だったけど、blender(本当の意味のCADソフトじゃいんだろうけど)への抵抗は減ったかも&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://miyazawakai.com/blog/2026-goals/images/bath_pipe.png"
+	width="1008"
+	height="1102"
+	loading="lazy"
+	
+		alt="風呂用パイプ"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="91"
+		data-flex-basis="219px"
+	
+&gt;&lt;/p&gt;
+&lt;h3 id="43-3dプリンターを買おう"&gt;43. 3Dプリンターを買おう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/03/06&lt;br&gt;
+あまりにも最高&lt;/p&gt;
+&lt;h3 id="44-3dプリンターでエレキチェロを作ろう"&gt;44. 3Dプリンターでエレキチェロを作ろう
+&lt;/h3&gt;&lt;p&gt;2026/03/10 まず弦と弓なしの素体チェロが完成&lt;br&gt;
+✅ 2026/03/17 チェロ楽しすぎ&lt;/p&gt;
+&lt;h3 id="45-エレキチェロでクライスラー-愛の悲しみを演奏しよう"&gt;45. エレキチェロで、クライスラー 『愛の悲しみ』を演奏しよう
+&lt;/h3&gt;&lt;h3 id="46-サンプラーを使ってdtmを作ろう"&gt;46. サンプラーを使ってDTMを作ろう
+&lt;/h3&gt;&lt;h3 id="47-粘土造形で遊んで造形芸術に入門しよう"&gt;47. 粘土造形で遊んで、造形芸術に入門しよう
+&lt;/h3&gt;&lt;h3 id="48-新しいスポーツを始めよう"&gt;48. 新しいスポーツを始めよう
+&lt;/h3&gt;&lt;p&gt;✅2026/04/27 市民プール行った&lt;br&gt;
+経験したことはあるから新しくはないけど、自分ルールOKで！&lt;/p&gt;
+&lt;h3 id="49-ひとりでボウリングしてみよう"&gt;49. ひとりでボウリングしてみよう
+&lt;/h3&gt;&lt;p&gt;✅2026/04/05 ひとりじゃなかったけど、楽しかったのでそれでよくない？ with ひっか&amp;amp;よしき&lt;/p&gt;
+&lt;h3 id="50-ビリヤードにしっかり入門しよう"&gt;50. ビリヤードにしっかり入門しよう
+&lt;/h3&gt;&lt;h3 id="51-麻雀のルールをしっかり理解しよう"&gt;51. 麻雀のルールをしっかり理解しよう
+&lt;/h3&gt;&lt;h3 id="52-葉巻を吸ってみよう"&gt;52. 葉巻を吸ってみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/07&lt;br&gt;
+葉巻を吸った時の記録にまとめました。記事が整ったら公開します。&lt;/p&gt;
+&lt;h3 id="53-1000円以上寄付しよう"&gt;53. 1000円以上寄付しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/01/02&lt;br&gt;
+42Tokyoに1000円寄付した。&lt;br&gt;
+寄付先が慈善事業とかじゃないから趣旨に叶うかは微妙だけど、まあ良し。&lt;/p&gt;
+&lt;h3 id="54-1年考えてマンキンで地味ハロウィンしよう"&gt;54. 1年考えてマンキンで地味ハロウィンしよう
+&lt;/h3&gt;&lt;h3 id="55-バンジージャンプしよう"&gt;55. バンジージャンプしよう
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://www.bungyjapan.com/ryujin/" target="_blank" rel="noopener"
+ &gt;https://www.bungyjapan.com/ryujin/&lt;/a&gt;　　？？&lt;/p&gt;
+&lt;h3 id="56-髪の毛を染めてみよう"&gt;56. 髪の毛を染めてみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/04/13&lt;br&gt;
+自分ルール：パーマでもよし&lt;br&gt;
+人生初パーマ！！とってもメンタルがいい&lt;/p&gt;
+&lt;h3 id="57-年間1200km歩こう"&gt;57. 年間1200km歩こう
+&lt;/h3&gt;&lt;h3 id="58-bmi249以下になろう"&gt;58. BMI24.9以下になろう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/04/20&lt;br&gt;
+身長：172.1&lt;br&gt;
+体重：72.1&lt;br&gt;
+BMI：24.34&lt;br&gt;
+まじで一瞬だけ爆痩せした&lt;/p&gt;
+&lt;h3 id="59-ホワイトニングしよう"&gt;59. ホワイトニングしよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/02 初日！タッケェけど自己投資だしまぁ、、、 &lt;br&gt;
+2026/03/02 最終チェックの日 割と白くなったかも&lt;/p&gt;
+&lt;h3 id="60-東京証券取引所の見学ツアーに行ってみよう"&gt;60. 東京証券取引所の見学ツアーに行ってみよう
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://www.jpx.co.jp/corporate/learning/tour/arrows/01.html#heading_8" target="_blank" rel="noopener"
+ &gt;https://www.jpx.co.jp/corporate/learning/tour/arrows/01.html#heading_8&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="61-資産10以上入れてる銘柄で2バガーを取ろう"&gt;61. 資産10%以上入れてる銘柄で2バガーを取ろう
+&lt;/h3&gt;&lt;h3 id="62-下がったら買いたい銘柄リストを作ろう"&gt;62. 下がったら買いたい銘柄リストを作ろう
+&lt;/h3&gt;&lt;h3 id="63-銘柄ノートを取ろう"&gt;63. 銘柄ノートを取ろう
+&lt;/h3&gt;&lt;h3 id="64-取引メモを取ろう"&gt;64. 取引メモを取ろう
+&lt;/h3&gt;&lt;h3 id="65-cryptoで10取ろう"&gt;65. Cryptoで+10%取ろう
+&lt;/h3&gt;&lt;h3 id="66-株でインデックスに勝とう"&gt;66. 株でインデックスに勝とう
+&lt;/h3&gt;&lt;h3 id="67-株主総会に出席してみよう"&gt;67. 株主総会に出席してみよう
+&lt;/h3&gt;&lt;h3 id="68-不動産競売に入札してみよう"&gt;68. 不動産競売に入札してみよう
+&lt;/h3&gt;&lt;p&gt;バーチャル入札はした！！&lt;/p&gt;
+&lt;h3 id="69-消防整備士乙6を取ろう"&gt;69. 消防整備士乙6を取ろう
+&lt;/h3&gt;&lt;p&gt;後回しかなぁ&amp;hellip;&lt;/p&gt;
+&lt;h3 id="70-第二種電気工事士を取ろう"&gt;70. 第二種電気工事士を取ろう
+&lt;/h3&gt;&lt;p&gt;乙6よりは優先順位高い&lt;/p&gt;
+&lt;h3 id="71-証券外務員二種を取ろう"&gt;71. 証券外務員二種を取ろう
+&lt;/h3&gt;&lt;h3 id="72-cma一次合格をしよう"&gt;72. CMA一次合格をしよう
+&lt;/h3&gt;&lt;h3 id="73-保育士試験の筆記試験を受けてみよう"&gt;73. 保育士試験の筆記試験を受けてみよう
+&lt;/h3&gt;&lt;p&gt;乙6よりは優先順位高い&lt;/p&gt;
+&lt;h3 id="74-ネタ資格を1個受験しよう"&gt;74. ネタ資格を1個受験しよう
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://www.furano-cci.or.jp/?page_id=369" target="_blank" rel="noopener"
+ &gt;北海道観光マスター検定&lt;/a&gt;ありやなぁ&lt;/p&gt;
+&lt;h3 id="75-知識をobsidianに整理しよう"&gt;75. 知識をObsidianに整理しよう
+&lt;/h3&gt;&lt;p&gt;運用開始はしたけど、まだ集約が足りてない。&lt;br&gt;
+Chromeのブクマの情報を集約したら達成かな？&lt;br&gt;
+✅達成 2026/04/21&lt;br&gt;
+かなり集約されてきたかも&lt;/p&gt;
+&lt;h3 id="76-obsidian--zettelkastenの土台を完成させよう"&gt;76. Obsidian × Zettelkastenの土台を完成させよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/04/21&lt;br&gt;
+日記つけていこうね&lt;/p&gt;
+&lt;h3 id="77-リソースをgoogledriveに整理しよう"&gt;77. リソースをGoogleDriveに整理しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/15&lt;br&gt;
+ぐちゃぐちゃだったのをとりあえずまとめてぶち込んだ。&lt;br&gt;
+ローカルが綺麗&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;h3 id="78-libasmをクリアしよう"&gt;78. libasmをクリアしよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/09&lt;br&gt;
+&lt;a class="link" href="https://github.com/KaiMiyazawa/42_libasm" target="_blank" rel="noopener"
+ &gt;42_libasm&lt;/a&gt;&lt;br&gt;
+これで「僕アセンブリ言語わかります」ドヤできるのでかい(しないほうがいい)。&lt;/p&gt;
+&lt;h3 id="79-ftl_quantumをクリアしよう"&gt;79. Ftl_quantumをクリアしよう
+&lt;/h3&gt;&lt;p&gt;2026/03/10 RCPN？の関係で、少しやる気なくなってる&lt;/p&gt;
+&lt;h3 id="80-tokenizerをクリアしよう"&gt;80. Tokenizerをクリアしよう
+&lt;/h3&gt;&lt;p&gt;2026/03/10 結構やる気ある&lt;/p&gt;
+&lt;h3 id="81-42のライフセーバーを1回して称号を獲得しよう"&gt;81. 42のライフセーバーを1回して、称号を獲得しよう
+&lt;/h3&gt;&lt;h3 id="82-個人開発で売り上げを1円あげよう"&gt;82. 個人開発で売り上げを1円あげよう
+&lt;/h3&gt;&lt;h3 id="83-自分用の通知botを作ろう"&gt;83. 自分用の通知botを作ろう
+&lt;/h3&gt;&lt;h3 id="84-ドメインの整備をしよう"&gt;84. ドメインの整備をしよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/02&lt;br&gt;
+ずっと放置だったmiyazawakai.comをObsidian管理、GitHub Pagesホスティングで整備し直し。&lt;br&gt;
+ちゃんと重労働で笑うしかなかった。&lt;/p&gt;
+&lt;h3 id="85-ドメインでのアウトプットフローを整備しよう"&gt;85. ドメインでのアウトプットフローを整備しよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/02&lt;br&gt;
+Obsidian管理からgit pushすれば公開されます。よいよい。&lt;/p&gt;
+&lt;h3 id="86-アドベントカレンダーで記事を2本書こう"&gt;86. アドベントカレンダーで記事を2本書こう
+&lt;/h3&gt;&lt;h3 id="87-7種類のラム酒を飲んで1位を決めよう"&gt;87. 7種類のラム酒を飲んで1位を決めよう
+&lt;/h3&gt;&lt;h3 id="88-水のペットボトルを集めて推し水を決めよう"&gt;88. 水のペットボトルを集めて、推し水を決めよう
+&lt;/h3&gt;&lt;h3 id="89-つまんない酒は飲まないようにしよう"&gt;89. つまんない酒は飲まないようにしよう
+&lt;/h3&gt;&lt;h3 id="90-自分から飲み会を企画してみよう"&gt;90. 自分から飲み会を企画してみよう
+&lt;/h3&gt;&lt;h3 id="91-5個の旧交を温めよう"&gt;91. 5個の旧交を温めよう
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;2026/04/04 高校の友達1&lt;/li&gt;
+&lt;li&gt;2026/04/05 中学の友達1&lt;/li&gt;
+&lt;li&gt;2026/04/05 中学の友達2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="92-サウナ水風呂外気浴を正しくやってみよう"&gt;92. サウナ→水風呂→外気浴を正しくやってみよう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/05/13&lt;br&gt;
+久しぶりで張り切ってしまったので、長めのサウナ、長めの水風呂を決め込む&lt;br&gt;
+普通にヒートショックになり、視界ぐるぐる。&lt;br&gt;
+うまく立てず、全身に力が入らず、気持ち悪くなり、ひとくちゲロを我慢して耐える&lt;br&gt;
+落ち着いて露天風呂行ったら、いきなり雷雨に降られる&lt;br&gt;
+もちろん銭湯を出ても土砂降りなので&lt;br&gt;
+慰めのマックポークを食って帰る&lt;/p&gt;
+&lt;h3 id="93-バカ高いコーヒーを飲もう"&gt;93. バカ高いコーヒーを飲もう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/03/07 ブルーマウンテンコーヒー 1100円 頭おかしいんか&lt;/p&gt;
+&lt;h3 id="94-パクチーと向き合おう"&gt;94. パクチーと向き合おう
+&lt;/h3&gt;&lt;p&gt;✅達成 2026/02/19 インターン先の無料晩御飯で不意にカオマンガイパクチー。食ってみたら別に全然食えた。パクチーオンリーサラダとかじゃない限り全然食えそう。&lt;/p&gt;
+&lt;h3 id="95-自宅にアクアポニックスを構築しよう"&gt;95. 自宅にアクアポニックスを構築しよう
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://aquaponics-onlinestore.com/?mode=cate&amp;amp;csid=0&amp;amp;cbid=2833787" target="_blank" rel="noopener"
+ &gt;https://aquaponics-onlinestore.com/?mode=cate&amp;csid=0&amp;cbid=2833787&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="96-家庭菜園で草を生やして食おう"&gt;96. 家庭菜園で草を生やして食おう
+&lt;/h3&gt;&lt;p&gt;2026/04/26 植えたでェ〜&lt;/p&gt;
+&lt;h3 id="97-せいろを買って蒸し料理しよう"&gt;97. せいろを買って蒸し料理しよう
+&lt;/h3&gt;&lt;h3 id="98-街の中華料理屋の誰も頼んで無さそうな一品を頼んでみよう"&gt;98. 街の中華料理屋の、誰も頼んで無さそうな一品を頼んでみよう
+&lt;/h3&gt;&lt;h3 id="99-2026年の振り返りを行おう"&gt;99. 2026年の振り返りを行おう
+&lt;/h3&gt;&lt;h3 id="100-2027年にやりたい100を作成しよう"&gt;100. 2027年にやりたい100を作成しよう
+&lt;/h3&gt;&lt;h1 id="感想"&gt;感想
+&lt;/h1&gt;&lt;p&gt;今んとこ楽しい。&lt;/p&gt;
+&lt;h1 id="全体チェックボックス用"&gt;全体チェックボックス用
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; やりたいこと100を作成しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; やりたいこと100を公開してみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Duolingo English TestでScore100を取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Duolingoで最高ランクに到達しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Langakuの無料チケット分で5冊読もう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 10個の主体から賃金を受け取ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; タイミーでお金を稼いでみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; フードデリバリーでお金を稼いでみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 治験を受けてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; おてつたびしてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 中部地方の日本海側の県に行ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 離島に行こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 名前だけで選んだ町に泊まろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 寝台特急に乗ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; アジアの国を2泊3日一人旅しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 現地の屋台飯を食って下痢ってゲロ吐こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 世界遺産に行こう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; ネットなし/書誌情報だけで国内旅行しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 競馬場に行こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 競輪場に行こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 競艇場に行こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; せっかく丙午だし、推しの競走馬を作ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; せっかく丙午だし、子育てについて調べてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 山手線一周の車窓を楽しもう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 山手線一周を歩こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 皇居を散歩しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 芸人の単独ライブを観に行ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; バレエを観に行ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 宝塚を観に行ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 裁判傍聴してみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 新居周辺のカフェを5つ発掘しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 神保町のカレーを5店舗食べよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 朝すき家、昼吉野家、夜松屋で、公平に牛丼1位を決める日をやろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 純喫茶で丸一日、小説を読もう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 名作洋画を英語音声,英日2字幕で30本観よう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; コンテンツ消費をしたらレビューを書こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 本1冊を完全にランダムに選んで買おう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 短編小説を書こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 地方競馬のレースの命名権を買ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 家系図を作ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; DaVinci Resolveを使ってVlogを作ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; CADソフトで3Dモデルをいじる一連の流れをやってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 3Dプリンターを買おう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 3Dプリンターでエレキチェロを作ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; エレキチェロで、クライスラー 『愛の悲しみ』を演奏しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; サンプラーを使ってDTMを作ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 粘土造形で遊んで、造形芸術に入門しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 新しいスポーツを始めよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; ひとりでボウリングしてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; ビリヤードにしっかり入門しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 麻雀のルールをしっかり理解しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 葉巻を吸ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 1000円以上寄付しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 1年考えてマンキンで地味ハロウィンしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; バンジージャンプしよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 髪の毛を染めてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 年間1200km歩こう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; BMI24.9以下になろう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; ホワイトニングしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 東京証券取引所の見学ツアーに行ってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 資産10%以上入れてる銘柄で2バガーを取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 下がったら買いたい銘柄リストを作ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 銘柄ノートを取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 取引メモを取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Cryptoで+10%取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 株でインデックスに勝とう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 株主総会に出席してみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 不動産競売に入札してみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 消防整備士乙6を取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 第二種電気工事士を取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 証券外務員二種を取ろう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; CMA一次合格をしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 保育士試験の筆記試験を受けてみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; ネタ資格を1個受験しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; 知識をObsidianに整理しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Obsidian × Zettelkastenの土台を完成させよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; リソースをGoogleDriveに整理しよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; libasmをクリアしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Ftl_quantumをクリアしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Tokenizerをクリアしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 42のライフセーバーを1回して、称号を獲得しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 個人開発で売り上げを1円あげよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 自分用の通知botを作ろう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; ドメインの整備をしよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; ドメインでのアウトプットフローを整備しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; アドベントカレンダーで記事を2本書こう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 7種類のラム酒を飲んで1位を決めよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 水のペットボトルを集めて、推し水を決めよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; つまんない酒は飲まないようにしよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 自分から飲み会を企画してみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 5個の旧交を温めよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; サウナ→水風呂→外気浴を正しくやってみよう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; バカ高いコーヒーを飲もう&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; パクチーと向き合おう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 自宅にアクアポニックスを構築しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 家庭菜園で草を生やして食おう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; せいろを買って蒸し料理しよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 街の中華料理屋の、誰も頼んで無さそうな一品を頼んでみよう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 2026年の振り返りを行おう&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 2027年にやりたい100を作成しよう&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;まで吐けるようにしておくと、あとでプロンプトを変えて何度でも掘り直せる。&lt;/p&gt;
-&lt;h2 id="codex-に投げるときのおすすめプロンプト"&gt;Codex に投げるときのおすすめプロンプト
-&lt;/h2&gt;&lt;p&gt;以下は、今回の作業を踏まえて「最初に入れると進めやすい」と感じた指示。&lt;/p&gt;
-&lt;h3 id="1-まず全体像を掴ませるプロンプト"&gt;1. まず全体像を掴ませるプロンプト
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;このディレクトリは X のアーカイブを展開したものです。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;まず data 配下の構造を棚卸しして、どのデータセットが何を表しているか整理してください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;特に、件数の多いファイル、メディアディレクトリ、JSON ではなく JS ラッパーになっているファイル形式に注意してください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;そのうえで、次にやるべき分析テーマを優先順位つきで提案してください。
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="2-定量分析用のプロンプト"&gt;2. 定量分析用のプロンプト
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;data/tweets.js, like.js, follower.js, following.js, direct-messages.js などを使って、
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;このアーカイブの定量分析スクリプトを作ってください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;出力は Markdown レポートと JSON サマリの両方にしてください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;知りたいのは、投稿数の推移、曜日・時間帯、返信率、クライアント、いいね傾向、DM 利用状況、フォロー関係の概要です。
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="3-定性分析自己分析用のプロンプト"&gt;3. 定性分析・自己分析用のプロンプト
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;data/tweets.js を全件対象にして、発信スタイルの変遷、コミュニティ内での役回り、学習志向、ユーモア、自虐傾向などを定性的に分析してください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;断定的な人格診断ではなく、公開投稿から推測できる傾向としてレポートを書いてください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;時期ごとの差分も整理してください。
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="4-リスク監査用のプロンプト"&gt;4. リスク監査用のプロンプト
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;就活リスク、個人情報露出、誤読されやすい表現、ブランド毀損につながる投稿を広めに抽出してください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;まずは false positive を許容して候補を広めに出し、あとで人間が絞り込める形にしてください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;出力は、severity、日付、URL、理由、本文要約つきの Markdown 一覧にしてください。
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="5-記事化まで持っていくプロンプト"&gt;5. 記事化まで持っていくプロンプト
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;この分析結果をもとに、X アーカイブを Codex で分析すると何ができるかを紹介する技術記事を書いてください。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;読者は、アーカイブは持っているが何から始めればいいか分からない人です。
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;記事には、できること、進め方、注意点、おすすめプロンプトを含めてください。
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="やってみて分かった良さ"&gt;やってみて分かった良さ
-&lt;/h2&gt;&lt;p&gt;今回いちばん良かったのは、Codex が「集計器」だけでなく「分析の相棒」になることだった。&lt;/p&gt;
-&lt;p&gt;人間がやるべきなのは、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;何を知りたいか決める&lt;/li&gt;
-&lt;li&gt;どこまで公開してよいか決める&lt;/li&gt;
-&lt;li&gt;最終判断をする&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一方、Codex には、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;データ構造の把握&lt;/li&gt;
-&lt;li&gt;パーサの実装&lt;/li&gt;
-&lt;li&gt;集計の自動化&lt;/li&gt;
-&lt;li&gt;レポートの叩き台作成&lt;/li&gt;
-&lt;li&gt;追加分析観点の提案&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;を任せられる。&lt;/p&gt;
-&lt;p&gt;特に自分のログ分析は、対象への土地勘が人間側にあり、でも件数が多すぎて手で読むのはしんどい、という意味で LLM とかなり相性がいい。&lt;/p&gt;
-&lt;h2 id="注意点"&gt;注意点
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;X アーカイブにはセンシティブなデータが大量に含まれる&lt;/li&gt;
-&lt;li&gt;DM、位置情報、生活圏、連絡先、広告ログなどは取り扱い注意&lt;/li&gt;
-&lt;li&gt;分析用のリポジトリは private 前提で扱う&lt;/li&gt;
-&lt;li&gt;削除候補の抽出は自動化できても、最終判断は必ず人間が行う&lt;/li&gt;
-&lt;li&gt;LLM の定性分析は「傾向の要約」として使い、断定的な人格評価にしない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;このあたりを守れば、かなり安全に、しかもかなり面白く掘れる。&lt;/p&gt;
-&lt;h2 id="おわりに"&gt;おわりに
-&lt;/h2&gt;&lt;p&gt;X アーカイブのダウンロード機能って、正直かなり地味に見える。&lt;br&gt;
-でも実際には、数年分の発言・反応・関心・つながりのログがまとまった、かなり強い個人データ資産になっている。&lt;/p&gt;
-&lt;p&gt;そこに Codex を組み合わせると、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自分史の定量分析&lt;/li&gt;
-&lt;li&gt;公開アカウントの棚卸し&lt;/li&gt;
-&lt;li&gt;黒歴史・リスクの監査&lt;/li&gt;
-&lt;li&gt;今後の発信方針の設計&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;までつなげられる。&lt;/p&gt;
-&lt;p&gt;「自分のアーカイブ、落として終わり」になっているなら、かなりもったいない。&lt;br&gt;
-一度、専用ディレクトリに展開して、Codex にちゃんと読ませてみると面白いです。&lt;/p&gt;</description></item><item><title>Hugo × Obsidian × GitHub Pages で作る、書くだけで公開できる個人知識基盤</title><link>https://miyazawakai.com/blog/how-to-build-my-publish-system/</link><pubDate>Mon, 02 Feb 2026 03:00:00 +0900</pubDate><guid>https://miyazawakai.com/blog/how-to-build-my-publish-system/</guid><description>&lt;h2 id="はじめに"&gt;はじめに
-&lt;/h2&gt;&lt;p&gt;日記・メモ・技術ノートは Obsidian で書く。&lt;br&gt;
-でも「公開」は面倒で続かない──。&lt;/p&gt;
-&lt;p&gt;そんな状態を抜け出すために、&lt;strong&gt;Obsidian → Hugo → GitHub Pages&lt;/strong&gt; という流れで、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ローカルでは私的な知識基盤、必要なものだけを“そのまま”公開できる&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;仕組みをゼロから構築した。(もちろんChatGPTが！)&lt;/p&gt;
-&lt;p&gt;この記事は、その&lt;strong&gt;設計思想・ディレクトリ構成・ハマりどころ&lt;/strong&gt;まで含めた記録です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="ゴール設定"&gt;ゴール設定
-&lt;/h2&gt;&lt;p&gt;今回のゴールは明確でした。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Obsidian で普段どおり Markdown を書く&lt;/li&gt;
-&lt;li&gt;公開したいものだけを明示的に切り出す&lt;/li&gt;
-&lt;li&gt;GitHub に push するだけで自動で公開される&lt;/li&gt;
-&lt;li&gt;ローカル知識（非公開）は絶対に漏れない&lt;/li&gt;
-&lt;li&gt;将来構成を拡張しても壊れない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;WordPress のような CMS は使わない。&lt;br&gt;
-&lt;strong&gt;「書く体験」を壊さないこと&lt;/strong&gt;を最優先にしました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="全体構成最終形"&gt;全体構成（最終形）
-&lt;/h2&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Obsidian/
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 01_diary # 完全非公開の日記
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 02_note # 非公開ノート
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 03_hobby
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 04_misc
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 79_template # Obsidian用テンプレ集
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 89_profile # GitHub Profile（submodule）
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── 99_public # 公開サイト（submodule/Hugo）
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;└── ...
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;ポイントは &lt;strong&gt;99_public だけが「公開境界」&lt;/strong&gt; であること。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="なぜ-obsidian-vault-をそのまま公開しないのか"&gt;なぜ Obsidian Vault をそのまま公開しないのか
-&lt;/h2&gt;&lt;p&gt;Obsidian の Publish 機能も検討したが、以下の理由で採用しなかった。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;月額課金が必要&lt;/li&gt;
-&lt;li&gt;公開粒度の制御が弱い&lt;/li&gt;
-&lt;li&gt;将来の移行コストが高い&lt;/li&gt;
-&lt;li&gt;GitHubをどうにかすれば自分でも無料で実現できそうだった&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;そこで、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Vault 全体はローカル管理、公開物だけを submodule で分離&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;という設計を取った。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="99_public-を-submodule-にする"&gt;99_public を submodule にする
-&lt;/h2&gt;&lt;p&gt;&lt;code&gt;99_public&lt;/code&gt; は、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub Pages 用リポジトリ&lt;/li&gt;
-&lt;li&gt;Hugo プロジェクト&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;を兼ねている。&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;99_public/
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── content
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;│ ├── blog
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;│ └── pages
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── layouts
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── static
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;├── themes
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;└── config.toml
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;親の Obsidian Vault から見ると、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;99_public は「外に出る箱」&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;として明確に分離されている。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="blog--pages-の役割分離"&gt;blog / pages の役割分離
-&lt;/h2&gt;&lt;h3 id="blog"&gt;blog/
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;日記の延長&lt;/li&gt;
-&lt;li&gt;技術記事&lt;/li&gt;
-&lt;li&gt;時系列で流れて良いもの&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="pages"&gt;pages/
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;About&lt;/li&gt;
-&lt;li&gt;目標&lt;/li&gt;
-&lt;li&gt;プロジェクト概要&lt;/li&gt;
-&lt;li&gt;URL を固定したいもの&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;迷ったらこの基準で判断する。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;1年後も同じ URL で見せたいか？&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id="hugo-テーマstack-を選んだ理由"&gt;Hugo テーマ：Stack を選んだ理由
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;ダークモードが最初から美しい&lt;/li&gt;
-&lt;li&gt;情報密度が高い&lt;/li&gt;
-&lt;li&gt;技術ブログと相性が良い&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ただし &lt;strong&gt;Stack は構造前提がかなり厳しい&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;article-page&lt;/code&gt; / &lt;code&gt;main-article&lt;/code&gt; / &lt;code&gt;article-content&lt;/code&gt; を崩すと、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ダークモードで文字が黒くなる&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;という罠にハマった。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="トップページが一番の難所だった"&gt;トップページが一番の難所だった
-&lt;/h2&gt;&lt;p&gt;&lt;code&gt;content/_index.md&lt;/code&gt; を書いただけでは、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;余白が変&lt;/li&gt;
-&lt;li&gt;ダークモードが壊れる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;という状態になった。&lt;/p&gt;
-&lt;p&gt;最終的にたどり着いたのは、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;トップページも single.html と同じ partial で描画する&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;という解決策。&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{ partial &amp;#34;article/article.html&amp;#34; . }}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Stack の設計思想に逆らわないように、何とかお膳立てしたらどうにかなりました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="build成果物は-git-管理しない"&gt;build成果物は Git 管理しない
-&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code class="language-gitignore" data-lang="gitignore"&gt;public/
-resources/_gen/
-.hugo_build.lock
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;public/&lt;/code&gt; は毎回生成&lt;/li&gt;
-&lt;li&gt;GitHub Actions が deploy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;という責務分離にしたことで、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ローカルと本番がズレない&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;状態を維持できている。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="この構成の良いところ"&gt;この構成の良いところ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;書く場所は 1 つ（Obsidian）&lt;/li&gt;
-&lt;li&gt;公開境界が明確&lt;/li&gt;
-&lt;li&gt;破壊的変更が起きにくい&lt;/li&gt;
-&lt;li&gt;将来 LLM や検索と相性が良い&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;正直、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;個人ブログとしては完成形にかなり近い&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;と感じている。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="おわりに"&gt;おわりに
-&lt;/h2&gt;&lt;p&gt;この構成を作って一番良かったのは、&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「公開するかどうか」を&lt;strong&gt;書く時点で悩まなくなった&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;ことです。&lt;/p&gt;
-&lt;p&gt;まず書く。必要になったら public に移す。&lt;/p&gt;
-&lt;p&gt;この距離感が、個人のアウトプットを長く続ける良いポイントになるんでわ？と思ってる。&lt;/p&gt;</description></item><item><title>Hello</title><link>https://miyazawakai.com/blog/hello/</link><pubDate>Mon, 02 Feb 2026 02:53:02 +0900</pubDate><guid>https://miyazawakai.com/blog/hello/</guid><description/></item></channel></rss>
+&lt;h1 id="全体コピペ用"&gt;全体コピペ用
+&lt;/h1&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;1.&lt;/span&gt; やりたいこと100を作成しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;2.&lt;/span&gt; やりたいこと100を公開してみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;3.&lt;/span&gt; Duolingo English TestでScore100を取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;4.&lt;/span&gt; Duolingoで最高ランクに到達しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;5.&lt;/span&gt; Langakuの無料チケット分で5冊読もう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;6.&lt;/span&gt; 10個の主体から賃金を受け取ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;7.&lt;/span&gt; タイミーでお金を稼いでみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;8.&lt;/span&gt; フードデリバリーでお金を稼いでみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;9.&lt;/span&gt; 治験を受けてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;10.&lt;/span&gt; おてつたびしてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;11.&lt;/span&gt; 中部地方の日本海側の県に行ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;12.&lt;/span&gt; 離島に行こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;13.&lt;/span&gt; 名前だけで選んだ町に泊まろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;14.&lt;/span&gt; 寝台特急に乗ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;15.&lt;/span&gt; アジアの国を2泊3日一人旅しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;16.&lt;/span&gt; 現地の屋台飯を食って下痢ってゲロ吐こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;17.&lt;/span&gt; 世界遺産に行こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;18.&lt;/span&gt; ネットなし/書誌情報だけで国内旅行しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;19.&lt;/span&gt; 競馬場に行こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;20.&lt;/span&gt; 競輪場に行こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;21.&lt;/span&gt; 競艇場に行こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;22.&lt;/span&gt; せっかく丙午だし、推しの競走馬を作ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;23.&lt;/span&gt; せっかく丙午だし、子育てについて調べてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;24.&lt;/span&gt; 山手線一周の車窓を楽しもう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;25.&lt;/span&gt; 山手線一周を歩こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;26.&lt;/span&gt; 皇居を散歩しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;27.&lt;/span&gt; 芸人の単独ライブを観に行ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;28.&lt;/span&gt; バレエを観に行ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;29.&lt;/span&gt; 宝塚を観に行ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;30.&lt;/span&gt; 裁判傍聴してみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;31.&lt;/span&gt; 新居周辺のカフェを5つ発掘しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;32.&lt;/span&gt; 神保町のカレーを5店舗食べよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;33.&lt;/span&gt; 朝すき家、昼吉野家、夜松屋で、公平に牛丼1位を決める日をやろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;34.&lt;/span&gt; 純喫茶で丸一日、小説を読もう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;35.&lt;/span&gt; 名作洋画を英語音声,英日2字幕で30本観よう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;36.&lt;/span&gt; コンテンツ消費をしたらレビューを書こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;37.&lt;/span&gt; 本1冊を完全にランダムに選んで買おう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;38.&lt;/span&gt; 短編小説を書こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;39.&lt;/span&gt; 地方競馬のレースの命名権を買ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;40.&lt;/span&gt; 家系図を作ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;41.&lt;/span&gt; DaVinci Resolveを使ってVlogを作ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;42.&lt;/span&gt; CADソフトで3Dモデルをいじる一連の流れをやってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;43.&lt;/span&gt; 3Dプリンターを買おう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;44.&lt;/span&gt; 3Dプリンターでエレキチェロを作ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;45.&lt;/span&gt; エレキチェロで、クライスラー 『愛の悲しみ』を演奏しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;46.&lt;/span&gt; サンプラーを使ってDTMを作ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;47.&lt;/span&gt; 粘土造形で遊んで、造形芸術に入門しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;48.&lt;/span&gt; 新しいスポーツを始めよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;49.&lt;/span&gt; ひとりでボウリングしてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;50.&lt;/span&gt; ビリヤードにしっかり入門しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;51.&lt;/span&gt; 麻雀のルールをしっかり理解しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;52.&lt;/span&gt; 葉巻を吸ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;53.&lt;/span&gt; 1000円以上寄付しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;54.&lt;/span&gt; 1年考えてマンキンで地味ハロウィンしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;55.&lt;/span&gt; バンジージャンプしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;56.&lt;/span&gt; 髪の毛を染めてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;57.&lt;/span&gt; 年間1200km歩こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;58.&lt;/span&gt; BMI24.9以下になろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;59.&lt;/span&gt; ホワイトニングしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;60.&lt;/span&gt; 東京証券取引所の見学ツアーに行ってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;61.&lt;/span&gt; 資産10%以上入れてる銘柄で2バガーを取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;62.&lt;/span&gt; 下がったら買いたい銘柄リストを作ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;63.&lt;/span&gt; 銘柄ノートを取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;64.&lt;/span&gt; 取引メモを取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;65.&lt;/span&gt; Cryptoで+10%取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;66.&lt;/span&gt; 株でインデックスに勝とう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;67.&lt;/span&gt; 株主総会に出席してみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;68.&lt;/span&gt; 不動産競売に入札してみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;69.&lt;/span&gt; 消防整備士乙6を取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;70.&lt;/span&gt; 第二種電気工事士を取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;71.&lt;/span&gt; 証券外務員二種を取ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;72.&lt;/span&gt; CMA一次合格をしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;73.&lt;/span&gt; 保育士試験の筆記試験を受けてみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;74.&lt;/span&gt; ネタ資格を1個受験しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;75.&lt;/span&gt; 知識をObsidianに整理しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;76.&lt;/span&gt; Obsidian × Zettelkastenの土台を完成させよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;77.&lt;/span&gt; リソースをGoogleDriveに整理しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;78.&lt;/span&gt; libasmをクリアしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;79.&lt;/span&gt; Ftl_quantumをクリアしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;80.&lt;/span&gt; Tokenizerをクリアしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;81.&lt;/span&gt; 42のライフセーバーを1回して、称号を獲得しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;82.&lt;/span&gt; 個人開発で売り上げを1円あげよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;83.&lt;/span&gt; 自分用の通知botを作ろう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;84.&lt;/span&gt; ドメインの整備をしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;85.&lt;/span&gt; ドメインでのアウトプットフローを整備しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;86.&lt;/span&gt; アドベントカレンダーで記事を2本書こう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;87.&lt;/span&gt; 7種類のラム酒を飲んで1位を決めよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;88.&lt;/span&gt; 水のペットボトルを集めて、推し水を決めよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;89.&lt;/span&gt; つまんない酒は飲まないようにしよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;90.&lt;/span&gt; 自分から飲み会を企画してみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;91.&lt;/span&gt; 5個の旧交を温めよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;92.&lt;/span&gt; サウナ→水風呂→外気浴を正しくやってみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;93.&lt;/span&gt; バカ高いコーヒーを飲もう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;94.&lt;/span&gt; パクチーと向き合おう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;95.&lt;/span&gt; 自宅にアクアポニックスを構築しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;96.&lt;/span&gt; 家庭菜園で草を生やして食おう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;97.&lt;/span&gt; せいろを買って蒸し料理しよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;98.&lt;/span&gt; 街の中華料理屋の、誰も頼んで無さそうな一品を頼んでみよう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;99.&lt;/span&gt; 2026年の振り返りを行おう
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;100.&lt;/span&gt; 2027年にやりたい100を作成しよう
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>2027年にやりたいこと100</title><link>https://miyazawakai.com/blog/2027-goals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://miyazawakai.com/blog/2027-goals/</guid><description>&lt;h1 id="2027年にやりたいこと100"&gt;2027年にやりたいこと100
+&lt;/h1&gt;&lt;h3 id="1-やりたいこと100を作成しよう"&gt;1. やりたいこと100を作成しよう
+&lt;/h3&gt;&lt;h3 id="2-やりたいこと100を公開してみよう"&gt;2. やりたいこと100を公開してみよう
+&lt;/h3&gt;&lt;h3 id="3-wais-受けてみたい"&gt;3. WAIS-Ⅳ受けてみたい
+&lt;/h3&gt;&lt;h3 id="4-ヒゲ脱毛終わらす"&gt;4. ヒゲ脱毛終わらす
+&lt;/h3&gt;&lt;h3 id="5"&gt;5.
+&lt;/h3&gt;&lt;h3 id="6"&gt;6.
+&lt;/h3&gt;&lt;h3 id="7"&gt;7.
+&lt;/h3&gt;&lt;h3 id="8"&gt;8.
+&lt;/h3&gt;&lt;h3 id="9"&gt;9.
+&lt;/h3&gt;&lt;h3 id="10"&gt;10.
+&lt;/h3&gt;&lt;h3 id="11"&gt;11.
+&lt;/h3&gt;&lt;h3 id="12"&gt;12.
+&lt;/h3&gt;&lt;h3 id="13"&gt;13.
+&lt;/h3&gt;&lt;h3 id="14"&gt;14.
+&lt;/h3&gt;&lt;h3 id="15"&gt;15.
+&lt;/h3&gt;&lt;h3 id="16"&gt;16.
+&lt;/h3&gt;&lt;h3 id="17"&gt;17.
+&lt;/h3&gt;&lt;h3 id="18"&gt;18.
+&lt;/h3&gt;&lt;h3 id="19"&gt;19.
+&lt;/h3&gt;&lt;h3 id="20"&gt;20.
+&lt;/h3&gt;&lt;h3 id="21"&gt;21.
+&lt;/h3&gt;&lt;h3 id="22"&gt;22.
+&lt;/h3&gt;&lt;h3 id="23"&gt;23.
+&lt;/h3&gt;&lt;h3 id="24"&gt;24.
+&lt;/h3&gt;&lt;h3 id="25"&gt;25.
+&lt;/h3&gt;&lt;h3 id="26"&gt;26.
+&lt;/h3&gt;&lt;h3 id="27"&gt;27.
+&lt;/h3&gt;&lt;h3 id="28"&gt;28.
+&lt;/h3&gt;&lt;h3 id="29"&gt;29.
+&lt;/h3&gt;&lt;h3 id="30"&gt;30.
+&lt;/h3&gt;&lt;h3 id="31"&gt;31.
+&lt;/h3&gt;&lt;h3 id="32"&gt;32.
+&lt;/h3&gt;&lt;h3 id="33"&gt;33.
+&lt;/h3&gt;&lt;h3 id="34"&gt;34.
+&lt;/h3&gt;&lt;h3 id="35"&gt;35.
+&lt;/h3&gt;&lt;h3 id="36"&gt;36.
+&lt;/h3&gt;&lt;h3 id="37"&gt;37.
+&lt;/h3&gt;&lt;h3 id="38"&gt;38.
+&lt;/h3&gt;&lt;h3 id="39"&gt;39.
+&lt;/h3&gt;&lt;h3 id="40"&gt;40.
+&lt;/h3&gt;&lt;h3 id="41"&gt;41.
+&lt;/h3&gt;&lt;h3 id="42"&gt;42.
+&lt;/h3&gt;&lt;h3 id="43"&gt;43.
+&lt;/h3&gt;&lt;h3 id="44"&gt;44.
+&lt;/h3&gt;&lt;h3 id="45"&gt;45.
+&lt;/h3&gt;&lt;h3 id="46"&gt;46.
+&lt;/h3&gt;&lt;h3 id="47"&gt;47.
+&lt;/h3&gt;&lt;h3 id="48"&gt;48.
+&lt;/h3&gt;&lt;h3 id="49"&gt;49.
+&lt;/h3&gt;&lt;h3 id="50"&gt;50.
+&lt;/h3&gt;&lt;h3 id="51"&gt;51.
+&lt;/h3&gt;&lt;h3 id="52"&gt;52.
+&lt;/h3&gt;&lt;h3 id="53"&gt;53.
+&lt;/h3&gt;&lt;h3 id="54"&gt;54.
+&lt;/h3&gt;&lt;h3 id="55"&gt;55.
+&lt;/h3&gt;&lt;h3 id="56"&gt;56.
+&lt;/h3&gt;&lt;h3 id="57"&gt;57.
+&lt;/h3&gt;&lt;h3 id="58"&gt;58.
+&lt;/h3&gt;&lt;h3 id="59"&gt;59.
+&lt;/h3&gt;&lt;h3 id="60"&gt;60.
+&lt;/h3&gt;&lt;h3 id="61"&gt;61.
+&lt;/h3&gt;&lt;h3 id="62"&gt;62.
+&lt;/h3&gt;&lt;h3 id="63"&gt;63.
+&lt;/h3&gt;&lt;h3 id="64"&gt;64.
+&lt;/h3&gt;&lt;h3 id="65"&gt;65.
+&lt;/h3&gt;&lt;h3 id="66"&gt;66.
+&lt;/h3&gt;&lt;h3 id="67"&gt;67.
+&lt;/h3&gt;&lt;h3 id="68"&gt;68.
+&lt;/h3&gt;&lt;h3 id="69"&gt;69.
+&lt;/h3&gt;&lt;h3 id="70"&gt;70.
+&lt;/h3&gt;&lt;h3 id="71"&gt;71.
+&lt;/h3&gt;&lt;h3 id="72"&gt;72.
+&lt;/h3&gt;&lt;h3 id="73"&gt;73.
+&lt;/h3&gt;&lt;h3 id="74"&gt;74.
+&lt;/h3&gt;&lt;h3 id="75"&gt;75.
+&lt;/h3&gt;&lt;h3 id="76"&gt;76.
+&lt;/h3&gt;&lt;h3 id="77"&gt;77.
+&lt;/h3&gt;&lt;h3 id="78"&gt;78.
+&lt;/h3&gt;&lt;h3 id="79"&gt;79.
+&lt;/h3&gt;&lt;h3 id="80"&gt;80.
+&lt;/h3&gt;&lt;h3 id="81"&gt;81.
+&lt;/h3&gt;&lt;h3 id="82"&gt;82.
+&lt;/h3&gt;&lt;h3 id="83"&gt;83.
+&lt;/h3&gt;&lt;h3 id="84"&gt;84.
+&lt;/h3&gt;&lt;h3 id="85"&gt;85.
+&lt;/h3&gt;&lt;h3 id="86"&gt;86.
+&lt;/h3&gt;&lt;h3 id="87"&gt;87.
+&lt;/h3&gt;&lt;h3 id="88"&gt;88.
+&lt;/h3&gt;&lt;h3 id="89"&gt;89.
+&lt;/h3&gt;&lt;h3 id="90"&gt;90.
+&lt;/h3&gt;&lt;h3 id="91"&gt;91.
+&lt;/h3&gt;&lt;h3 id="92"&gt;92.
+&lt;/h3&gt;&lt;h3 id="93"&gt;93.
+&lt;/h3&gt;&lt;h3 id="94"&gt;94.
+&lt;/h3&gt;&lt;h3 id="95"&gt;95.
+&lt;/h3&gt;&lt;h3 id="96"&gt;96.
+&lt;/h3&gt;&lt;h3 id="97"&gt;97.
+&lt;/h3&gt;&lt;h3 id="98"&gt;98.
+&lt;/h3&gt;&lt;h3 id="99-2027年の振り返りを行おう"&gt;99. 2027年の振り返りを行おう
+&lt;/h3&gt;&lt;h3 id="100-2028年にやりたい100を作成しよう"&gt;100. 2028年にやりたい100を作成しよう
+&lt;/h3&gt;</description></item></channel></rss>
