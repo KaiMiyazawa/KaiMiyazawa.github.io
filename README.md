@@ -16,10 +16,10 @@
   * Hugo が読むコンテンツ（Markdown）
 * `content/blog/`
 
-  * テックブログ（トップや一覧の主役）
+  * 個人記録・日記・やりたいことリストなど、時系列で読ませる内容
 * `content/pages/`
 
-  * 固定ページ（About / Goals / Resume 等）
+  * 技術記事・運用メモ・固定ドキュメント
   * URL は基本 `/pages/<slug>/`
 * `static/`
 
@@ -76,12 +76,13 @@ draft: false  # 公開
 
 ---
 
-## 4. URL 設計（pages / blog）
+## 4. URL 設計（blog / pages）
 
-### 4.1 固定ページ（pages）
+### 4.1 ブログ（blog）
 
-* 置き場: `content/pages/<name>.md`
-* URL: `https://miyazawakai.com/pages/<slug>/`
+* 置き場: `content/blog/<name>.md`
+* URL: `https://miyazawakai.com/blog/<slug>/`
+* 個人記録・日記・やりたいことリストなど、時系列で読ませる内容を置く
 
 例：
 
@@ -93,10 +94,11 @@ draft: false
 ---
 ```
 
-### 4.2 ブログ（blog）
+### 4.2 固定ドキュメント（pages）
 
-* 置き場: `content/blog/<name>.md`
-* URL: `https://miyazawakai.com/blog/<slug>/`（テーマ・設定に依存）
+* 置き場: `content/pages/<name>.md`
+* URL: `https://miyazawakai.com/pages/<slug>/`
+* 技術記事・運用メモ・育てるドキュメントを置く
 
 ---
 
@@ -117,7 +119,7 @@ Obsidian の `[[Wiki Link]]` は Hugo では解釈されないことが多い。
 公開記事では Markdown リンクを使用する：
 
 ```md
-[Goals](/pages/2026-goals/)
+[Goals](/blog/2026-goals/)
 ```
 
 ---
@@ -147,6 +149,7 @@ URL を変えずに維持するため、**必ず `static/` 配下に置く**。
 ### 9.1 ページが 404 になる
 
 * `draft: false` か確認
+* `content/blog/` 配下なら URL は `/blog/...`
 * `content/pages/` 配下なら URL は `/pages/...`
 * 実際の URL は以下で確認可能：
 
@@ -170,4 +173,3 @@ git add 99_public
 git commit -m "chore: bump public submodule"
 git push
 ```
-

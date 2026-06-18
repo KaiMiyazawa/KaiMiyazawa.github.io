@@ -4,7 +4,7 @@ date: 2026-05-27T00:00:00+09:00
 tags:
   - "振り返り"
 build:
-  list: never
+  list: always
   render: always
   publishResources: true
 ---

@@ -3,6 +3,8 @@ title: "XアーカイブをCodexで分析すると、ここまで見える"
 date: 2026-03-24T12:00:00+09:00
 tags: ["X", "Twitter", "Codex", "LLM", "Data Analysis"]
 draft: false
+aliases:
+  - "/blog/analyzing-my-x-archive-with-codex/"
 ---
 
 # XアーカイブをCodexで分析すると、ここまで見える
