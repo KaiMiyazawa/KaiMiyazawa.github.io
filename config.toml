@@ -10,4 +10,4 @@ theme = "stack"
 
 [params]
   mainSections = ["blog"]
-
+  favicon = "favicon.jpg"
