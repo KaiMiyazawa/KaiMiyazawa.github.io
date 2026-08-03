@@ -1,10 +1,10 @@
 ---
-title: "2027年にやりたいこと100"
+title: 2027年にやりたいこと100
 date: 2026-06-18T00:00:00+09:00
-slug: "2027-goals"
-draft: false
+slug: 2027-goals
+draft: true
 aliases:
-  - "/pages/2027-goals/"
+  - /pages/2027-goals/
 ---
 
 # 2027年にやりたいこと100
