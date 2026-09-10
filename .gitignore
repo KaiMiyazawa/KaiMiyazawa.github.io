@@ -9,3 +9,7 @@ resources/_gen/
 # Local backups
 layouts/_backup/
 _local_backups/
+
+# OS metadata
+.DS_Store
+**/.DS_Store
