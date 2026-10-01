@@ -46,7 +46,7 @@ Obsidian/
 ├── 03_hobby
 ├── 04_misc
 ├── 79_template     # Obsidian用テンプレ集
-├── 89_profile      # GitHub Profile（submodule）
+├── 89_profile      # 対外プロフィール（中の github-profile/ が GitHub Profile の submodule）
 ├── 99_public       # 公開サイト（submodule/Hugo）
 └── ...
 ```
@@ -191,6 +191,28 @@ resources/_gen/
 > **個人ブログとしては完成形にかなり近い**
 
 と感じている。
+
+---
+
+## 追記（2026-10）: 非公開ノートへのリンクは、公開時に文字だけにする
+
+公開記事からも、Vault 側の非公開ノートへリンクを張りたくなる。
+Obsidian のグラフではそのほうが繋がりが見えるが、公開サイトではリンク先が存在しないので壊れたリンクになる。
+
+そこで Hugo の render hook（`layouts/_markup/render-link.html`）でテーマのリンク出力を上書きし、
+**`../` で始まるリンク（リポジトリの外を指すもの）だけ `<a>` を出さずに文字として描画**するようにした。
+
+```go-html-template
+{{- if strings.HasPrefix .Destination "../" -}}
+{{- .Text | safeHTML -}}
+{{- else -}}
+<a class="link" href="{{ .Destination | safeURL }}">{{ .Text | safeHTML }}</a>
+{{- end -}}
+```
+
+GitHub Actions のビルド手順は変えずに済む。
+ただしリポジトリ自体は public なので、**リンク先のパス（ファイル名）は GitHub 上で見える**。
+名前だけで中身が想像できるノートへは張らない、というルールで運用している。
 
 ---
 
