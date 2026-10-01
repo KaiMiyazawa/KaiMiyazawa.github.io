@@ -1,0 +1,12 @@
+{{- /*
+  保管庫（Obsidian）側のノートへのリンクは、公開サイトでは文字だけにする。
+  `../` で始まるリンクはこのリポジトリの外（保管庫本体）を指すので、<a> を出さない。
+  それ以外はテーマ（themes/stack/layouts/_markup/render-link.html）と同じ出力。
+*/ -}}
+{{- if strings.HasPrefix .Destination "../" -}}
+{{- .Text | safeHTML -}}
+{{- else -}}
+<a class="link" href="{{ .Destination | safeURL }}" {{ with .Title}} title="{{ . }}"
+    {{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"
+    {{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}
