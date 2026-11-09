@@ -13,6 +13,7 @@ aliases:
 - [x] 食洗機
 - [x] ロボット掃除機
 - [ ] [身軽なリュック](https://tyo2l.com/ThinPack20/)
+- [ ] モニターライト
 
 # 入りたいサブスク
 - SAMANSA
