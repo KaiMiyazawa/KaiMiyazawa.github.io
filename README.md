@@ -63,6 +63,8 @@ git push
 * `public/` を `gh-pages` ブランチへ配置
 * GitHub Pages が配信
 
+ビルドは最新の Hugo で走る（`.github/workflows/deploy.yml` の `hugo-version: latest`）。Hugo 0.170.0（2026-11-13）で extended 版が無くなり、Sass の変換は Dart Sass だけになったので、ワークフローで Dart Sass を入れている（2026-11-15。入れないと `toCSS` が「no Dart Sass binary found」で落ちる）。新しい Hugo で落ちたときは、版を固定せず、サイトの側を新しい版に合わせて直す。テーマ stack（v4.0.0-beta.5 の次のコミット）は Hugo と Dart Sass の非推奨の警告を出している。
+
 ---
 
 ## 3. 下書き管理（draft）
