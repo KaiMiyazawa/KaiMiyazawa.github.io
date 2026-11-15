@@ -15,6 +15,11 @@ aliases:
 - [ ] [身軽なリュック](https://tyo2l.com/ThinPack20/)
 - [ ] モニターライト
 
+# なんか頑張ったら買う
+- [ ] [散歩録グッズ](https://nanasuke.theshop.jp/items/all)
+- [ ] [けれけれステッカー](https://kerekere.official.ec/)
+- [ ] [攻殻機動隊グッズ](https://online.parco.jp/shop/e/e32779961/)
+
 # 入りたいサブスク
 - SAMANSA
 - ASIAN Documentaries
