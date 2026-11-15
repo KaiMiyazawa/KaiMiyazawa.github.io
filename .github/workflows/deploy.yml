@@ -21,7 +21,17 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true
+
+      # Hugo 0.170.0 で extended 版（LibSass）が廃止され、Sass の変換は Dart Sass だけになった
+      - name: Install Dart Sass
+        env:
+          DART_SASS_VERSION: 1.108.2
+        run: |
+          curl -sSfL -o dart-sass.tar.gz "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          mkdir -p "${HOME}/.local"
+          tar -C "${HOME}/.local" -xf dart-sass.tar.gz
+          rm dart-sass.tar.gz
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
 
       - name: Build
         run: hugo --minify

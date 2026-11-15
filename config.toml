@@ -1,5 +1,5 @@
 baseURL = "https://miyazawakai.com/"
-languageCode = "ja"
+locale = "ja"
 title = "miyazawakai.com"
 theme = "stack"
 
