@@ -171,6 +171,12 @@ Obsidian のグラフでは繋がり、サイトでは壊れたリンクにな�
 
 URL を変えずに維持するため、**必ず `static/` 配下に置く**。
 
+これらの単独の HTML には、アクセス解析（下）を入れない（アプリのプライバシーポリシーの記述と矛盾しうるため）。
+
+### アクセス解析
+
+Cloudflare Web Analytics（Cookie なし）のビーコンを `layouts/_partials/footer/custom.html` に置いている（テーマ stack の差し込み口で、`footer/include.html` から全ページで1回呼ばれる）。テーマ本体は書き換えない。`static/` の単独 HTML と、Hugo が作る転送用のページ（alias）には入らない。
+
 ---
 
 ## 8. 重要ファイル
