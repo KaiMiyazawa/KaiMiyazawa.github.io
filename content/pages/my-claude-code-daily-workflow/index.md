@@ -352,3 +352,7 @@ mod は Claude Code の中で、ファイル・コマンド・ネットワーク
 - <https://github.com/KaiMiyazawa/obsidian-ai-knowledge-lake>
 
 `agent-tooling/` に道具一式、`knowledge-lake-kit/` に保管庫の器（AI に読ませる指示ファイルやフォルダ構成）が入っている。自分の環境に合わせて書き換えて使ってほしい。
+
+## 追記（2026-11）
+
+SessionStart の mcp_tool フックが使えなくなったので、agents の一覧は mod tasks-pane が最初に取ってセッションの文脈に足すようにした。朝のダイジェストは、Codex では Calendar が取れなかったので 2026-11-06 に Claude（claude -p、Sonnet）へ戻した。
